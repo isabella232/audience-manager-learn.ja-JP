@@ -1,0 +1,27 @@
+---
+title: 再利用時の利便性を考慮したData Explorerでの検索の保存
+description: このビデオでは、Data Explorerで検索を設定し、実行して、後で再利用できるように保存する方法を学びます。 また、ダッシュボードに保存済みの検索結果を配置して、シグナルアプリに移動したときにすぐに使用できるようにすることもできます。
+feature: data explorer
+topics: null
+audience: all
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1763
+translation-type: tm+mt
+source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+workflow-type: tm+mt
+source-wordcount: '127'
+ht-degree: 0%
+
+---
+
+
+# 再利用時 [!DNL Data Explorer] の利便性を考慮した検索の保存 {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+
+このビデオでは、で検索を設定し、実行して、後で再利用できるように保存する方法につ [!DNL Data Explorer]いて説明します。 ダッシュボードに保存済みの検索結果を配置して、アプリに移動したときにすぐに利用できるようにすることもでき [!UICONTROL Signals] ます。
+
+>[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
+
+詳細については、ドキュメ [!DNL Data Explorer]ントを参照して [ください](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。

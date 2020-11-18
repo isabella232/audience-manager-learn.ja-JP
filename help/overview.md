@@ -8,7 +8,7 @@ activity: use
 doc-type: overview
 team: Technical Marketing
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 7e062f0d54cefa280f7c708850d5831808d7a3d0
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 3%
@@ -28,17 +28,14 @@ Audience ManagerTutorialsサイトへようこそ。  これらのチュート�
 
 * **[の概要 [!UICONTROL Profile Merge Rules] （ビデオ）](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
-   <br>
    *何 [!UICONTROL Profile Merge Rules] が何で、どのように機能し、マーケティング担当者に対する価値を理解します。*
 
 * **[[!UICONTROL Profile Merge Rule]例と使用例](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   <br>
    *このビデオでは、の例とその意味、 [!UICONTROL Profile Merge Rules] および解決する使用例を確認 [!UICONTROL Profile Merge Rules] します。*
 
 * **[作成と設定[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   <br>
    *Audience ManagerUIでのを設定する方法 [!DNL People-Based Destination] を説明します。*
 
 ## スタッフの選考

@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager チュートリアル
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: af695bf5ffdb5abb16292f9de4682c132c55250b
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '725'
 ht-degree: 7%
 
 ---
@@ -126,6 +126,9 @@ ht-degree: 7%
       + [人ベースの宛先の作成と設定](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
       + [LinkedInの人ベースの宛先についてと設定](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
       + [Google顧客の一致を人ベースの宛先と見なし、設定する](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
++ レポート {#reports}
+   + [特性とセグメントを伴う一般レポートの使用](reports/using-general-reports-with-traits-and-segments.md)
+   + [特性とセグメントでのトレンドレポートの使用](reports/using-trended-reports-with-traits-and-segments.md)
 + その他の統合 {#other-integrations}
    + Ad Cloudとの統合 {#integrating-with-ad-cloud}
       + [Adobe Advertising CloudとAdobe Audience Managerの統合](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)

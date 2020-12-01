@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# ハッシュ化されたPIIデータ取り込みについて [!UICONTROL People-Based Destinations]
+# [!UICONTROL People-Based Destinations]のハッシュ化されたPIIデータ取り込みについて
 
-このビデオでは、PIIをAudience Managerに取り込む準備ができたら、考慮する必要のある事柄について説明 [!UICONTROL People-Based Destinations]します。
+このビデオでは、[!UICONTROL People-Based Destinations]のAudience ManagerにPIIを取り込む準備ができたら、考慮する必要のある事柄について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)

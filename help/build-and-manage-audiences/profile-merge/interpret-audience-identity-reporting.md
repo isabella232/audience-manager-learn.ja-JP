@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 解釈 [!DNL Audience Identity Reporting]
+# [!DNL Audience Identity Reporting]を解釈
 
-[!DNL Audience Identity Reporting] 顧客は、IDの合計訪問者数、または個人/家族の定義別の訪問者数 [!UICONTROL trait] をレポートでき [!UICONTROL segment] ます。 このビデオを見て、Audience Managerレポートでの表示を確認してください。
+[!DNL Audience Identity Reporting] 顧客は、IDの合計訪問者数、 [!UICONTROL trait] または個人/家族の定義に [!UICONTROL segment] 基づくレポートを作成できます。このビデオを見て、Audience Managerレポートでの表示を確認してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)

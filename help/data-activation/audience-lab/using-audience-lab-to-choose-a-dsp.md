@@ -17,21 +17,21 @@ ht-degree: 0%
 ---
 
 
-# を使用 [!UICONTROL Audience Lab] したDSPの選択 {#using-audience-lab-to-choose-a-dsp}
+# [!UICONTROL Audience Lab]を使用したDSPの選択{#using-audience-lab-to-choose-a-dsp}
 
-このビデオでは、 [!UICONTROL Audience Lab] テストの作成について説明します。A/BテストDSPや他のAAMを使用して、広告費収益率が最も高いの [!UICONTROL destinations] はどれかを確認できます。
+このビデオでは、A/BテストDSPや他のAAM [!UICONTROL destinations]を使用して、広告費収益率(ROS)を最も高めるのはどれかを調べるために、[!UICONTROL Audience Lab]テストの作成について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
 
-テストの作成は簡単で、上のビデオで示すように、数分で完了できます。 [!UICONTROL Audience Lab] インターフェイスの手順を実行しながら、次の設定を行います。
+[!UICONTROL Audience Lab]テストの作成は簡単で、上のビデオで示す数分で完了できます。 インターフェイスの手順を実行しながら、次の設定を行います。
 
-1. テストを作成し、名前を付け [!UICONTROL Audience Lab] ます。
-1. いずれかの「 [!UICONTROL segments] 」を選択します。「[!UICONTROL base segment]」は、DSPで分割 [!UICONTROL segment] されるオーディエンスです。
-1. 作成するテスト [!UICONTROL segments] の数を選択します(テストするDSPの数はいくつですか)。
-   * いずれかのテストをコントロール [!UICONTROL segments] として設定し [!UICONTROL segment]ます。これはどのDSPにも送信されず、DSPのオーディエンスとそれを比較できるようにします
-1. コンバージョンを選択し [!UICONTROL trait]ます。コンバージョン [!UICONTROL trait] は成功度を測定し、勝者を選択するためのものです。
-1. (DSP [!UICONTROL Destinations] など)を選択し、テストを割り当てます [!UICONTROL segments]
+1. [!UICONTROL Audience Lab]テストを作成し、名前を付けます
+1. [!UICONTROL segments]の1つを「[!UICONTROL base segment]」として選択します。これはDSPで分割されるオーディエンス[!UICONTROL segment]です。
+1. 作成するテストの数を選択します(DSPを何台テストしますか？)[!UICONTROL segments]
+   * テスト[!UICONTROL segments]の1つを制御[!UICONTROL segment]に設定します。これはどのDSPにも送信されません。これにより、DSPオーディエンスとそれを比較できます
+1. コンバージョン[!UICONTROL trait]を選択します。これは、成功を測定し、推奨結果を選択する[!UICONTROL trait]です。
+1. [!UICONTROL Destinations](DSPなど)を選択し、テスト[!UICONTROL segments]を割り当てます
 1. テストの概要を確認し、テストをアクティブ化します
-1. テストが完了したら、 [!UICONTROL Audience Lab]
+1. テストが完了したら、[!UICONTROL Audience Lab]のメインホーム画面で結果にアクセスします
 
-詳しくは、 [機能のドキュメントを参照してください](https://marketing.adobe.com/resources/help/en_US/aam/audience-lab.html)。
+詳しくは、[機能ドキュメント](https://marketing.adobe.com/resources/help/en_US/aam/audience-lab.html)を参照してください。

@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # Audience Managerの一致率インターフェイスについて
 
-このビデオでは、インター [!UICONTROL destination] フェイスに関する一致率および一致率に関連する数値の表示と説明について説明 [!DNL addressable audiences]します。
+このビデオでは、[!UICONTROL destination]インターフェイスの一覧を示し、一致率と[!DNL addressable audiences]に関連する数値について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-詳しくは、 [ドキュメントを参照してください](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html)。
+詳しくは、[ドキュメント](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html)を参照してください。

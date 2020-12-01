@@ -1,6 +1,6 @@
 ---
-title: Audience Manager [!UICONTROL Predictive Audiences] の理解
-description: このビデオでは、Audience Managerの概要、その仕組み [!UICONTROL Predictive Audiences] の詳細を示し、使用例を示します。
+title: Audience Manager内の[!UICONTROL Predictive Audiences]について
+description: このビデオでは、[!UICONTROL Predictive Audiences]のAudience Managerとその仕組みの詳細を説明し、使用例を示します。
 feature: algorithmic models
 topics: null
 audience: administrator
@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# Audience Manager [!UICONTROL Predictive Audiences] の理解
+# Audience Manager内の[!UICONTROL Predictive Audiences]について
 
-このビデオでは、Audience Managerの概要、その仕組み [!UICONTROL Predictive Audiences] の詳細を示し、使用例を示します。
+このビデオでは、[!UICONTROL Predictive Audiences]のAudience Managerとその仕組みの詳細を説明し、使用例を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33629/?quality=12)
 
-詳しくは、 [ドキュメントを参照してください](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html)。
+詳しくは、[ドキュメント](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html)を参照してください。

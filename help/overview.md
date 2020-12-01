@@ -18,11 +18,11 @@ ht-degree: 3%
 
 # 概要
 
-Audience ManagerTutorialsサイトへようこそ。  これらのチュートリアルと [ドキュメントを使用することで](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) 、Adobe Audience Managerを使用して、Adobeのクラス最高の機能を使用して任意のチャネルやデバイスでオーディエンスを作成し、アクティブにする方法をより深く理解でき [!DNL data management platform]ます。
+Audience ManagerTutorialsサイトへようこそ。  これらのチュートリアルを[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)と共に使用すると、Adobeのクラス[!DNL data management platform]で最も優れたチャネルやデバイス上でオーディエンスを作成し、アクティブにするAdobe Audience Managerの使い方を理解しやすくなります。
 
-* **Staff Picks** （スタッフが選ぶ）では、お気に入りのコンテンツの一部が強調表示されます。
-* **左のナビゲーションにあるトピックとサブトピック別にコンテンツを調べます。**
-* Use the **search** field at the top of the page if you know what you are looking for
+* **Staff** Pickshlightsはお気に入りのコンテンツをいくつか照らします。
+* **左側のナビゲーション**&#x200B;のトピックとサブトピック別にコンテンツを調べます。
+* 検索対象がわかっている場合は、ページ上部の&#x200B;**search**&#x200B;フィールドを使用します
 
 ## 最新情報
 
@@ -32,11 +32,11 @@ Audience ManagerTutorialsサイトへようこそ。  これらのチュート�
 
 * **[[!UICONTROL Profile Merge Rule]例と使用例](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   *このビデオでは、の例とその意味、 [!UICONTROL Profile Merge Rules] および解決する使用例を確認 [!UICONTROL Profile Merge Rules] します。*
+   *このビデオでは、の例 [!UICONTROL Profile Merge Rules] とその意味、および [!UICONTROL Profile Merge Rules] 解決する使用例を確認します。*
 
 * **[作成と設定[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   *Audience ManagerUIでのを設定する方法 [!DNL People-Based Destination] を説明します。*
+   *Audience ManagerUIでを設定する方法 [!DNL People-Based Destination] を説明します。*
 
 ## スタッフの選考
 

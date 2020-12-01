@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # アクティビティ使用の監視とレポート
 
-このビデオでは、表示とダウンロードのオプションを含む、を使用する方法 [!DNL Activity Usage Report]について説明します。
+このビデオでは、[!DNL Activity Usage Report]の使い方を紹介します。表示とダウンロードのオプションも含まれます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-詳しくは、 [ドキュメントを参照してください](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html)。
+詳しくは、[ドキュメント](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html)を参照してください。

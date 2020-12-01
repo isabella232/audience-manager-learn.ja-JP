@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 認証済み状態 [!UICONTROL Profile Merge Rules] でのパーソナライズの使用
+# [!UICONTROL Profile Merge Rules]を使用した認証済み状態でのパーソナライズ
 
 次のプロファイル差し込みルール設定を使用して、ログインした顧客にパーソナライズしたエクスペリエンスを提供します。
 

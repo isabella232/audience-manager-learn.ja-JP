@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# ハッシュ化されたPIIを [!UICONTROL People-Based Destinations]
+# ハッシュ化されたPIIを[!UICONTROL People-Based Destinations]に取り込む
 
-このビデオでは、顧客ID(CRM ID)とハッシュされた電子メールアドレスを結合するために、ファイルベースのID同期の形式を設定する方法を説明します。 これにより、のように、ハッシュ化された電子メールアドレスをに送信 [!UICONTROL People-Based Destinations]でき [!DNL Facebook]ます。
+このビデオでは、顧客ID(CRM ID)とハッシュされた電子メールアドレスを結合するために、ファイルベースのID同期の形式を設定する方法を説明します。 これにより、[!DNL Facebook]のように、ハッシュ化された電子メールアドレスを[!UICONTROL People-Based Destinations]に送信できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

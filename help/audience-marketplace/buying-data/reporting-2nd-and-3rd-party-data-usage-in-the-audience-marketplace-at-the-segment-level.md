@@ -17,14 +17,14 @@ ht-degree: 0%
 ---
 
 
-# レポート [!UICONTROL Second Party] と [!UICONTROL Third Party] データの使用状況( [!UICONTROL Audience Marketplace] レベル [!UICONTROL Segment] での使用) {#reporting-nd-and-rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level}
+# [!UICONTROL Segment]レベル{#reporting-nd-and-rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level}の[!UICONTROL Audience Marketplace]でのレポート[!UICONTROL Second Party]と[!UICONTROL Third Party]のデータ使用状況
 
-このビデオでは、UIの [!UICONTROL Payables] セクションに新しいレポートデータの使用方法を示し [!UICONTROL Audience Marketplace] ます。 フィードレベルのレポートの既存のプロセスに加えて、月別のインプレッションを [!UICONTROL segment] レベルで送信できるようになったので、コスト配分のオフライン計算を行う必要がありません。
+このビデオでは、[!UICONTROL Audience Marketplace] UIの[!UICONTROL Payables]セクション内にレポートデータの使用方法を示します。 フィードレベルのレポートの既存のプロセスに加えて、月別のインプレッション数を[!UICONTROL segment]レベルで送信できるようになったので、コスト配分のオフライン計算を不要にします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25522/?quality=12)
 
-このリリースでは、UIを使用したレベルのインプレッション数のレポートやバルクアップロード機能の使用を可能にする、より柔軟性と [!UICONTROL second party] 改善された [!UICONTROL third party][!UICONTROL segment] データ使用ワークフローが提供されます。
+このリリースでは、[!UICONTROL second party]と[!UICONTROL third party]のデータ使用に対して、より柔軟性と改善されたワークフローが提供され、UIを介して[!UICONTROL segment]レベルのインプレッション数をレポートしたり、バルクアップロード機能を使用したりできます。
 
-さらに、顧客がから購入 [!UICONTROL second party] または [!UICONTROL third party][!UICONTROL Audience Marketplace] データを取得した場合、コスト配分ポリシーの改善がメリットになります。 この新しいポリシーは、コストをデータプロバイダーの個別ユーザー数に基づい [!UICONTROL traits] て計算するため、 [!UICONTROL rule-based][!UICONTROL segment]その結果、より透明性が高く、公平な使用量の請求が可能になります。 請求アルゴリズムの詳細については、 [ドキュメントを参照してください](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html)。
+さらに、[!UICONTROL second party]または[!UICONTROL third party]データを[!UICONTROL Audience Marketplace]から購入したお客様は、コスト配分ポリシーを改善することでメリットが得られます。 この新しいポリシーは、[!UICONTROL rule-based] [!UICONTROL segment]の[!UICONTROL traits]の個別ユーザー数に基づいてデータプロバイダーのコストを考慮します。その結果、より透明性が高く、公平な使用量の請求が可能になります。 請求アルゴリズムの詳細については、[ドキュメント](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html)を参照してください。
 
-レポートCPMの使用に関する詳細は、 [ドキュメントを参照してください](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html)。
+レポートCPMの使用に関する詳細は、[ドキュメント](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html)を参照してください。

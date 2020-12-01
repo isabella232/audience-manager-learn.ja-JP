@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# 遡及 [!DNL Data Explorer] の作成の使用 [!UICONTROL Traits] および [!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}
+# [!DNL Data Explorer]を使用した遡及[!UICONTROL Traits]と[!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}の作成
 
-このビデオでは、遡及的なデータ(作成前のデータ [!UICONTROL traits]にバックフィル [!UICONTROL traits] データを作成する方法) [!UICONTROL trait] を説明します。 これは君の創造に大きな画期的だ [!UICONTROL trait] !
+このビデオでは、遡及的な[!UICONTROL traits]、つまり[!UICONTROL traits]を作成する前の[!UICONTROL trait]にデータをバックフィルします。 これは[!UICONTROL trait]の創造における大きな画期的です！
 
 >[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
-これまで、作成したデータは、今後 [!UICONTROL traits]収集されるデータに限られていました。 これは、多くの「念のため」、多くの「念のため」にトラフィックやデータを受け取るこ [!UICONTROL traits] とを意味していました。 これで、どのキー/値のペアがデータを受け取るかが見えるのを待ってから、を作成し、データをそのペアにバックフィル [!UICONTROL trait] でき [!UICONTROL trait]ます。 これにより、時間とエネルギーを節約でき、データを含まない分類を多数持つ代わりに、分類 [!UICONTROL trait] を緊密に保つこ [!UICONTROL traits] とができます。
+[!UICONTROL traits]を作成した時点までは、データ収集は進むだけでした。 これは、多くの[!UICONTROL traits]を「念のために」作る必要があったことを意味しています。 これで、どのキー/値のペアがデータを受け取るかが分かるのを待ってから、[!UICONTROL trait]を作成し、その[!UICONTROL trait]にデータをバックフィルできます。 これにより、時間とエネルギーを節約でき、[!UICONTROL trait]分類を緊密に保つことができます。また、データを含まない[!UICONTROL traits]を大量に持つ必要はありません。
 
-詳細については、ドキュメ [!DNL Data Explorer]ントを参照して [ください](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+[!DNL Data Explorer]の詳細については、[ドキュメント](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)を参照してください。

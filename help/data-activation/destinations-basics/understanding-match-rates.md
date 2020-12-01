@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-詳しくは、 [ドキュメントを参照してください](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html)。
+詳しくは、[ドキュメント](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html)を参照してください。

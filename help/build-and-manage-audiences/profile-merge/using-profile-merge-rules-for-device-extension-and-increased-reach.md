@@ -18,8 +18,8 @@ ht-degree: 0%
 ---
 
 
-# デバイス拡張機能 [!UICONTROL Profile Merge Rules] と拡張リーチの使用
+# デバイス拡張機能と拡張リーチに[!UICONTROL Profile Merge Rules]を使用
 
-ユーザーのすべてのデバイス [!UICONTROL Profile Merge Rules] にリーチを拡張するために使用します。これにより、デバイスではなくユーザーに対してマーケティングを行うことができます。
+[!UICONTROL Profile Merge Rules]を使用して、ユーザーのすべてのデバイスにアクセスを拡張し、デバイスではなくユーザーに売り込むことができるようにします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

@@ -17,9 +17,9 @@ ht-degree: 0%
 ---
 
 
-# AAMで [!UICONTROL First Party] 似た外観 [!UICONTROL Model] を作成する {#creating-a-first-party-look-alike-model-in-aam}
+# AAM {#creating-a-first-party-look-alike-model-in-aam}で[!UICONTROL First Party]類似[!UICONTROL Model]を作成する
 
-In this video you will learn how to create a [!UICONTROL first party] look-alike [!UICONTROL model], so that you can find more of your own visitors who look like your converters.
+このビデオでは、[!UICONTROL first party]類似の[!UICONTROL model]を作成する方法を学びます。これにより、コンバータに似た独自の訪問者をより多く見つけることができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 

@@ -12,17 +12,17 @@ translation-type: tm+mt
 source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
 
-# Audience Manager [!UICONTROL Destination] タイプについて
+# Audience Manager[!UICONTROL Destination]の種類について
 
-このビデオでは、Adobe Audience Managerの様々なタイプの使い方を紹介し、それぞれをいつ使用するかを例に挙げ [!UICONTROL destinations] ます。
+このビデオでは、Adobe Audience Managerの様々なタイプの[!UICONTROL destinations]を紹介し、それぞれをいつ使うか例を紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-ここから、サーバ間 [!UICONTROL destination] パートナーのリストをダウンロードでき [ます](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx)。
+サーバ間[!UICONTROL destination]パートナー[HERE](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx)のリストをダウンロードできます。
 
-詳しくは、 [ドキュメントを参照してください](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html)。
+詳しくは、[ドキュメント](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/destinations/destinations.html)を参照してください。

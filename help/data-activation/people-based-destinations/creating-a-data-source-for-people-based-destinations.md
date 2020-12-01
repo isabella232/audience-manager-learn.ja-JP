@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 用の作成 [!UICONTROL Data Source] [!UICONTROL People-Based Destinations]
+# [!UICONTROL People-Based Destinations]の[!UICONTROL Data Source]を作成する
 
-このビデオでは、使用するAudience Manager [!UICONTROL Data Source] 内のの作成手順を説明し [!UICONTROL People-Based Destinations]ます。
+このビデオでは、[!UICONTROL People-Based Destinations]に使用するAudience Managerでの[!UICONTROL Data Source]の作成について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

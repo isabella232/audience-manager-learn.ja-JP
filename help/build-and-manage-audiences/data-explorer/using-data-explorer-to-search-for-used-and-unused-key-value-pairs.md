@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# AAM [!DNL Data Explorer] で使用済みと未使用のキー/値のペアを検索するための使用 {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
+# AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}で[!DNL Data Explorer]を使用して、使用済みと未使用のキー/値のペアを検索する
 
-Audience Managerでの日々の作業では、特定のキー/値のペアからが作成されているかどうかをすばやく確認する必要がある場合があり [!UICONTROL trait] ます。 このビデオでは、を使って調べる方法を紹介 [!DNL Data Explorer]します。
+Audience Managerでの日々の作業では、特定のキー/値のペアから[!UICONTROL trait]が作成されたかどうかをすばやく調べる必要が生じる場合があります。 このビデオでは、[!DNL Data Explorer]を使って調べる方法を紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
-がに作成されたかどうかを確認するた [!UICONTROL signal] めに、フ [!UICONTROL trait]ァイルと [!DNL BAAAM][!UICONTROL Unused Signals] レポートをダウンロードする必要はありません。 これで、キーと値のペアを単に検索でき [!DNL Data Explorer]ます。例えば、 [!UICONTROL Signals] アプリ、AAMで、にあるキーと値のペアとそうでないキーと値のペアを、すべて同じリストで検索でき [!UICONTROL traits] ます。 時間を節約！
+[!UICONTROL signal]が[!UICONTROL trait]内に作成されたかどうかを調べるために、[!DNL BAAAM]ファイルと[!UICONTROL Unused Signals]レポートをダウンロードする必要はありません。 これで、[!DNL Data Explorer]、AKA the [!UICONTROL Signals] App, in AAMでそのキーと値のペアを検索し、[!UICONTROL traits]にあるキーと値のペアと、それ以外のキーと値のペアを、すべて同じリスト内で見つけることができます。 時間を節約！
 
-詳細については、ドキュメ [!DNL Data Explorer]ントを参照して [ください](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+[!DNL Data Explorer]の詳細については、[ドキュメント](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)を参照してください。

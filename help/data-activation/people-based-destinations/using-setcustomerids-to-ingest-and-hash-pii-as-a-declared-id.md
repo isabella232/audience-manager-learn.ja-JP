@@ -17,10 +17,10 @@ ht-degree: 5%
 ---
 
 
-# 宣言済みID [!DNL setCustomerIDs()] としてPIIを取り込み、ハッシュするための使用
+# [!DNL setCustomerIDs()]を使用した宣言済みIDとしての取り込みとハッシュPIIの使用
 
-このビデオでは、Experience CloudIDサービスのメソッドを使用して電子メールアドレスを取り込み、ハッシュし、宣言済みIDとして使用する理由と方法を学びます。 `setCustomerIDs()` これにより、CRM IDと電子メールアドレスが結び付けられるだけでなく、Adobe Audience ManagerのUUID（匿名デバイスID）とも同期されます。 これらのハッシュ化された電子メールアドレスは、に送信でき [!UICONTROL People-Based Destinations]ます。
+このビデオでは、Experience CloudIDサービスの`setCustomerIDs()`メソッドを使用して電子メールアドレスを取り込み、ハッシュし、宣言済みIDとして使用する理由と方法を学びます。 これにより、CRM IDと電子メールアドレスが結び付けられるだけでなく、Adobe Audience ManagerのUUID（匿名デバイスID）とも同期されます。 これらのハッシュ化された電子メールアドレスは、[!UICONTROL People-Based Destinations]に送信できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-詳しくは、 [ドキュメントを参照してください](https://docs.adobe.com/content/help/ja-JP/id-service/using/reference/hashing-support.html)。
+詳しくは、[ドキュメント](https://docs.adobe.com/content/help/ja-JP/id-service/using/reference/hashing-support.html)を参照してください。

@@ -18,10 +18,10 @@ ht-degree: 0%
 ---
 
 
-# [!DNL Trait Recommendation] 「 [!DNL Segment Builder]
+# [!DNL Trait Recommendation] 「  [!DNL Segment Builder]
 
-このビデオでは、更新されたのの使用方法を、Audience Marketplace [!DNL trait recommendations] の推奨事項に示 [!DNL segment builder]しています。 これらは、貴社のリーチを拡大できる [!DNL third party] データに関するさらなる洞察を提供し [!UICONTROL segments]ます。
+このビデオでは、更新された[!DNL trait recommendations]の使用方法を[!DNL segment builder]で確認します。これはAudience Marketplaceの推奨事項です。 これらは、[!UICONTROL segments]の範囲を拡大できる[!DNL third party]データに関するさらなる洞察を提供します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-詳しくは、 [ドキュメントを参照してください](https://docs.adobe.com/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html)。
+詳しくは、[ドキュメント](https://docs.adobe.com/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html)を参照してください。

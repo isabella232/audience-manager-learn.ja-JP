@@ -17,12 +17,12 @@ ht-degree: 27%
 ---
 
 
-# Using [!DNL Data Explorer] to Validate [!UICONTROL Trait] Creation for Your Onboarded Data {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
+# [!DNL Data Explorer]を使用した[!UICONTROL Trait]オンボードデータの作成の検証{#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
 
-Audience Manager の最も強力な機能の 1 つは、オフラインデータをオンボーディングし、オンラインデータと結び付ける機能です。In this video, learn how to use [!DNL Data Explorer] to validate that you have created all the necessary [!UICONTROL traits] to leverage this onboarded data.
+Audience Manager の最も強力な機能の 1 つは、オフラインデータをオンボーディングし、オンラインデータと結び付ける機能です。このビデオでは、[!DNL Data Explorer]を使用して、このオンボードデータを活用するために必要なすべての[!UICONTROL traits]が作成されたことを検証する方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25149/?quality=12)
 
-多くの場合、実際にデータに搭載する前に、オンボードしたデータ [!UICONTROL traits] 用に作成しています。 ただし、新しいキーや値が追加される可能性があり、この大きなデータを活用する必要のあるすべての [!UICONTROL traits] 作成済みの値がなくなる可能性があります。 クイック検索 [!DNL Data Explorer]を実行して、オンボードされたすべてのデータを表示し、特定のデータでフィルターしたり、キーや値にフィルターし [!UICONTROL Data Source]たりできます。 これにより、データを効率的に検証できます。
+多くの場合、実際にデータを搭載する前に、オンボードしたデータ用に[!UICONTROL traits]を作成します。 しかし、新しいキーや値が追加される可能性があり、[!UICONTROL traits]の全てが作成されたので、この大きなデータを活用する必要がなくなるかもしれません。 [!DNL Data Explorer]を使うと、すべてのオンボードデータを表示し、特定の[!UICONTROL Data Source]でフィルタしたり、キーや値にフィルタしたりできます。 これにより、データを効率的に検証できます。
 
-詳細については、ドキュメント [!DNL Data Explorer]を参照 [してください](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+[!DNL Data Explorer]の詳細については、[ドキュメント](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)を参照してください。

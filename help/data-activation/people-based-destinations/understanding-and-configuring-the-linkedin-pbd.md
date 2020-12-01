@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# の概要と設定 [!DNL LinkedIn] [!UICONTROL People-Based Destination]
+# [!DNL LinkedIn] [!UICONTROL People-Based Destination]の理解と設定
 
-このビデオでは、toを作成するための概念と手順について説明 [!UICONTROL People-Based Destination] し [!DNL LinkedIn]ます。 これは、に関する追加のビデオおよびドキュメントに基づいて構築され [!UICONTROL People-Based Destinations]ます。
+このビデオでは、[!UICONTROL People-Based Destination] ～ [!DNL LinkedIn]を作成するための概念と手順について説明します。 [!UICONTROL People-Based Destinations]に関する追加のビデオやドキュメントに基づいて構築されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-詳しくは、 [ドキュメントを参照してください](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)。
+詳しくは、[ドキュメント](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)を参照してください。
 
-また、 [!UICONTROL People-Based Destinations] ここに関する追加ビデオもご覧いただけ [ます](https://adobe.ly/aamlearnpbd)。
+また、[!UICONTROL People-Based Destinations] [HERE](https://adobe.ly/aamlearnpbd)に関する追加のビデオを見ることもできます。

@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 概要 [!UICONTROL Profile Merge Rules]
+# [!UICONTROL Profile Merge Rules]の概要
 
-何 [!UICONTROL Profile Merge Rules] が何で、どのように機能し、マーケティング担当者に対する価値を理解します。
+[!UICONTROL Profile Merge Rules]とは何か、その働き方、その価値をマーケティング担当者に理解してもらえます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)

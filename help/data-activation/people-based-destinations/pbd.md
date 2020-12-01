@@ -19,9 +19,9 @@ ht-degree: 14%
 
 # [!UICONTROL People-Based Destinations] ビデオとTutorials
 
-[!UICONTROL People-Based Destinations] では、オンラインとオフラインのデータにセグメント化を適用し、電子メールアドレスや電話番号などのハッシュ化された識別子に基づいてオーディエンスセグメントを作成できます。次に、これらのセグメントを [!DNL Facebook] またはなどのソーシャルプラットフォームに送信し、オーディエンスのターゲットを行うこ [!DNL LinkedIn]とができます。
+[!UICONTROL People-Based Destinations] では、オンラインとオフラインのデータにセグメント化を適用し、電子メールアドレスや電話番号などのハッシュ化された識別子に基づいてオーディエンスセグメントを作成できます。次に、これらのセグメントを[!DNL Facebook]や[!DNL LinkedIn]などのソーシャルプラットフォームに送信し、オーディエンスのターゲットを行うことができます。
 
-この節では、に関するトピックのビデオとチュートリアルを紹介 [!UICONTROL People-Based Destinations]します。 設定の流れ/プロセスを進めながら、次の順序で目的に合わせて一覧表示されていま [!UICONTROL People-Based Destinations]す。
+このセクションには、[!UICONTROL People-Based Destinations]に関するトピックのビデオとチュートリアルが含まれています。 [!UICONTROL People-Based Destinations]の設定の流れ/プロセスを進めながら、目的に合わせて次の順に並べられています。
 
 * [人ベースの宛先データフロー](people-based-destinations-data-flow.md)
 * [人ベースの宛先用のデータソースの作成](creating-a-data-source-for-people-based-destinations.md)
@@ -33,4 +33,4 @@ ht-degree: 14%
 * [人ベースの宛先の作成と設定](create-and-configure-people-based-destinations.md)
 * [LinkedInの人ベースの宛先についてと設定](understanding-and-configuring-the-linkedin-pbd.md)
 
-これらのビデオは、 [ドキュメントと組み合わせて使用できます](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)。
+これらのビデオは[ドキュメント](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)と組み合わせて使用できます。

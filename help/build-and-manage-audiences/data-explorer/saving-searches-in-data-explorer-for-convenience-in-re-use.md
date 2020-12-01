@@ -18,10 +18,10 @@ ht-degree: 0%
 ---
 
 
-# 再利用時 [!DNL Data Explorer] の利便性を考慮した検索の保存 {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# [!DNL Data Explorer]で検索を保存し、再利用の利便性を考慮{#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-このビデオでは、で検索を設定し、実行して、後で再利用できるように保存する方法につ [!DNL Data Explorer]いて説明します。 ダッシュボードに保存済みの検索結果を配置して、アプリに移動したときにすぐに利用できるようにすることもでき [!UICONTROL Signals] ます。
+このビデオでは、[!DNL Data Explorer]で検索を設定し、実行して、後で再利用できるように保存する方法を学びます。 また、ダッシュボードに保存済みの検索結果を配置して、[!UICONTROL Signals]アプリに移動したときにすぐに利用できるようにすることもできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-詳細については、ドキュメ [!DNL Data Explorer]ントを参照して [ください](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+[!DNL Data Explorer]の詳細については、[ドキュメント](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)を参照してください。

@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # ルールに基づく特性の作成
 
-Audience ManagerUIのを使用してルールベースの特性を作成し、リアルタイムアクティビティをAudience Managerプロファイルに取り込む方法について説明します。 [!UICONTROL Trait Builder]
+Audience ManagerUIの[!UICONTROL Trait Builder]を使用してルールベースの特性を作成し、Audience Managerプロファイルにリアルタイムアクティビティを取り込む方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)

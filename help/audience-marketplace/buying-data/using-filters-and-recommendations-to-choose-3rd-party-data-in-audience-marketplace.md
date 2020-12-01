@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# フィルターとRecommendationsを使用した [!UICONTROL Third Party] データの選択 [!UICONTROL Audience Marketplace]
+# フィルターとRecommendationsを使用した[!UICONTROL Audience Marketplace]内の[!UICONTROL Third Party]データの選択
 
-このビデオでは、のフィルターとレコメンデーションのオプションについて説明し、ニーズ [!UICONTROL Audience Marketplace] に合った適切な [!UICONTROL third party] データプロバイダーを選択するのに役立ちます。
+このビデオでは、[!UICONTROL Audience Marketplace]のフィルターとレコメンデーションに関するオプションを順を追って説明し、必要に応じて適切な[!UICONTROL third party]データプロバイダーを選択するのに役立ちます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-詳しくは、 [ドキュメントを参照してください](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html)。
+詳しくは、[ドキュメント](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html)を参照してください。

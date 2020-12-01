@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 機能 [!UICONTROL Profile Merge Rule] 強化の影響 [!UICONTROL Segmentation]、アクティベーション、レポート
+# [!UICONTROL Profile Merge Rule]拡張機能が[!UICONTROL Segmentation]、アクティベーション、レポートに与える影響
 
-Audience ManagerUIの合計と訪問者数に対する [!UICONTROL Profile Merge Rule] 拡張の影響について説明 [!UICONTROL Trait][!UICONTROL Segment] します。
+[!UICONTROL Profile Merge Rule]拡張機能がAudience ManagerUIの合計[!UICONTROL Trait]および[!UICONTROL Segment]母集団に与える影響を理解しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)

@@ -17,15 +17,15 @@ ht-degree: 0%
 ---
 
 
-# アルゴリズム [!UICONTROL Traits] での除外（「類似」） [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
+# アルゴリズム（類似）に[!UICONTROL Traits]を除外[!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
 
-このビデオでは、アルゴリズム（類似）から特定の（またはグループ）を除外する方法 [!UICONTROL traits] と理由を学び [!UICONTROL Model]ます。
+このビデオでは、アルゴリズム(Look-Alike) [!UICONTROL Model]から特定の（またはグループの）[!UICONTROL traits]を除外する方法とその理由を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
 
 この機能の使用例を次に示します。
 
-* サイト訪問者の [!UICONTROL traits] 偏り [!UICONTROL traits][!UICONTROL model] など、品質に優れたオーディエンスを見つけるのに役に立たない傾向が非常に一般的です。 顧客は、新しいレポートに共通のものを個別に作成して保存する必要はなくなりましたが、こ [!UICONTROL data source][!UICONTROL traits][!UICONTROL data source]れらを除外できるようになりました。
-* 現在では、のすべての情報ではなく、単なる行動上の関心 [!UICONTROL traits] な [!UICONTROL third party]ど、のサブセットを使用する方法があり [!UICONTROL model]ます。 [!UICONTROL Third parties] 通常、顧客にとって役に立たない可能性のある多くのデータを送信します。 場合によっては、モデリングで法的な観点からすべてのデータを使用できないことがあります。 これで、に含めない [!UICONTROL traits] またはのフォルダ [!UICONTROL traits] ーを除外でき [!UICONTROL model]ます。
+* サイト訪問者[!UICONTROL traits]のように非常に一般的な[!UICONTROL traits]は、品質の良い類似オーディエンスを見つけるのに役に立たない[!UICONTROL model]にバイアスをかけます。 お客様は、個別の[!UICONTROL data source]を作成して、共通の[!UICONTROL traits]を新しい[!UICONTROL data source]に格納する必要はなくなりましたが、単に除外できるようになりました。
+* [!UICONTROL model]内のすべての情報ではなく、単なる行動上の関心など、[!UICONTROL third party]内の[!UICONTROL traits]のサブセットを使用する方法が現在あります。 [!UICONTROL Third parties] 通常、顧客にとって役に立たない可能性のある多くのデータを送信します。場合によっては、モデリングで法的な観点からすべてのデータを使用できないことがあります。 これで、[!UICONTROL model]に含めたくない[!UICONTROL traits]または[!UICONTROL traits]のフォルダーを除外できます。
 
-この機能について詳しくは、ドキュメントを参照してくだ [さい](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html)。
+この機能について詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html)を参照してください。

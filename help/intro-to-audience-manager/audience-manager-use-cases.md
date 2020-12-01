@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-詳しくは、 [ドキュメントを参照してください](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)。
+詳しくは、[ドキュメント](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)を参照してください。

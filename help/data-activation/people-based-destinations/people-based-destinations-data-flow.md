@@ -19,6 +19,6 @@ ht-degree: 5%
 
 # [!UICONTROL People-Based Destinations] データフロー
 
-このビデオでは、プロセスのデータフローの概要 [!UICONTROL People-Based Destinations] と概要を説明します。
+このビデオでは、[!UICONTROL People-Based Destinations]の概要と、プロセスのデータフローを示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)

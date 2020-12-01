@@ -19,9 +19,9 @@ ht-degree: 6%
 
 # [!UICONTROL Profile Merge]  — ビデオとTutorials
 
-With [!UICONTROL Profile Merge Rules] you get control over the data sets used for [!UICONTROL segmentation] and can target a person accurately across multiple devices.
+[!UICONTROL Profile Merge Rules]を使うと、[!UICONTROL segmentation]に使うデータセットを制御でき、複数のデバイスで人を正確にターゲットできます。
 
-この節では、次のビデオについて説明し [!UICONTROL Profile Merge Rules]ます。
+この節では、[!UICONTROL Profile Merge Rules]の次のビデオを紹介します。
 
 * [プロファイル結合ルールの概要](overview-of-profile-merge-rules.md)
 * [プロファイルマージルールの例と使用例](profile-merge-rule-examples-and-use-cases.md)
@@ -34,4 +34,4 @@ With [!UICONTROL Profile Merge Rules] you get control over the data sets used fo
 * [オーディエンスIDレポートの解釈](interpret-audience-identity-reporting.md)
 * [Audience Manager内のデバイス間指標について](understanding-cross-device-metrics-in-audience-manager.md)
 
-これらのビデオは、 [ドキュメントと組み合わせて使用できます](https://docs.adobe.com/help/ja-JP/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+これらのビデオは[ドキュメント](https://docs.adobe.com/help/ja-JP/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)と組み合わせて使用できます

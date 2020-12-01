@@ -18,14 +18,14 @@ ht-degree: 0%
 ---
 
 
-# Audience Manager [!UICONTROL Traits] でのコンバージョンの作成 {#creating-conversion-traits-in-audience-manager}
+# Audience Manager{#creating-conversion-traits-in-audience-manager}にコンバージョン[!UICONTROL Traits]を作成しています
 
-一部の訪問者 [!UICONTROL traits] は、サイトのコンバージョンに基づいています。 このビデオでは、分類を分類する方法と、非常に重要なヒント/了解事項を学習します。
+[!UICONTROL traits]の一部は、サイトでのコンバージョンに基づいています。 このビデオでは、分類を分類する方法と、非常に重要なヒント/了解事項を学習します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-サイト上で人々に何をしてもらおうとしているか。 コンバージョンイベントは何ですか。 もちろん、サイトのタイプ/業種や組織の目標に応じて、この質問に対する答えは多く異なります。 いずれにせよ、AAMでは、この条件を満たす訪問者 [!UICONTROL traits] 用にを作成するのが一般的です。
+サイト上で人々に何をしてもらおうとしているか。 コンバージョンイベントは何ですか。 もちろん、サイトのタイプ/業種や組織の目標に応じて、この質問に対する答えは多く異なります。 いずれにせよ、AAMでは、条件を満たした訪問者用に[!UICONTROL traits]を作成するのが一般的です。
 
-AAMには、特にで使用する場合に、自分を「 [!UICONTROL trait] 」とマークでき [!UICONTROL conversion] るフィールドがあり [!UICONTROL trait][!UICONTROL Audience Lab]ます。
+AAMには、[!UICONTROL trait]を[!UICONTROL conversion] [!UICONTROL trait]としてマークするフィールドがあります。特に、[!UICONTROL Audience Lab]で使用します。
 
-また、イベントを使用して作成する場合 [!UICONTROL traits]は、に必要な数より多くのユーザーを収集しないように、主な了解事項に留意する必要があり [!UICONTROL trait]ます。 このビデオで大きなリビールを見てください。:)
+また、イベントを使って[!UICONTROL traits]を作成する際には、主な了解事項を考慮する必要があります。その結果、収集するユーザ数が[!UICONTROL trait]よりも多くなることはありません。 このビデオで大きなリビールを見てください。:)

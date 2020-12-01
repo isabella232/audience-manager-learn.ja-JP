@@ -1,6 +1,6 @@
 ---
-title: Audience Managerでの設定とレポート [!UICONTROL Predictive Audiences] の作成
-description: このビデオでは、Audience Managerインターフェイスの [!UICONTROL Predictive Audiences] 設定について説明します。 モデルの結果を示すレポートも表示されます。
+title: Audience Managerの[!UICONTROL Predictive Audiences]の設定とレポート
+description: このビデオでは、Audience Managerインターフェイスの[!UICONTROL Predictive Audiences]設定について説明します。 モデルの結果を示すレポートも表示されます。
 feature: algorithmic models
 topics: null
 audience: administrator
@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# Audience Managerでの設定とレポート [!UICONTROL Predictive Audiences] の作成
+# Audience Managerの[!UICONTROL Predictive Audiences]の設定とレポート
 
-このビデオでは、Audience Managerインターフェイスの [!UICONTROL Predictive Audiences] 設定について説明します。 モデルの結果を示すレポートも表示されます。
+このビデオでは、Audience Managerインターフェイスの[!UICONTROL Predictive Audiences]設定について説明します。 モデルの結果を示すレポートも表示されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
-詳しくは、 [ドキュメントを参照してください](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html)。
+詳しくは、[ドキュメント](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html)を参照してください。

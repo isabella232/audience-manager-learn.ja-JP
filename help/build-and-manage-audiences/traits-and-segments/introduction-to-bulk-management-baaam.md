@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # バルク管理(BAAM)の概要
 
-Audience Manager [!UICONTROL Bulk Management] ツール（一般に「BAAM」と呼ばれる）について説明します。 REST APIを使用して特性とセグメントを作成、編集および削除できるように、認証方法を参照してください。
+Audience Manager[!UICONTROL Bulk Management]ツール（一般に「BAAM」と呼ばれる）について説明します。 REST APIを使用して特性とセグメントを作成、編集および削除できるように、認証方法を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)

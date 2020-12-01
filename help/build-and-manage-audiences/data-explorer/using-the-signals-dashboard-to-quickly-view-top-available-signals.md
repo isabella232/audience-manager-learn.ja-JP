@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# ダッシュボードを使用して表示トップをすばやく表示 [!UICONTROL Signals] [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
+# [!UICONTROL Signals]ダッシュボードを使用して利用可能なトップ表示をすばやく確認する[!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
 
-の [!UICONTROL Signals][!DNL Data Explorer]ダッシュボードに組み込みテーブルとカスタムテーブルを使用すると、Audience Managerに入ってくる最新のデータをすばやく確認でき、必要に応じてクリックスルーして特性を作成できます。 より効率的な新しいワークフローへようこそ。
+[!DNL Data Explorer]の[!UICONTROL Signals]ダッシュボードの組み込みおよびカスタムテーブルを使用すると、Audience Managerに入ってくる最新のデータをすばやく確認し、必要に応じてクリックスルーして特性を作成できます。 より効率的な新しいワークフローへようこそ。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
 
-クリックスルー [!DNL Data Explorer]( [!UICONTROL Signals] アプリ)を実行すると、上部と新しいダッシュボードのデフォルト [!UICONTROL signals] が表示され [!UICONTROL signals]ます。 これら2つのデフォルトに加えて、検索を保存してダッシュボードに追加できるので、最も重要なデータを機能の最前面ページにすばやく表示できます。
+[!DNL Data Explorer]、[!UICONTROL Signals]アプリにクリックスルーすると、[!UICONTROL signals]の上部と新しい[!UICONTROL signals]のデフォルトダッシュボードが表示されます。 これら2つのデフォルトに加えて、検索を保存してダッシュボードに追加できるので、最も重要なデータを機能の最前面ページにすばやく表示できます。
 
-詳細については、ドキュメ [!DNL Data Explorer]ントを参照して [ください](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+[!DNL Data Explorer]の詳細については、[ドキュメント](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)を参照してください。

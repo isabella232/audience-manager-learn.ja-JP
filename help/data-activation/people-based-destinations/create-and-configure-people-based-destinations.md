@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 作成と設定 [!UICONTROL People-based Destinations]
+# [!UICONTROL People-based Destinations]の作成と設定
 
-このビデオでは、最初に、 [!DNL People-Based Destination][!UICONTROL Integrated Account][!DNL Facebook])をクリックします。 その後、製品内での設定に関する手順を説明 [!UICONTROL destination] します。
+このビデオでは、まず[!DNL People-Based Destination]を作成するための前提条件についての情報を提供し、次に[!UICONTROL Integrated Account]を設定する方法(例えば、パートナーにリンクする[!DNL Facebook])。 次に[!UICONTROL destination]自体の製品内設定を順を追って説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

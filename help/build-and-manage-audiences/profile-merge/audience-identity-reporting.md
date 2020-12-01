@@ -19,6 +19,6 @@ ht-degree: 1%
 
 # [!DNL Audience Identity]レポート 
 
-[!DNL Audience Identity] レポートは、IDの合計訪問者数、または個人/家族の定義別にレポートす [!UICONTROL trait] る機能 [!UICONTROL segment] を提供します。 このビデオを見て、Audience Managerレポートでの表示を確認してください。
+[!DNL Audience Identity] レポートは、IDの合計訪問者数、 [!UICONTROL trait] または個人/家族の定義別の訪問者数 [!UICONTROL segment] をレポートする機能を提供します。このビデオを見て、Audience Managerレポートでの表示を確認してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

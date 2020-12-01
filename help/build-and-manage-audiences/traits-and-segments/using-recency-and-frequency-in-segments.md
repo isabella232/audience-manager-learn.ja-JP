@@ -18,8 +18,8 @@ ht-degree: 0%
 ---
 
 
-# セグメント [!UICONTROL Recency] でのおよび [!UICONTROL Frequency] の使用
+# セグメントでの[!UICONTROL Recency]と[!UICONTROL Frequency]の使用
 
-特性 [!UICONTROL Recency][!UICONTROL Frequency] に対して特定の期間内に訪問者が何回資格を得る必要があるかについて、およびを使用してセグメントパラメーターを指定します。 コンテンツのアフィニティや周波数制限の使用例などに最適です。
+[!UICONTROL Recency]と[!UICONTROL Frequency]を使用して、特定の訪問者が特定の特性に対して何回資格を得る必要があるかをセグメントパラメーターに指定します。 コンテンツのアフィニティや周波数制限の使用例などに最適です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)

@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager チュートリアル
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: af695bf5ffdb5abb16292f9de4682c132c55250b
+source-git-commit: 6e933376127eb1e5fdb2e28c4761e2423f1f9813
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '733'
 ht-degree: 7%
 
 ---
@@ -28,6 +28,8 @@ ht-degree: 7%
 + セットアップと管理{#setup-and-admin}
    + データソース {#data-sources}
       + [Analyticsデータ用のデータソースの作成](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+   + ユーザー管理 {#user-management}
+      + [ロールベースのアクセス制御を使用した権限の設定](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + データ・ガバナンスとプライバシー{#data-governance-and-privacy}
       + [グローバルデバイス ID の検証](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [IAB TCF 2.0のサポート](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
@@ -86,7 +88,7 @@ ht-degree: 7%
       + [セグメントグラフの数値について](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [お客様向けヒント — 特徴とセグメントのベストプラクティス](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + アルゴリズムモデル {#algorithmic-models}
-      + [理解  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [について [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
       + [設定とレポート  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [ファーストパーティの類似モデルの作成](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [アルゴリズム（「類似」）モデルでの特性の除外](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
@@ -114,7 +116,7 @@ ht-degree: 7%
    + Audience Lab {#audience-lab}
       + [オーディエンスラボを使用したDSPの選択](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
       + [コンバージョン特性の作成](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
-   + ピープルベースの宛先 {#people-based-destinations}
+   + People-Based Destinations {#people-based-destinations}
       + [人ベースの目的地のビデオおよびTutorials](data-activation/people-based-destinations/pbd.md)
       + [人ベースの宛先データフロー](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
       + [人ベースの宛先用のデータソースの作成](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)

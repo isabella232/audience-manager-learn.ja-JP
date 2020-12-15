@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager チュートリアル
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 6e933376127eb1e5fdb2e28c4761e2423f1f9813
+source-git-commit: 468ebd3e9056e946b3b54c9e312214558fb881b8
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '743'
 ht-degree: 7%
 
 ---
@@ -70,6 +70,7 @@ ht-degree: 7%
       + [オンボード特徴の作成](build-and-manage-audiences/traits-and-segments/creating-onboarded-traits.md)
       + [コンバージョン特性の作成](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
       + [特性の作成時のデータソースの選択](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.md)
+      + [特性有効期限と有効期限(TTL)設定の設定](build-and-manage-audiences/traits-and-segments/configuring-trait-expiration-with-the-time-to-live-ttl-setting.md)
       + [コード表示を使用した特性の作成と編集](build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.md)
       + [バルク管理(BAAM)の概要](build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.md)
       + [セグメント作成の基本事項](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)

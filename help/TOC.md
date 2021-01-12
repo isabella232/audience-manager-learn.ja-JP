@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager チュートリアル
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 468ebd3e9056e946b3b54c9e312214558fb881b8
+source-git-commit: cfd8290b82fd877ea582400291184f9897be92a3
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '765'
 ht-degree: 7%
 
 ---
@@ -114,6 +114,7 @@ ht-degree: 7%
       + [Audience Manager宛先タイプについて](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [一致率について](data-activation/destinations-basics/understanding-match-rates.md)
       + [一致率インターフェイスについて](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
+      + [データ・エクスポート・ラベルを使用したデータ・フローの制御](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [オーディエンスラボを使用したDSPの選択](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
       + [コンバージョン特性の作成](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
@@ -132,6 +133,8 @@ ht-degree: 7%
 + レポート {#reports}
    + [特性とセグメントを伴う一般レポートの使用](reports/using-general-reports-with-traits-and-segments.md)
    + [特性とセグメントでのトレンドレポートの使用](reports/using-trended-reports-with-traits-and-segments.md)
+   + [重複レポートを使用する関連オーディエンスについて](reports/understand-related-audiences-with-overlap-reports.md)
+   + [Audience Optimizationレポートを使用したメディアのパフォーマンスの把握](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + その他の統合{#other-integrations}
    + Ad Cloudとの統合{#integrating-with-ad-cloud}
       + [Adobe Advertising CloudとAdobe Audience Managerの統合](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)

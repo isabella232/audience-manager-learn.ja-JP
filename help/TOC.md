@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager チュートリアル
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 18b3c68cbb1c00abe087ea0deaa940c67d7ebb97
+source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '781'
 ht-degree: 7%
 
 ---
@@ -83,6 +83,7 @@ ht-degree: 7%
       + [セグメントビルダーの特性レコメンデーションの強化](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
       + [セグメントでの最新性と頻度の使用](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
       + [セグメント作成時のコード表示の使用](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
+      + [Adobe AnalyticsからAudience Managerへのセグメントのインポート](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
       + [顧客への広告を抑制するセグメントの構築](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
       + [Audience Managerセグメントの宛先へのマッピング](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
       + [デバイスベースの宛先へのセグメントのマッピング](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)

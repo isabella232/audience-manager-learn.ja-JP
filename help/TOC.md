@@ -5,10 +5,10 @@ breadcrumb-title: Audience Manager チュートリアル
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
+source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
 workflow-type: tm+mt
-source-wordcount: '781'
-ht-degree: 7%
+source-wordcount: '802'
+ht-degree: 6%
 
 ---
 
@@ -28,6 +28,7 @@ ht-degree: 7%
 + セットアップと管理{#setup-and-admin}
    + データソース {#data-sources}
       + [Analyticsデータ用のデータソースの作成](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+      + [クロスデバイスデータソースの作成と認証](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
    + ユーザー管理 {#user-management}
       + [ロールベースのアクセス制御を使用した権限の設定](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + データ・ガバナンスとプライバシー{#data-governance-and-privacy}
@@ -46,6 +47,9 @@ ht-degree: 7%
    + [タグマネージャーを使用したAudience Managerの実装](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [パートナーIDまたはサブドメインの識別方法](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [SPAページでのベストプラクティスの使用](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
++ オフラインデータの統合{#integrating-offline-data}
+   + [ファイルベースのデータの形式設定と取り込み](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
+   + [ファイルベースのデータを取り込む手順](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + モバイル実装{#mobile-implementation}
    + [iOS Swiftアプリでの実装](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
    + [iOS Objective-Cアプリでの実装](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)

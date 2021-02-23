@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager チュートリアル
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
+source-git-commit: 68e5ab7aec35619af29ed075bef872d9db2da178
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '849'
 ht-degree: 6%
 
 ---
@@ -59,6 +59,8 @@ ht-degree: 6%
       + [セグメントレベルでのレポートにおける第2および第3者のデータのAudience Marketplace使用](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [データ使用状況をAudience Marketplaceに一括アップロード](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [フィルターとRecommendationsを使用したAudience Marketplaceでのサードパーティデータの選択](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+   + 販売データ{#selling-data}
+      + [Marketplaceで所有するオーディエンスを商業化する](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + オーディエンスの構築と管理{#build-and-manage-audiences}
    + データエクスプローラ {#data-explorer}
       + [信号ダッシュボードを使用して、使用可能な信号の上位をすばやく表示する](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
@@ -142,6 +144,10 @@ ht-degree: 6%
    + [重複レポートを使用する関連オーディエンスについて](reports/understand-related-audiences-with-overlap-reports.md)
    + [Audience Optimizationレポートを使用したメディアのパフォーマンスの把握](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + その他の統合{#other-integrations}
+   + リアルタイム顧客データプラットフォームとの統合{#integrating-with-rtcdp}
+      + [Adobe Audience Managerデータコネクタを使用したデータの取り込み](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [リアルタイムCDPでのファーストパーティデータ取り込みについて](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
+      + [リアルタイムCDPでのWebデータ取り込みの理解](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
    + Ad Cloudとの統合{#integrating-with-ad-cloud}
       + [Adobe Advertising CloudとAdobe Audience Managerの統合](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}

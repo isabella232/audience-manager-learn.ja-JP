@@ -1,17 +1,18 @@
 ---
 title: アルゴリズム（「類似」）モデルでの特性の除外
 description: 'このビデオでは、アルゴリズム（類似）モデルから特定の（または特性のグループ）を除外する方法と理由を学びます。 '
-feature: algorithmic models
+feature: アルゴリズムモデル
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25569.jpg
 kt: 1759
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---

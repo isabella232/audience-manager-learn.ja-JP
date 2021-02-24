@@ -1,17 +1,18 @@
 ---
 title: Audience Managerでアルゴリズム（類似）モデルを使用してROASを増やす
 description: Audience Managerの「そっくりなモデリング」の本領は、第2者および第3者のデータソースから新しい品質のユーザー群に対して、ベースラインオーディエンスを拡大しようとするときに生まれます。 このチュートリアルでは、このデータからモデルを作成する手順を学習します。
-feature: algorithmic models
+feature: アルゴリズムモデル
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25188.jpg
 kt: 1849
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
@@ -33,7 +34,7 @@ Audience Managerの「みなさん[!UICONTROL Modeling]」の本当の力は、[
 
 サイト上で人々に何をしてもらおうとしているか。 コンバージョンイベントは何ですか。 もちろん、サイトのタイプ/業種や組織の目標に応じて、この質問に対する答えは多く異なります。 いずれにせよ、AAMでは、これらの条件を満たした訪問者用に[!UICONTROL trait]を作成するのが一般的です。
 
-次のビデオでは、コンバージョン[!UICONTROL trait]の作成方法を紹介します。このチュートリアルを進めながら、類似した[!UICONTROL model]を作成する際に使用したいコンバージョン&lt;a0/>を作成します。
+次のビデオでは、コンバージョン[!UICONTROL trait]の作成方法を紹介します。このチュートリアルを進めながら、類似した[!UICONTROL model]を作成する際に使用したいコンバージョンを作成します。
 
 また、Adobe Analyticsイベントを使って[!UICONTROL traits]を作成する際には、主な了解事項があるので、[!UICONTROL trait]より多くのユーザーを収集しないように注意する必要があります。 次のビデオで大きなリビールを確認してください。:)
 

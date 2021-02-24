@@ -1,17 +1,18 @@
 ---
 title: 類似モデルを使用したファーストパーティデータからの売り切れ在庫の拡張
 description: このチュートリアルでは、「類似モデル」を設定して使用するために必要な手順を順を追って説明します。これにより、類似した新しいオーディエンスを作成し、コンバージョンセグメントの拡張として販売できます。
-feature: algorithmic models
+feature: アルゴリズムモデル
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23523.jpg
 kt: 1688
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '827'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # 「そっくり[!UICONTROL Models]」を使って[!UICONTROL First Party]データから売り切れ在庫を拡張する{#using-look-alike-models-to-extend-sold-out-inventory-from-your-st-party-data}
 
-このチュートリアルでは、「類似オーディエンス」を設定して使用する際に必要な手順を説明します。これにより、新しい類似画像を作成し、コンバージョン[!UICONTROL Models]の拡張として販売できます。[!UICONTROL segment]
+このチュートリアルでは、「類似オーディエンス」を設定して使用する際に必要な手順を説明します。これにより、新しい類似画像を作成し、コンバージョン[!UICONTROL segment]の拡張として販売できます。[!UICONTROL Models]
 
 ## 使用事例の詳細{#use-case-details}
 

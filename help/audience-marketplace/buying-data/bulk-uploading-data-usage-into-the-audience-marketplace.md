@@ -1,17 +1,18 @@
 ---
 title: データ使用状況をAudience Marketplaceに一括アップロード
 description: 'Audience Marketplaceでのセカンドパーティおよびサードパーティのデータの使用状況を報告する際、手作業でデータを送信したくないよう十分なエントリが存在する可能性があります。 このビデオでは、データ使用レポートバルクアップロードツールの使用方法を学習します。これにより、更新する項目が多数ある場合でも、データの使用状況を簡単にレポートできます。 '
-feature: audience marketplace
+feature: オーディエンス市場
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25521.jpg
 kt: 1782
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---

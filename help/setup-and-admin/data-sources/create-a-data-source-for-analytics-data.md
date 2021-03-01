@@ -1,8 +1,8 @@
 ---
 title: Analyticsデータ用のデータソースの作成
 description: このビデオでは、AAM でデータソースを作成する際の手順（ヒントやテクニックを含む）について説明します。このデータソースは、Adobe Analytics などの分析ソリューションからリアルタイムで取り込まれるデータに使用できます。これは、分析データの特性を作成する前に実行する必要があります。
-landing-page-description: Learn to create a Data Source for data coming in live from an analytics solution, like Adobe Analytics. Do this prior to creating traits for the analytics data.
-feature: data sources
+landing-page-description: Adobe Analytics などの分析ソリューションで実稼働中のデータのデータソースを作成する方法を説明します。分析データの特性を作成する前に、この操作を行います。
+feature: データソース
 topics: null
 audience: all
 activity: use
@@ -12,8 +12,8 @@ kt: 2928
 translation-type: tm+mt
 source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 38%
+source-wordcount: '151'
+ht-degree: 49%
 
 ---
 

@@ -1,17 +1,18 @@
 ---
 title: ビデオとTutorialsの結合のプロファイル
 description: この節では、プロファイル結合ルールなど、プロファイル結合機能のビデオとチュートリアルを紹介します。
-feature: profile merge
+feature: プロファイルの結合
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 中間
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '150'
 ht-degree: 6%
 
 ---

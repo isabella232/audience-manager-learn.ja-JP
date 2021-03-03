@@ -3,17 +3,19 @@ title: Audience Managerユーザー向けのリアルタイムCDPでのWebデー
 description: このビデオでは、Audience ManagerユーザーがWebサイトデータをReal-time Customer Data Platform(Real-time CDP)に取り込む方法、およびAudience Managerデータコネクタの適合箇所に関する高度なタッチ、Web SDKを介してWebサイトからReal-time CDPにデータを直接移動する方法を示します。
 feature: プラットフォーム統合
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331752.jpg
 kt: 7153
+topic: 統合
+role: 開業医
+level: 中間
 translation-type: tm+mt
-source-git-commit: 3d4e02bf43874c35f508a5b204775c0a3ceee21b
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 3%
+source-wordcount: '218'
+ht-degree: 4%
 
 ---
 

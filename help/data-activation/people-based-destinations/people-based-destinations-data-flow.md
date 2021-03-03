@@ -1,19 +1,20 @@
 ---
 title: 人ベースの宛先データフロー
 description: このビデオでは、人ベースの宛先の概要と、プロセス内のデータフローを示します。
-feature: people-based destinations
+feature: 「人々が利用する目的地」
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28968.jpg
 kt: 3683
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 5%
+source-wordcount: '49'
+ht-degree: 4%
 
 ---
 

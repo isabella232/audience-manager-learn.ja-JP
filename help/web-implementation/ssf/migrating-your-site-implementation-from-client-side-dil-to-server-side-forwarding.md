@@ -2,17 +2,18 @@
 title: クライアント側DILからサーバー側転送へのサイト実装の移行
 description: このチュートリアルは、Adobe Audience Manager(AAM)とAdobe Analyticsの両方をお持ちで、現在、「DIL」(Data Integration Library)コードを使用してページからAAMにヒットを送信し、ページからのヒットをAdobe Analyticsに送信している場合に適用されます。 これらのソリューションは両方あり、両方ともAdobe Experience Cloudの一部なので、「サーバー側転送(SSF)」を有効にするベストプラクティスに従います。これにより、Analyticsデータ収集サーバーは、クライアント側コードでページからAAMにヒットを送信する代わりに、リアルタイムでサイト解析データをAudience Managerに転送できます。 このチュートリアルでは、古い「クライアント側DIL」から新しい「サーバ側転送」への切り替え手順を説明します。
 product: audience manager, analytics
-feature: integration with analytics
+feature: Adobe Analytics との統合
 topics: null
-audience: implementer
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
+role: 「開発者、データ・エンジニア」
+level: 中間
 translation-type: tm+mt
-source-git-commit: 133279f589bd58aef36a980c2b7248ae00fd9496
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '2319'
+source-wordcount: '2326'
 ht-degree: 0%
 
 ---
@@ -62,7 +63,7 @@ AAM実装の[!UICONTROL Server-Side Forwarding]メソッドに移行すること
 
 * Adobe Experience Platform Launch- Webプロパティの推奨される実装オプション。 [!DNL Launch]が全ての難しい作業を行ったので、これは非常に簡単なタスクだと分かるでしょう。
 * ページ —Adobe起動を使用していない（まだ使用していない）場合は、新しいSSFコードを[!DNL appMeasurement.js]ファイル内の`doPlugins`関数に直接配置することもできます。
-* 他のタグマネージャー — これらは、`doPlugins`内の他のタグマネージャーが[!DNL AppMeasurement]コードを保存している場合、常に&lt;a0/>にSSFコードを入れるので、前の（ページ上の）オプションと同じように扱えます。
+* 他のタグマネージャー — これらは、`doPlugins`内の他のタグマネージャーが[!DNL AppMeasurement]コードを保存している場合、常ににSSFコードを入れるので、前の（ページ上の）オプションと同じように扱えます。
 
 「コードの更新」セクションで以下の各項目を確認します。
 
@@ -72,7 +73,7 @@ AAM実装の[!UICONTROL Server-Side Forwarding]メソッドに移行すること
 
 [!UICONTROL Server-Side Forwarding]に移行する主な前提条件は、Experience CloudIDサービスを実装することです。 これは、Experience Platform Launchを使用している場合に最も簡単に行えます。この場合は、ECID拡張をインストールするだけで、その他の作業も行えます。
 
-Adobe以外のTMSを使用している場合、またはTMSをまったく使用していない場合は、他のAdobeソリューション&#x200B;**の前に&lt;a0/>を実行するようにECIDを実装してください。**&#x200B;詳しくは、[ECIDドキュメント](https://marketing.adobe.com/resources/help/ja_JP/mcvid/)を参照してください。 その他の前提条件はコードバージョンに関するものです。以下の手順で最新のバージョンのコードを適用するだけなので、問題ありません。
+Adobe以外のTMSを使用している場合、またはTMSをまったく使用していない場合は、他のAdobeソリューション&#x200B;**の前に**&#x200B;を実行するようにECIDを実装してください。 詳しくは、[ECIDドキュメント](https://marketing.adobe.com/resources/help/ja_JP/mcvid/)を参照してください。 その他の前提条件はコードバージョンに関するものです。以下の手順で最新のバージョンのコードを適用するだけなので、問題ありません。
 
 >[!NOTE]
 >

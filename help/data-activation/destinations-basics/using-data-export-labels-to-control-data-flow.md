@@ -1,19 +1,20 @@
 ---
 title: データ・エクスポート・ラベルを使用したデータ・フローの制御
 description: データの書き出しラベルには、様々なデータタイプ/ソースのフローを制御するメカニズムがAudience Managerされているので、プライバシー要件を満たすことができます。 データエクスポートコントロールとデータエクスポートラベルを設定する方法と場所を、この点と連携させて説明します。
-feature: data export controls
+feature: データ書き出しコントロール
 topics: null
-audience: marketer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330322.jpg
 kt: 6836
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 20d832f8f25e7a56b800c36e1e0e70eb51956de0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 2%
 
 ---
 

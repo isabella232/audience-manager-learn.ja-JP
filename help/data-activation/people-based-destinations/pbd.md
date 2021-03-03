@@ -1,17 +1,18 @@
 ---
 title: 人ベースの目的地のビデオおよびTutorials
 description: この節では、人物ベースの宛先に関するトピックのビデオおよびチュートリアルを紹介します。
-feature: people-based destinations
+feature: 「人々が利用する目的地」
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5207
+role: 管理者
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 235db3648b84db272cf68b863cf1df7b6d14ee92
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '177'
 ht-degree: 14%
 
 ---

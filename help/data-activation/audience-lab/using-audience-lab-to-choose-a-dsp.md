@@ -1,18 +1,19 @@
 ---
 title: オーディエンスラボを使用したDSPの選択
 description: このビデオでは、オーディエンスラボテストの作成について説明します。これにより、A/BテストDSPや他のAAMの目的地で、広告費収益率が最も高いのはどの目的地かを確認できます。
-feature: audience lab
+feature: Audience Lab
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24923.jpg
 kt: 1552
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 中間
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---

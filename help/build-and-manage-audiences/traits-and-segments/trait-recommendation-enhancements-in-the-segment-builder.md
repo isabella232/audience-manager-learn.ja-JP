@@ -1,18 +1,19 @@
 ---
 title: セグメントビルダーの特性レコメンデーションの強化
 description: このビデオでは、更新された特性のレコメンデーションの使用方法について、Audience Marketplaceのレコメンデーションであるセグメントビルダーで説明します。 これらの指標により、セグメントの範囲を広げることができるサードパーティデータに関するさらなる洞察を得ることができます。
-feature: segments
+feature: セグメント
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29363.jpg
 kt: 3937
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 4988e9eb900e5dfd6e0a69a25509186d26dceffb
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---

@@ -1,18 +1,19 @@
 ---
 title: プロファイルマージルールの例と使用例
 description: このビデオでは、プロファイルの結合ルールの例とその意味、およびプロファイルの結合ルールが解決する使用例を確認します。
-feature: プロファイル結合
+feature: プロファイルの結合
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28975.jpg
 kt: 3709
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---

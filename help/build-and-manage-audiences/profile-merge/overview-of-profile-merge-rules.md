@@ -1,18 +1,19 @@
 ---
 title: プロファイル結合ルールの概要
 description: プロファイルの結合ルールとは何か、その仕組みおよびマーケティング担当者への価値を理解します。
-feature: プロファイル結合
+feature: プロファイルの結合
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28974.jpg
 kt: 3708
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 中間
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---

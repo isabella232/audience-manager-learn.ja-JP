@@ -1,18 +1,19 @@
 ---
 title: ファイルベースのデータを取り込む手順
 description: このビデオでは、オフラインデータをAudience Managerに搭載する際に考慮する必要がある、データファイルのファイル名要件など、いくつかの手順について説明します。
-feature: onboarding offline data
+feature: オフラインデータのオンボーディング
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331008.jpg
 kt: 7027
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: b6ce5148bfbc9062948eef3402da309d06a97d3e
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---

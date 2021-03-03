@@ -1,18 +1,19 @@
 ---
 title: セグメントレベルでのレポートにおける第2および第3者のデータのAudience Marketplace使用
 description: このビデオでは、Audience MarketplaceUIのPayablesセクションにレポートデータの新しい使用方法を示します。 フィードレベルのレポートの既存のプロセスに加えて、月別のインプレッションをセグメントレベルで送信できるようになったので、コスト配分のオフライン計算を行う必要がありません。
-feature: オーディエンス市場
+feature: Audience Marketplace
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25522.jpg
 kt: 1758
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 中間
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---

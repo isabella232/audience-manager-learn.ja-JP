@@ -3,16 +3,17 @@ title: Audience Managerでアルゴリズム（類似）モデルを使用して
 description: Audience Managerの「そっくりなモデリング」の本領は、第2者および第3者のデータソースから新しい品質のユーザー群に対して、ベースラインオーディエンスを拡大しようとするときに生まれます。 このチュートリアルでは、このデータからモデルを作成する手順を学習します。
 feature: アルゴリズムモデル
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25188.jpg
 kt: 1849
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 中間
 translation-type: tm+mt
-source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '873'
 ht-degree: 0%
 
 ---

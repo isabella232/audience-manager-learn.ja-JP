@@ -1,19 +1,20 @@
 ---
 title: Audience Managerの一致率インターフェイスについて
 description: このビデオでは、宛先インターフェイスに関する一致率およびアドレス指定可能なオーディエンスに関連する数値の表示と説明を行います。
-feature: match rates
+feature: マッチ率
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 2%
 
 ---
 

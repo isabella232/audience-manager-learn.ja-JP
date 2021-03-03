@@ -1,19 +1,20 @@
 ---
 title: Audience Managerの使用例
 description: このビデオでは、4つの一般的なAudience Managerの使用例を特定し、それらに関連するベストプラクティスを説明します。
-feature: overview
+feature: 概要
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5145
 thumbnail: 33975.jpg
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: c257df634f156a7067683749fbe178081bce7e75
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 

@@ -1,19 +1,20 @@
 ---
 title: 重複レポートを使用する関連オーディエンスについて
 description: 重複レポートを使用すると、特性オーディエンスとセグメント訪問者が相互にどのように重なり合うか（複数の特性またはセグメントで同じ）を確認できるので、コンバージョンを増やしたり、リーチの拡大に焦点を当てたりできます。
-feature: overlap reports
+feature: Overlap Reports
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330432.jpg
 kt: 6839
+role: 開業医
+level: 中間
 translation-type: tm+mt
-source-git-commit: 20d832f8f25e7a56b800c36e1e0e70eb51956de0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '115'
+ht-degree: 1%
 
 ---
 

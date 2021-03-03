@@ -3,16 +3,17 @@ title: 類似モデルを使用したファーストパーティデータから�
 description: このチュートリアルでは、「類似モデル」を設定して使用するために必要な手順を順を追って説明します。これにより、類似した新しいオーディエンスを作成し、コンバージョンセグメントの拡張として販売できます。
 feature: アルゴリズムモデル
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 中間
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '838'
 ht-degree: 0%
 
 ---

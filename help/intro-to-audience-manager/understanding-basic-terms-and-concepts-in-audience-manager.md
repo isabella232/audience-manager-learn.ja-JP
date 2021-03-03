@@ -4,17 +4,18 @@ description: このビデオでは、シグナル、特性、セグメントな�
 landing-page-description: シグナル、特性、セグメントなど、Audience Manager を開始するためにの基本的な用語と概念について説明します。
 feature: 概要
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5037
 thumbnail: 33887.jpg
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 81%
+source-wordcount: '101'
+ht-degree: 73%
 
 ---
 

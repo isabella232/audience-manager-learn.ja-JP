@@ -1,19 +1,20 @@
 ---
 title: 特性の作成時のデータソースの選択
 description: 特性の作成時に入力する重要なフィールドの1つは、「データソース」フィールドです。 ルールベースの特性とオンボードの特性に適したデータソースの選択に関するヒントを紹介します。
-feature: traits
+feature: 特性
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 326660.jpg
 kt: 6442
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 66d67fb8089b99155387c34a792063f41387bdaf
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 0%
+source-wordcount: '76'
+ht-degree: 1%
 
 ---
 

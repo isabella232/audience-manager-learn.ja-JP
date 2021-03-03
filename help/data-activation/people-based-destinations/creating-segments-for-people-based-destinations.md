@@ -1,18 +1,19 @@
 ---
 title: Adobe Audience Managerでの訪問者ベースの宛先用のセグメントの作成
 description: このビデオでは、人物ベースの宛先に使用するAudience Managerでのセグメントの作成に関する手順を説明します。
-feature: people-based destinations
+feature: 「人々が利用する目的地」
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29236.jpg
 kt: 3690
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---

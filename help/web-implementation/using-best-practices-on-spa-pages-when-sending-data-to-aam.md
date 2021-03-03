@@ -1,17 +1,19 @@
 ---
 title: AAMにデータを送信する際のSPAページでのベストプラクティスの使用
 description: このドキュメントでは、シングルページアプリ(SPA)からAdobe Audience Manager(AAM)にデータを送信する際に従い、注意が必要なベストプラクティスをいくつか説明します。 このドキュメントでは、Launch by Adobeの使用に重点を置いています。これは、推奨される実装方法です。
-feature: implementation basics
+feature: 導入の基本
 topics: spa
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1390
+topic: SPA
+role: 「開発者、データ・エンジニア」
+level: 経験豊富な
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -24,7 +26,7 @@ ht-degree: 0%
 ## 初期メモ
 
 * 以下の項目は、[!DNL Platform Launch]を使用してサイトに実装していることを前提としています。 [!DNL Platform Launch]を使用しない場合も、考慮事項は存在しますが、実装方法に合わせる必要があります。
-* すべてのSPAは異なるので、お客様のニーズに最も合うように次の項目を調整する必要がある場合がありますが、ベストプラクティスをお客様と共有したいと思います。spaページからAudience Managerにデータを送信する際に考慮する必要があること。
+* すべてのSPAは異なるので、お客様のニーズに最も合うように次の項目を調整する必要がある場合がありますが、ベストプラクティスをお客様と共有したいと思います。SPAページからAudience Managerにデータを送信する際に考慮する必要があること。
 
 ## Experience Platform Launch{#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}でのSPAとAAMの操作の簡単な図
 
@@ -40,7 +42,7 @@ ht-degree: 0%
 * JavaScriptカスタムイベントの設定(例[HERE](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)をAdobe Analyticsと共に参照)
 * [!UICONTROL Direct Call Rule]を使用
 
-このAudience Managerの例では、[!DNL Launch]の[!UICONTROL Direct Call rule]を使用して、Audience Managerにヒットをトリガーします。 次の節で見るように、これは[!UICONTROL Data Layer]を新しい値に設定して[!DNL Platform Launch]の[!UICONTROL Data Element]で取り出せるようにすると、本当に役立ちます。
+このAudience Managerの例では、[!DNL Launch]の[!UICONTROL Direct Call rule]を使用して、Audience Managerに入るヒットをトリガーします。 次の節で見るように、これは[!UICONTROL Data Layer]を新しい値に設定して[!DNL Platform Launch]の[!UICONTROL Data Element]で取り出せるようにすると、本当に役立ちます。
 
 ## デモページ{#demo-page}
 
@@ -59,7 +61,7 @@ SPAページで行うように、[!DNL data layer]内の値を変更し、AAMに
 
 ## その他のリソース{#additional-resources}
 
-* [ADOBEフォーラムでのSPAの議論](https://forums.adobe.com/thread/2451022)
+* [AdobeフォーラムでのSPAの議論](https://forums.adobe.com/thread/2451022)
 * [Launch by AdobeでのSPAの実装方法を示すリファレンスアーキテクチャサイト](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
 * [Adobe AnalyticsでSPAを追跡する際のベストプラクティスの使用](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
 * [この記事で使用するデモサイト](https://aam.enablementadobe.com/SPA-Launch.html)

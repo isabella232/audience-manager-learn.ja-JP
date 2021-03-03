@@ -1,19 +1,20 @@
 ---
 title: Data Explorerを使用した遡及的特性とセグメントの作成
 description: このビデオでは、遡及的な特性（作成前の特性にデータをバックフィルする特性）の作成方法を示します。 特性創造の画期的！
-feature: data explorer
+feature: 'データエクスプローラ '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 

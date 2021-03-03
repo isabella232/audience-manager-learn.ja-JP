@@ -1,17 +1,18 @@
 ---
 title: Audience ManagerパートナーIDまたはサブドメインの識別方法
 description: 一部のExperience Cloud機能を実装する場合、Audience Managerの「パートナーID」（「クライアントID」または「サブドメイン」とも呼ばれる）が何かを知っておく必要があります。 このビデオでは、Audience ManagerUIでこのIDを取得できる場所を2つ示します。
-feature: implementation basics
+feature: 導入の基本
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
+role: 「開発者、データ・エンジニア」
+level: 中間
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---

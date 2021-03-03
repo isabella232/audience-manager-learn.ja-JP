@@ -1,19 +1,20 @@
 ---
 title: Audience Managerセグメントの宛先へのマッピング
 description: Audience Manager内の様々なタイプの宛先と、各宛先タイプにセグメントをマッピングする方法について説明します。
-feature: segments
+feature: セグメント
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39158.jpg
 kt: 6056
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: e00cf9269b6e33fddfda7e70baf79ca82f7a70ea
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 1%
 
 ---
 

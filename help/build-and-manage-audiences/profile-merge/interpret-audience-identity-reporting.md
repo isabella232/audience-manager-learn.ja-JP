@@ -1,18 +1,19 @@
 ---
 title: オーディエンスIDレポートの解釈
 description: オーディエンスIDレポートは、特性またはセグメントの合計訪問者数を、個人/家族のID定義別にレポートする機能を提供します。 このビデオを見て、Audience Managerレポートでの表示を確認してください。
-feature: プロファイル結合
+feature: プロファイルの結合
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28973.jpg
 kt: 3694
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 中間
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---

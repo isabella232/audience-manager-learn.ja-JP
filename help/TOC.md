@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager チュートリアル
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: f46f94124aeb9cec80573dec28dfd42400eb98e4
+source-git-commit: d211642f7d75f406e2c0fc12b9f82f4cea311be9
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '866'
 ht-degree: 6%
 
 ---
@@ -148,6 +148,7 @@ ht-degree: 6%
       + [Adobe Audience Managerデータコネクタを使用したデータの取り込み](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [リアルタイムCDPでのファーストパーティデータ取り込みについて](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [リアルタイムCDPでのWebデータ取り込みの理解](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
+      + [リアルタイムCDPでのスキーマとXDMの理解](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
       + [リアルタイムCDPの特徴の理解](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
       + [リアルタイムCDPでのセグメントの理解](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
    + Ad Cloudとの統合{#integrating-with-ad-cloud}

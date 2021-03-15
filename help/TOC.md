@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager チュートリアル
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: d211642f7d75f406e2c0fc12b9f82f4cea311be9
+source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '877'
 ht-degree: 6%
 
 ---
@@ -150,7 +150,9 @@ ht-degree: 6%
       + [リアルタイムCDPでのWebデータ取り込みの理解](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [リアルタイムCDPでのスキーマとXDMの理解](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
       + [リアルタイムCDPの特徴の理解](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
+      + [リアルタイムCDPでのシグナルの理解](other-integrations/integrating-with-rtcdp/rtcdp-signals-for-aam-users.md)
       + [リアルタイムCDPでのセグメントの理解](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
+      + [リアルタイムCDPでのアクセス制御の理解](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
    + Ad Cloudとの統合{#integrating-with-ad-cloud}
       + [Adobe Advertising CloudとAdobe Audience Managerの統合](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}

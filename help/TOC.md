@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager チュートリアル
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: d53ef772f62f917e3823c0c133999e9384183ee8
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '904'
 ht-degree: 6%
 
 ---
@@ -25,6 +25,10 @@ ht-degree: 6%
    + [Audience ManagerでのIDの概要](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + 値の実現{#value-realization}
       + [顧客抑制の使用事例でのROIの測定](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
++ 業界ニュースとトレンド{#industry}
+   + [データ管理の未来と変化する環境](industry/the-future-of-data-management-and-the-changing-environment.md)
+   + [責任あるお客様のデータ管理に関する10の考慮事項](industry/ten-considerations-for-responsible-customer-data-management.md)
+   + [ブランドと消費者の2つの認知の物語](industry/brands-vs-consumers.md)
 + セットアップと管理{#setup-and-admin}
    + データソース {#data-sources}
       + [Analyticsデータ用のデータソースの作成](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)

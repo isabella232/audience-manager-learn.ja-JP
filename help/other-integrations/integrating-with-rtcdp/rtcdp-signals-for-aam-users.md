@@ -3,16 +3,16 @@ title: Audience Manager・ユーザに対するリアルタイムCDPでのシグ
 description: このビデオは、Real-time Customer Data Platform(Real-time CDP)に移行するAudience Managerユーザーを対象としており、特性を構築するAudience Managerで使用するシグナル（キーと値のペア）がPlatformでどのように使用されるかを説明しています。
 feature: プラットフォーム統合
 topic: 統合
-role: 開業医
+role: 実業家、建築家、管理者、リーダー
 level: 中間
 doc-type: feature video
 thumbnail: 332092.jpg
 kt: 7305
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

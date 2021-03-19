@@ -2,19 +2,16 @@
 title: Audience Managerユーザー向けのリアルタイムCDPの特徴の理解
 description: Audience Managerからリアルタイム顧客データプラットフォームに移行する際に、概念の違いを理解すると役立ちます。 このビデオでは、Audience Managerの特徴と、Real-time CDPと同等の機能について説明します。
 feature: プラットフォーム統合
-topics: null
-activity: understand
+topic: 統合
+role: 実業家、建築家、管理者、リーダー
+level: 中間
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 331900.jpg
 kt: 7201
-topic: 統合
-role: 開業医
-level: 中間
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '175'
 ht-degree: 1%
 
 ---

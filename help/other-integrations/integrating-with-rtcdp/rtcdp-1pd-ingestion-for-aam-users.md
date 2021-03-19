@@ -2,19 +2,16 @@
 title: Audience Managerユーザー向けのリアルタイムCDPにおけるファーストパーティデータ取り込みについて
 description: このビデオでは、Adobe Audience Managerを使用しているお客様向けに、ファーストパーティのオフラインデータをReal-time Customer Data Platform(Real-time CDP)に取り込む方法を説明します。 データ取り込みに関する2つの製品の主な違いを見て、プロセスがReal-time CDPに移行するまで、Audience ManagerData Connectorを停止ギャップとしてどのように使用できるかを見てみましょう。
 feature: プラットフォーム統合
-topics: null
-activity: understand
+topic: 統合
+role: 実業家、建築家、管理者、リーダー
+level: 中間
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 331276.jpg
 kt: 7128
-topic: 統合
-role: 開業医
-level: 中間
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 1%
 
 ---

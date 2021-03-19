@@ -3,15 +3,15 @@ title: Audience Manager・ユーザー向けのリアルタイムCDPのアクセ
 description: Audience ManagerからReal-time Customer Data Platformに移行する際に、ユーザーとグループの権限が設定されている場所を知りたいと思います。 このビデオでは、アクセス制御が今Adobe Admin Consoleにいる様子を紹介します。
 feature: プラットフォーム統合
 topic: 統合
-role: 開業医
+role: 実業家、建築家、管理者、リーダー
 level: 中間
 doc-type: feature video
 thumbnail: 332091.jpg
 kt: 7304
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '139'
 ht-degree: 2%
 
 ---

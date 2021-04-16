@@ -1,23 +1,23 @@
 ---
 title: クライアント側DILからサーバー側転送へのサイト実装の移行
 description: このチュートリアルは、Adobe Audience Manager(AAM)とAdobe Analyticsの両方をお持ちで、現在、「DIL」(Data Integration Library)コードを使用してページからAAMにヒットを送信し、ページからのヒットをAdobe Analyticsに送信している場合に適用されます。 これらのソリューションは両方あり、両方ともAdobe Experience Cloudの一部なので、「サーバー側転送(SSF)」を有効にするベストプラクティスに従います。これにより、Analyticsデータ収集サーバーは、クライアント側コードでページからAAMにヒットを送信する代わりに、リアルタイムでサイト解析データをAudience Managerに転送できます。 このチュートリアルでは、古い「クライアント側DIL」から新しい「サーバ側転送」への切り替え手順を説明します。
-product: audience manager, analytics
+product: audience manager
 feature: Adobe Analytics との統合
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: 「開発者、データ・エンジニア」
-level: 中間
+role: Developer, Data Engineer
+level: Intermediate
+exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '2326'
-ht-degree: 0%
+source-wordcount: '2322'
+ht-degree: 1%
 
 ---
-
 
 # サイトのAAM導入を[!DNL Client-Side]DILから[!DNL Server-Side Forwarding] {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}に移行する
 
@@ -29,7 +29,7 @@ Adobe AnalyticsのデータをAAMに送り込む2つの方法を比較・対比�
 
 ![クライアント側からサーバー側へ](assets/client-side_vs_server-side_aam_implementation.png)
 
-### [!DNL Client-side] DILの実装  {#client-side-dil-implementation}
+### [!DNL Client-side] DIL の実装 {#client-side-dil-implementation}
 
 この方法を使用してAdobe AnalyticsのデータをAAMに取り込む場合、ウェブページから2つのヒットがあることを意味します。1つは[!DNL Analytics]、もう1つはAAM （Webページ上の[!DNL Analytics]データをコピーした後）に移動します。 [!UICONTROL Segments] がAAMからページに返され、そこでパーソナライゼーションなどに使用できます。これは「従来の」実装と見なされ、推奨されなくなりました。
 

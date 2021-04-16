@@ -1,23 +1,23 @@
 ---
 title: トラッキングサーバーからレポートスイートレベルのサーバー側転送への移行
 description: この記事とビデオでは、Analyticsデータのサーバー側転送を、トラッキングサーバーレベルではなく、レポートスイートレベルでAudience Managerに有効にする方法を示します。
-product: audience manager, analytics
+product: audience manager
 feature: Adobe Analytics との統合
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: 「開発者、データ・エンジニア」
-level: 中間
+role: Developer, Data Engineer
+level: Intermediate
+exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '580'
 ht-degree: 2%
 
 ---
-
 
 # [!UICONTROL Tracking Server]から[!UICONTROL Report Suite]-Level [!UICONTROL Server-Side Forwarding] {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}への移行
 

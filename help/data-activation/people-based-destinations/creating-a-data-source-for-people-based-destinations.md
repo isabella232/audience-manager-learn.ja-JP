@@ -1,15 +1,15 @@
 ---
 title: 人ベースの宛先用のデータソースの作成
 description: このビデオでは、人物ベースの宛先に使用するAudience Managerでのデータソースの作成に関する手順を説明します。
-feature: 「人々が利用する目的地」
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29006.jpg
 kt: 3700
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

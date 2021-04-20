@@ -1,7 +1,7 @@
 ---
 title: グローバルデバイス ID の検証
 description: デバイスの広告識別子(iDFA、GAID、Roku ID)には、デジタル広告エコシステムで使用できるようにするために満たす必要がある形式標準が含まれています。 現在、お客様とパートナーは、IDが正しく形式設定されているかどうかを通知されることなく、任意の形式でグローバルデータソースにIDをアップロードできます。 この機能では、適切な形式設定を行うためにグローバルデータソースに送信されるデバイスIDの検証が導入され、IDの形式が正しくない場合にエラーメッセージが表示されます。 起動時のiDFA、Google Advertising、Roku IDの検証をサポートします。
-feature: データ・ガバナンスとプライバシー
+feature: Data Governance & Privacy
 topics: mobile
 activity: implement
 doc-type: article

@@ -1,15 +1,15 @@
 ---
 title: 人ベースの宛先に対するプロファイルマージ・ルールの設定
 description: このビデオでは、新しいクロスプロファイルオプションを使用するタイミングなど、人ベースの宛先に使用するデバイス結合ルールを設定する方法について説明します。
-feature: 「人々が利用する目的地」
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29076.jpg
 kt: 3342
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

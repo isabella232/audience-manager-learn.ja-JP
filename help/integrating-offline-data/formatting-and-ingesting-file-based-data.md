@@ -1,15 +1,15 @@
 ---
 title: ファイルベースのデータの形式設定と取り込み
 description: ファーストパーティをAudience Managerに導いてお客様の理解を深め、ターゲットを深める場合、データには特定のフォーマット要件があります。 このビデオでは、主なオプションの一部を紹介し、詳細情報の入手先を紹介します。
-feature: オフラインデータのオンボーディング
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

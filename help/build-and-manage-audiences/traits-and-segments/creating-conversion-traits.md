@@ -1,15 +1,15 @@
 ---
 title: Audience Managerでのコンバージョン特性の作成
 description: 特性の一部は、サイトでのコンバージョンに基づいています。 このビデオでは、分類を分類する方法と、非常に重要なヒント/了解事項を学習します。
-feature: 特性
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23431.jpg
 kt: 1804
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

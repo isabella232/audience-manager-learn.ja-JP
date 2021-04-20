@@ -1,15 +1,15 @@
 ---
 title: デバイスベースの宛先へのセグメントのマッピング
 description: オーディエンスセグメントをDSPまたは他のパートナーに送信するには、Audience Managerでセグメントを宛先にマップする必要があります。 このビデオでは、セグメントのマッピングを、「サーバー間」の宛先とも呼ばれる、デバイスベースの宛先に行う手順を説明します。
-feature: セグメント
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36495.jpg
 kt: 5805
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

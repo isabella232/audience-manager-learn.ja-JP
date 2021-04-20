@@ -1,15 +1,15 @@
 ---
 title: LinkedInの人ベースの宛先についてと設定
 description: このビデオでは、LinkedInへの人物ベースのリンク先を作成するための概念と手順について説明します。 これは、人ベースの宛先に関する追加のビデオおよびドキュメントに基づいて構築されます。
-feature: 「人々が利用する目的地」
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34171.jpg
 kt: 5028
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: 再利用時の利便性を考慮したData Explorerでの検索の保存
 description: このビデオでは、Data Explorerで検索を設定し、実行して、後で再利用できるように保存する方法を学びます。 また、ダッシュボードに保存済みの検索結果を配置して、シグナルアプリに移動したときにすぐに使用できるようにすることもできます。
-feature: 'データエクスプローラ '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

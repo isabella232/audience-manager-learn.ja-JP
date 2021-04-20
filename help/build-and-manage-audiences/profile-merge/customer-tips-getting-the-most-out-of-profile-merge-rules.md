@@ -1,15 +1,15 @@
 ---
 title: プロファイルの結合ルールを最大限に活用するためのヒント
 description: Accorantのマルチソリューションコンサルタント、Varun Kalra氏が、プロファイル結合ルール(PMR)の選択と使用に関するヒントを提供しています。
-feature: プロファイルの結合
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

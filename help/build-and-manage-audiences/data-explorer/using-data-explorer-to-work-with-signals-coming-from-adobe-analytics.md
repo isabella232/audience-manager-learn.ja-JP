@@ -1,15 +1,15 @@
 ---
 title: Adobe Analyticsから来る信号をData Explorerで操作
 description: このビデオでは、使用済みおよび未使用のシグナルの検索、Analyticsの特徴の作成、データの理解を含む、Adobe Analyticsデータを検出して使用するData Explorerでの作業方法を説明します。
-feature: 'データエクスプローラ '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25150.jpg
 kt: 2142
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 特性分類の作成
 description: 特性をAudience Managerに保持するフォルダー構造を作成する際のヒントを説明します。
-feature: 特性
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40266.jpg
 kt: 6216
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

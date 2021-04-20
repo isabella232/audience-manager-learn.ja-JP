@@ -1,15 +1,15 @@
 ---
 title: Audience Managerの[!UICONTROL Predictive Audiences]の設定とレポート
 description: このビデオでは、Audience Managerインターフェイスの[!UICONTROL Predictive Audiences]設定について説明します。 モデルの結果を示すレポートも表示されます。
-feature: アルゴリズムモデル
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 33630.jpg
 kt: 4390
-role: 管理者
-level: 中間
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

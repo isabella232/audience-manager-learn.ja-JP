@@ -1,15 +1,15 @@
 ---
 title: Audience Manager内のデバイス間指標について
 description: このビデオでは、デバイスのプロファイルとデバイス間のプロファイルの違い、およびUIの数値がこれらの異なるプロファイルタイプと一致する場所を示します。
-feature: プロファイルの結合
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 33445.jpg
 kt: 4876
-role: 管理者
-level: 中間
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: タグマネージャーを使用したAudience Managerの実装
 description: このビデオでは、タグ管理ソリューションを使用する場合のAdobe Audience Managerの実装の基本について学びます。
-feature: 導入の基本
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 4051
-role: 「開発者、データ・エンジニア」
-level: 中間
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

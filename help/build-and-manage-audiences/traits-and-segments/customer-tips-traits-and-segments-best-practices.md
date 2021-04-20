@@ -1,15 +1,15 @@
 ---
 title: お客様向けヒント — 特徴とセグメントのベストプラクティス
 description: Ally Financialのシニアマーケティングスペシャリスト、Matt Vittorioso氏が、特性とセグメントの管理に関するヒントを提供しています。
-feature: セグメント
+feature: Segments
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-segments.jpg
 kt: 6048
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

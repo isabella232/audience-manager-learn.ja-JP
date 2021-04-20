@@ -1,15 +1,15 @@
 ---
 title: デバイス拡張機能と拡張リーチに対するプロファイル結合ルールの使用
 description: プロファイルの結合ルールを使用して、ユーザーのすべてのデバイスにリーチを拡張し、デバイスではなくユーザーに売り込むことができるようにします。
-feature: プロファイルの結合
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35939.jpg
 kt: 5552
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

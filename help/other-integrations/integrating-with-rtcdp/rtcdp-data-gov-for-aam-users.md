@@ -1,10 +1,10 @@
 ---
 title: Audience Managerユーザー向けのリアルタイムCDPにおけるデータ・ガバナンスの理解
 description: このビデオでは、Audience Managerユーザーに対して、リアルタイム顧客データプラットフォームのデータ管理機能に関する概要を説明し、Audience Managerで利用できたものと比較して説明します。 Data Usage and Labeling Enforcement(DULE)のフレームワークと、そのフレームワークを適用できるプラットフォーム内の場所について説明します。
-feature: プラットフォーム統合
-topic: 統合
-role: 実業家、建築家、管理者、リーダー
-level: 中間
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337

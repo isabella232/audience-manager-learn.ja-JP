@@ -1,15 +1,15 @@
 ---
 title: クロスデバイスデータソースの作成と認証
 description: ファーストパーティのCRMデータをAudience Managerに取り込んで顧客のターゲットを向上させるには、まずクロスデバイスデータソースを作成してCRM IDとデータを保存する必要があります。 これは、その方法、およびログイン用のLaunchでsetCustomerIDs()メソッドを設定する方法を示します。
-feature: データソース
+feature: Data Sources
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331006.jpg
 kt: 7025
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

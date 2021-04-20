@@ -1,15 +1,15 @@
 ---
 title: 信号ダッシュボードを使用して、使用可能な信号の上位をすばやく表示する
 description: Data ExplorerのSignalsダッシュボードに組み込みテーブルとカスタムテーブルを使用すると、Audience Managerに入ってくる最新のデータをすばやく確認し、必要に応じてクリックスルーして特性を作成できます。 より効率的な新しいワークフローへようこそ。
-feature: 'データエクスプローラ '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

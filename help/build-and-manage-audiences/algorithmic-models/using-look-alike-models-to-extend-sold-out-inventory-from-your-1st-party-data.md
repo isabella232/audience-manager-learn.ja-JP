@@ -1,15 +1,15 @@
 ---
 title: 類似モデルを使用したファーストパーティデータからの売り切れ在庫の拡張
 description: このチュートリアルでは、「類似モデル」を設定して使用するために必要な手順を順を追って説明します。これにより、類似した新しいオーディエンスを作成し、コンバージョンセグメントの拡張として販売できます。
-feature: アルゴリズムモデル
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 中間
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

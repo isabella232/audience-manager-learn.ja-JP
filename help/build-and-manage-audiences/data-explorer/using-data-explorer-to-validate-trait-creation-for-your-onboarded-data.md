@@ -1,15 +1,15 @@
 ---
 title: 'Data Explorer を使用したオンボードデータの特性作成の検証 '
 description: Audience Manager の最も強力な機能の 1 つは、オフラインデータをオンボーディングし、オンラインデータと結び付ける機能です。このビデオでは、Data Explorerを使用して、このオンボードデータを活用するために必要な特性をすべて作成したことを検証する方法を説明します。
-feature: 'データエクスプローラ '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25149.jpg
 kt: 2141
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: セグメント作成の基本事項
 description: UIのフィールドに従って、Audience Manager内にセグメントを作成します。
-feature: セグメント
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37056.jpg
 kt: 5820
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

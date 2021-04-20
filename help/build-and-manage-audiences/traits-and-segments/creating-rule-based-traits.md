@@ -1,15 +1,15 @@
 ---
 title: ルールに基づく特性の作成
 description: Audience ManagerUIの特性ビルダーを使用してルールベースの特性を作成し、Audience Managerプロファイルにリアルタイムアクティビティを取り込む方法について説明します。
-feature: 特性
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34749.jpg
 kt: 5290
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

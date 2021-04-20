@@ -1,15 +1,15 @@
 ---
 title: 人ベースの宛先の作成と設定
 description: このビデオでは、まず、人物ベースの宛先を作成するための前提条件に関する情報を提供し、次に、統合アカウントを設定する方法（パートナー、Facebookなどへのリンク）も示します。 その後、リンク先自体の製品内設定に関する手順を説明します。
-feature: 「人々が利用する目的地」
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28955.jpg
 kt: 3343
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

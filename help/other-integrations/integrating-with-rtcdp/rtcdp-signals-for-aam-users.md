@@ -1,10 +1,10 @@
 ---
 title: Audience Manager・ユーザに対するリアルタイムCDPでのシグナルの理解
 description: このビデオは、Real-time Customer Data Platform(Real-time CDP)に移行するAudience Managerユーザーを対象としており、特性を構築するAudience Managerで使用するシグナル（キーと値のペア）がPlatformでどのように使用されるかを説明しています。
-feature: プラットフォーム統合
-topic: 統合
-role: 実業家、建築家、管理者、リーダー
-level: 中間
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332092.jpg
 kt: 7305

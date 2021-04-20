@@ -1,15 +1,15 @@
 ---
 title: Data Explorerを使用した、AAMでの使用済みと未使用のキー/値のペアの検索
 description: Audience Managerでの日々の作業では、特性が特定のキー/値のペアから作成されたかどうかをすばやく確認する必要がある場合があります。 このビデオでは、Data Explorerを使用して確認する方法を紹介します。
-feature: 'データエクスプローラ '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25148.jpg
 kt: 1760
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

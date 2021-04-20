@@ -1,15 +1,15 @@
 ---
 title: 特性とセグメントを伴う一般レポートの使用
 description: このビデオでは、特性とセグメントの数値を取得するAudience Managerの一般的なレポートの使用方法を参照してください。
-feature: 「一般レポートとトレンドレポート」
+feature: "General & Trend Reports"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328279.jpg
 kt: 6645
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

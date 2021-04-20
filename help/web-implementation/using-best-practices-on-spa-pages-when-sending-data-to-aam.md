@@ -1,15 +1,15 @@
 ---
 title: AAMにデータを送信する際のSPAページでのベストプラクティスの使用
 description: このドキュメントでは、シングルページアプリ(SPA)からAdobe Audience Manager(AAM)にデータを送信する際に従い、注意が必要なベストプラクティスをいくつか説明します。 このドキュメントでは、Launch by Adobeの使用に重点を置いています。これは、推奨される実装方法です。
-feature: 導入の基本
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: 「開発者、データ・エンジニア」
-level: 経験豊富な
+role: "Developer, Data Engineer"
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,10 +1,10 @@
 ---
 title: Audience Manager・ユーザー向けのリアルタイムCDPにおけるスキーマとXDMの理解
 description: Audience Managerからリアルタイム・カスタマー・データ・プラットフォーム（リアルタイムCDP）に移行する際に、新しい概念と慣例がいくつか出てきます。 スキーマとXDMは、このカテゴリに該当します。 このビデオでは、これらの概念について説明します。
-feature: プラットフォーム統合
-topic: 統合
-role: 実業家、建築家、管理者、リーダー
-level: 中間
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332023.jpg
 kt: 7272

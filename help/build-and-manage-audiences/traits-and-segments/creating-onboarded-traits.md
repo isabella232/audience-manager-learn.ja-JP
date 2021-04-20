@@ -1,15 +1,15 @@
 ---
 title: オンボード特徴の作成
 description: Audience Managerでオンボードの特性を作成するためのヒントを説明します。
-feature: 特性
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40267.jpg
 kt: 6215
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

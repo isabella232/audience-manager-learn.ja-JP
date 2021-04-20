@@ -1,16 +1,16 @@
 ---
 title: Adobe Advertising CloudとAdobe Audience Managerの統合
 description: Adobe Audience ManagerとAdobe Ad Cloudの統合がどのように機能するかを学びます。 一致率とサードパーティcookieの同期に関する回答も得られます。
-feature: Advertising Cloud統合
+feature: Advertising Cloud Integration
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 25894.jpg
 kt: 3072
-topic: 統合
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 中間
+topic: Integrations
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

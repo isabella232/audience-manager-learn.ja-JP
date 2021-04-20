@@ -1,13 +1,13 @@
 ---
 title: 解析のビデオとTutorials
 description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
-feature: 概要
+feature: Overview
 topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

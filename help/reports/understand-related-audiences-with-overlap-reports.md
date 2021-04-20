@@ -8,8 +8,8 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 330432.jpg
 kt: 6839
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Audience Manager内の[!UICONTROL Predictive Audiences]について
 description: このビデオでは、[!UICONTROL Predictive Audiences]のAudience Managerとその仕組みの詳細を説明し、使用例を示します。
-feature: アルゴリズムモデル
+feature: Algorithmic Models
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 33629.jpg
 kt: 4938
-role: 管理者
-level: 中間
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

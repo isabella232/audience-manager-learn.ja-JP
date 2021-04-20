@@ -1,15 +1,15 @@
 ---
 title: 認証済み状態でのプロファイルマージルールを使用したパーソナライズ
 description: 次のプロファイル差し込みルール設定を使用して、ログインした顧客にパーソナライズしたエクスペリエンスを提供します。
-feature: プロファイルの結合
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35938.jpg
 kt: 5357
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: データ管理の未来と変化する環境
 description: 市場の力がデジタルの状況に変化をもたらすにつれ、ビジネスはデータ管理、ID解決、見込み客や偽名の訪問者を意味のあるコンテンツでどのように関与させるかに関する新しい現実に適応する必要があります。 そのために、耐久性のある識別子を外部システムと共に利用して拡張を実現するための様々なパスが現れています。 このウェビナーでは、Adobeと451 Researchが、新しいマーケティング環境に対応し、データ管理の将来に向けたビジネスの準備を始めるために、テクノロジーとデータの未来についてどのように考えているかを見てみましょう。
-feature: 概要
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -1,15 +1,15 @@
 ---
 title: 特性Recommendationsを使用したAAMセグメントの強化
 description: 特性レコメンデーションを利用すると、セグメントビルダーでセグメントを作成または編集する際に、セグメントルール内の特性に類似した他の特性についてのレコメンデーションが得られます。
-feature: セグメント
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 26228.jpg
 kt: 2431
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

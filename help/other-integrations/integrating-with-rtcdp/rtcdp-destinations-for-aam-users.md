@@ -1,10 +1,10 @@
 ---
 title: Audience Manager・ユーザー向けのリアルタイムCDPでの宛先の理解
 description: Audience Managerからリアルタイム・カスタマー・データ・プラットフォーム（リアルタイムCDP）に移行する際は、ターゲットに関する知識が不可欠です。これにより、ターゲット・パートナーに対してオーディエンス・セグメントをアクティブにする方法が明らかになります。 このビデオでは、リアルタイムCDP内の異なるターゲット・タイプとその場所について説明します。
-feature: プラットフォーム統合
-topic: 統合
-role: 実業家、建築家、管理者、リーダー
-level: 中間
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332203.jpg
 kt: 7352

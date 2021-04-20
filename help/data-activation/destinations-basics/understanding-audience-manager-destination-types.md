@@ -1,15 +1,15 @@
 ---
 title: Audience Manager宛先タイプについて
 description: このビデオでは、Adobe Audience Managerの様々なタイプの目的地を紹介し、それぞれをいつ使用するかを例に挙げます。
-feature: ターゲットの基本
+feature: Destination Basics
 topics: null
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 thumbnail: 29839.jpg
 kt: 4016
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

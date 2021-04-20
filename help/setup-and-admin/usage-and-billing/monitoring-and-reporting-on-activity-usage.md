@@ -1,15 +1,15 @@
 ---
 title: アクティビティ使用の監視とレポート
 description: このビデオでは、表示オプションとダウンロードオプションを含む、アクティビティの使用状況レポートの使用方法について説明します。
-feature: 使用状況と請求
+feature: Usage and Billing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
-topic: 管理
-role: 「開発者、データ・エンジニア、管理者」
-level: 初心者
+topic: Administration
+role: "Developer, Data Engineer, Administrator"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

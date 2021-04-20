@@ -1,10 +1,10 @@
 ---
 title: Audience Managerユーザー向けのリアルタイムCDPでのセグメントの理解
 description: Audience Managerからリアルタイム顧客データプラットフォームに移行する際に、概念の違いを理解すると役立ちます。 このビデオでは、セグメントの違い、およびAudience ManagerとリアルタイムCDPのセグメント作成について説明します。
-feature: プラットフォーム統合
-topic: 統合
-role: 実業家、建築家、管理者、リーダー
-level: 中間
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331901.jpg
 kt: 7205

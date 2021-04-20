@@ -2,13 +2,13 @@
 title: クライアント側DILからサーバー側転送へのサイト実装の移行
 description: このチュートリアルは、Adobe Audience Manager(AAM)とAdobe Analyticsの両方をお持ちで、現在、「DIL」(Data Integration Library)コードを使用してページからAAMにヒットを送信し、ページからのヒットをAdobe Analyticsに送信している場合に適用されます。 これらのソリューションは両方あり、両方ともAdobe Experience Cloudの一部なので、「サーバー側転送(SSF)」を有効にするベストプラクティスに従います。これにより、Analyticsデータ収集サーバーは、クライアント側コードでページからAAMにヒットを送信する代わりに、リアルタイムでサイト解析データをAudience Managerに転送できます。 このチュートリアルでは、古い「クライアント側DIL」から新しい「サーバ側転送」への切り替え手順を説明します。
 product: audience manager
-feature: Adobe Analytics との統合
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 translation-type: tm+mt

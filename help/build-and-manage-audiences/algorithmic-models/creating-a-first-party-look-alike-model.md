@@ -1,15 +1,15 @@
 ---
 title: AAMでファーストパーティの「類似した」モデルを作成する
 description: このビデオでは、ファーストパーティの類似モデルを作成し、コンバーターに似た独自の訪問者をさらに見つける方法を学びます。
-feature: アルゴリズムモデル
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23504.jpg
 kt: 1805
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 中間
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

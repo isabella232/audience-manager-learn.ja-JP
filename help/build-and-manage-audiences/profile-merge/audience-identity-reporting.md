@@ -1,7 +1,7 @@
 ---
 title: オーディエンスIDレポート
 description: オーディエンスIDレポートは、特性またはセグメントの合計訪問者数を、個人/家族のID定義別にレポートする機能を提供します。 このビデオを見て、Audience Managerレポートでの表示を確認してください。
-feature: プロファイル結合
+feature: profile merge
 topics: null
 audience: marketer
 activity: use

@@ -1,26 +1,25 @@
 ---
-title: ヒッシュ化されたPIIデータ取り込みについて（人ベースの宛先用）
-description: このビデオでは、PIIを人ベースの宛先のAudience Managerに取り込むための準備が整ったら、考慮する必要のある事柄について説明します。
-feature: "People-based Destinations"
+title: ユーザーベースの宛先のハッシュ化されたPIIデータ取り込みについて
+description: このビデオでは、People-Based Destinations用にPIIをAudience Managerに取り込む準備が整ったら、考慮すべき事項について説明します。
+feature: '"People-based Destinations"'
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29003.jpg
 kt: 3701
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 8b0faf25-eeca-4451-8484-0fa0e02f4879
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '62'
+ht-degree: 3%
 
 ---
 
-
 # [!UICONTROL People-Based Destinations]のハッシュ化されたPIIデータ取り込みについて
 
-このビデオでは、[!UICONTROL People-Based Destinations]のAudience ManagerにPIIを取り込む準備ができたら、考慮する必要のある事柄について説明します。
+このビデオでは、[!UICONTROL People-Based Destinations]のAudience ManagerにPIIを取り込む準備が整ったら、考慮すべき事項について紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)

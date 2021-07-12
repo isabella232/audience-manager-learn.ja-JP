@@ -1,27 +1,26 @@
 ---
-title: ファイルベースのデータの形式設定と取り込み
-description: ファーストパーティをAudience Managerに導いてお客様の理解を深め、ターゲットを深める場合、データには特定のフォーマット要件があります。 このビデオでは、主なオプションの一部を紹介し、詳細情報の入手先を紹介します。
-feature: Onboarding Offline Data
+title: ファイルベースのデータのフォーマットと取り込み
+description: お客様をより深く理解し、ターゲットにするためにファーストパーティをAudience Managerに導く場合、データに対して特定の形式設定要件があります。 このビデオでは、主なオプションの一部を紹介し、詳細情報の取得先を示します。
+feature: オフラインデータのオンボーディング
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: a9515255-8e3e-4fb8-b467-be68a56c412b
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
+# ファイルベースのデータのフォーマットと取り込み
 
-# ファイルベースのデータの形式設定と取り込み
-
-ファーストパーティをAudience Managerに導いてお客様の理解を深め、ターゲットを深める場合、データには特定のフォーマット要件があります。 このビデオでは、主なオプションの一部を紹介し、詳細情報の入手先を紹介します。
+お客様をより深く理解し、ターゲットにするためにファーストパーティをAudience Managerに導く場合、データに対して特定の形式設定要件があります。 このビデオでは、主なオプションの一部を紹介し、詳細情報の取得先を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 

@@ -1,7 +1,7 @@
 ---
-title: 再利用時の利便性を考慮したData Explorerでの検索の保存
-description: このビデオでは、Data Explorerで検索を設定し、実行して、後で再利用できるように保存する方法を学びます。 また、ダッシュボードに保存済みの検索結果を配置して、シグナルアプリに移動したときにすぐに使用できるようにすることもできます。
-feature: Data Explorer
+title: 再利用時の便利性を考慮して検索をData Explorerに保存
+description: このビデオでは、Data Explorerで検索を設定し、実行して、後で再利用するために保存する方法について説明します。 また、保存済みの検索結果をダッシュボードに配置して、シグナルアプリケーションに移動したときにすぐに使用できるようにすることもできます。
+feature: 'データエクスプローラ '
 topics: null
 activity: use
 doc-type: feature video
@@ -9,20 +9,19 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: aff58324-52f6-438d-8aae-4f2e8cd16ae0
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '129'
 ht-degree: 1%
 
 ---
 
+# [!DNL Data Explorer]での検索の保存による再利用の利便性 {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-# [!DNL Data Explorer]で検索を保存し、再利用の利便性を考慮{#saving-searches-in-data-explorer-for-convenience-in-re-use}
-
-このビデオでは、[!DNL Data Explorer]で検索を設定し、実行して、後で再利用できるように保存する方法を学びます。 また、ダッシュボードに保存済みの検索結果を配置して、[!UICONTROL Signals]アプリに移動したときにすぐに利用できるようにすることもできます。
+このビデオでは、[!DNL Data Explorer]で検索を設定し、実行し、後で再利用できるように保存する方法を学びます。 また、ダッシュボードに保存済みの検索結果を配置して、[!UICONTROL Signals]アプリを開くとすぐに使用できるようにすることもできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 

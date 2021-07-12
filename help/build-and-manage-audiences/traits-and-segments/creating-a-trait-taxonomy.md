@@ -1,26 +1,25 @@
 ---
 title: 特性分類の作成
-description: 特性をAudience Managerに保持するフォルダー構造を作成する際のヒントを説明します。
-feature: Traits
+description: 特性をフォルダーに格納するフォルダー構造の作成に関するヒントをAudience Managerします。
+feature: 特性
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40266.jpg
 kt: 6216
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 9444e976-a569-412c-8ba4-dd2a66ab5c53
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '37'
 ht-degree: 2%
 
 ---
 
-
 # 特性分類の作成
 
-特性をAudience Managerに保持するフォルダー構造を作成する際のヒントを説明します。
+特性をフォルダーに格納するフォルダー構造の作成に関するヒントをAudience Managerします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)

@@ -1,26 +1,25 @@
 ---
 title: デバイスベースの宛先へのセグメントのマッピング
-description: オーディエンスセグメントをDSPまたは他のパートナーに送信するには、Audience Managerでセグメントを宛先にマップする必要があります。 このビデオでは、セグメントのマッピングを、「サーバー間」の宛先とも呼ばれる、デバイスベースの宛先に行う手順を説明します。
-feature: Segments
+description: オーディエンスセグメントをDSPまたは他のパートナーに送信するには、Audience Managerでセグメントを宛先にマッピングする必要があります。 このビデオでは、「サーバー間」の宛先とも呼ばれる、デバイスベースの宛先にセグメントをマッピングする手順を説明します。
+feature: セグメント
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36495.jpg
 kt: 5805
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: f732377e-64cf-4d3f-8755-51925ea60924
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
-
 # デバイスベースの宛先へのセグメントのマッピング
 
-オーディエンスセグメントをDSPまたは他のパートナーに送信するには、Audience Managerでセグメントを宛先にマップする必要があります。 このビデオでは、デバイスベースの宛先（_サーバー間_&#x200B;宛先とも呼ばれる）へのセグメントのマッピングに関する詳細な説明を示します。
+オーディエンスセグメントをDSPまたは他のパートナーに送信するには、Audience Managerでセグメントを宛先にマッピングする必要があります。 このビデオでは、デバイスベースの宛先（_サーバー間_&#x200B;の宛先とも呼ばれる）にセグメントをマッピングする手順を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)

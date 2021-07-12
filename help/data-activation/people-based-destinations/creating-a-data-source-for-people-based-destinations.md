@@ -1,26 +1,25 @@
 ---
-title: 人ベースの宛先用のデータソースの作成
-description: このビデオでは、人物ベースの宛先に使用するAudience Managerでのデータソースの作成に関する手順を説明します。
-feature: "People-based Destinations"
+title: People-Based Destinations用のデータソースの作成
+description: このビデオでは、People-Based Destinationsに使用するデータソースをAudience Managerして作成する手順を説明します。
+feature: '"People-based Destinations"'
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29006.jpg
 kt: 3700
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: a9d9f3eb-13bb-41b9-9ee7-6b28fb25e2d3
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 0%
+source-wordcount: '48'
+ht-degree: 4%
 
 ---
 
+# [!UICONTROL People-Based Destinations]の[!UICONTROL Data Source]の作成
 
-# [!UICONTROL People-Based Destinations]の[!UICONTROL Data Source]を作成する
-
-このビデオでは、[!UICONTROL People-Based Destinations]に使用するAudience Managerでの[!UICONTROL Data Source]の作成について説明します。
+このビデオでは、[!UICONTROL People-Based Destinations]に使用するAudience Managerの[!UICONTROL Data Source]の作成手順を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

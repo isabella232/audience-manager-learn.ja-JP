@@ -1,27 +1,26 @@
 ---
-title: アクティビティ使用の監視とレポート
-description: このビデオでは、表示オプションとダウンロードオプションを含む、アクティビティの使用状況レポートの使用方法について説明します。
-feature: Usage and Billing
+title: アクティビティの使用状況の監視とレポート
+description: このビデオでは、表示およびダウンロードオプションを含む、アクティビティの使用状況レポートの使用方法について説明します。
+feature: 使用状況と請求
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
-topic: Administration
-role: "Developer, Data Engineer, Administrator"
+topic: 管理
+role: Developer, Data Engineer, Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 1%
+source-wordcount: '67'
+ht-degree: 5%
 
 ---
 
+# アクティビティの使用状況の監視とレポート
 
-# アクティビティ使用の監視とレポート
-
-このビデオでは、[!DNL Activity Usage Report]の使い方を紹介します。表示とダウンロードのオプションも含まれます。
+このビデオでは、[!DNL Activity Usage Report]の使い方について説明し、表示やダウンロードのオプションも含めます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 

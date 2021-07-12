@@ -1,26 +1,25 @@
 ---
 title: プロファイル結合ルールの強化 — 前提条件
-description: プロファイル結合ルールの強化のリリースに備える最適な準備方法の概要です。
-feature: Profile Merge
+description: プロファイル結合ルールの強化のリリースに最適な準備方法の概要です。
+feature: プロファイル結合
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28971.jpg
 kt: 3692
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: f455c256-30a0-4a4c-8617-2542dbe05a6b
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 0%
+source-wordcount: '36'
+ht-degree: 5%
 
 ---
 
-
 # [!UICONTROL Profile Merge Rule] 機能強化 — 前提条件
 
-[!UICONTROL Profile Merge Rule]拡張機能のリリースに備える最善の準備方法の概要です。
+[!UICONTROL Profile Merge Rule]機能強化のリリースに最適な準備方法の概要です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

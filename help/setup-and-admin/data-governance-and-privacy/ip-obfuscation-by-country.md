@@ -1,26 +1,25 @@
 ---
-title: Audience Managerの国別IP Obfuscation（IPの不明化）
-description: Audience Managerは、UIのセルフサービス機能を提供し、IPの不明化をグローバルに、または国別に有効にできます。 このビデオでは、設定の概要を説明します。
-feature: "Data Governance & Privacy"
+title: 国別IP難読化のAudience Manager
+description: Audience Managerは、UIでセルフサービス機能を提供し、IPの不明化をグローバルに、または国別に有効にできます。 このビデオでは、設定の手順を説明します。
+feature: '"データガバナンスとプライバシー"'
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2866
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 103643ff-c006-4111-b469-901271faaf9d
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 3%
 
 ---
 
+# 国別IP難読化のAudience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
-# Audience Manager{#ip-obfuscation-by-country-in-audience-manager}の国別IP Obfuscation（IPの不明化）
-
-Audience Managerは、UIのセルフサービス機能を提供し、IPの不明化をグローバルに、または国別に有効にできます。 このビデオでは、設定の概要を説明します。
+Audience Managerは、UIでセルフサービス機能を提供し、IPの不明化をグローバルに、または国別に有効にできます。 このビデオでは、設定の手順を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 

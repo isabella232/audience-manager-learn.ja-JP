@@ -1,26 +1,25 @@
 ---
-title: 認証済み状態でのプロファイルマージルールを使用したパーソナライズ
-description: 次のプロファイル差し込みルール設定を使用して、ログインした顧客にパーソナライズしたエクスペリエンスを提供します。
-feature: Profile Merge
+title: プロファイル結合ルールを使用した認証済み状態でのパーソナライズ
+description: これらのプロファイル結合ルール設定を使用して、ログインした顧客にパーソナライズされたエクスペリエンスを提供する。
+feature: プロファイル結合
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35938.jpg
 kt: 5357
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 189b751f-b71a-4579-8e2d-fc0d24e7e148
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 0%
+source-wordcount: '47'
+ht-degree: 4%
 
 ---
 
+# [!UICONTROL Profile Merge Rules]を使用した認証済み状態のパーソナライズ
 
-# [!UICONTROL Profile Merge Rules]を使用した認証済み状態でのパーソナライズ
-
-次のプロファイル差し込みルール設定を使用して、ログインした顧客にパーソナライズしたエクスペリエンスを提供します。
+これらのプロファイル結合ルール設定を使用して、ログインした顧客にパーソナライズされたエクスペリエンスを提供する。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

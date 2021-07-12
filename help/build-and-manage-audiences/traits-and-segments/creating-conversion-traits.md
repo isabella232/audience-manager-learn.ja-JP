@@ -1,32 +1,31 @@
 ---
 title: Audience Managerでのコンバージョン特性の作成
-description: 特性の一部は、サイトでのコンバージョンに基づいています。 このビデオでは、分類を分類する方法と、非常に重要なヒント/了解事項を学習します。
-feature: Traits
+description: 特性には、サイト上のコンバージョンに基づくものもあります。 このビデオでは、これらをそのように指定する方法と、非常に重要なヒント/了解事項を学びます。
+feature: 特性
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23431.jpg
 kt: 1804
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: b5156c96-555e-4608-8920-9b7221b1d383,52b489bf-6c11-4c5c-8f29-4513a167f7b8
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
+# Audience Managerでの変換[!UICONTROL Traits]の作成 {#creating-conversion-traits-in-audience-manager}
 
-# Audience Manager{#creating-conversion-traits-in-audience-manager}にコンバージョン[!UICONTROL Traits]を作成しています
-
-[!UICONTROL traits]の一部は、サイトでのコンバージョンに基づいています。 このビデオでは、分類を分類する方法と、非常に重要なヒント/了解事項を学習します。
+[!UICONTROL traits]の一部は、サイト上のコンバージョンに基づいています。 このビデオでは、これらをそのように指定する方法と、非常に重要なヒント/了解事項を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-サイト上で人々に何をしてもらおうとしているか。 コンバージョンイベントは何ですか。 もちろん、サイトのタイプ/業種や組織の目標に応じて、この質問に対する答えは多く異なります。 いずれにせよ、AAMでは、条件を満たした訪問者用に[!UICONTROL traits]を作成するのが一般的です。
+サイト上でユーザーに何をしてもらおうとしていますか。 コンバージョンイベントの種類 もちろん、サイトのタイプ/垂直方式や組織の目標に応じて、この質問に対する様々な回答があります。 いずれの場合も、AAMでは、これらの条件を満たした訪問者の[!UICONTROL traits]を作成するのが一般的です。
 
-AAMには、[!UICONTROL trait]を[!UICONTROL conversion] [!UICONTROL trait]としてマークするフィールドがあります。特に、[!UICONTROL Audience Lab]で使用します。
+AAMには、[!UICONTROL trait]を[!UICONTROL conversion] [!UICONTROL trait]としてマークできるフィールドがあります。特に、[!UICONTROL Audience Lab]で使用します。
 
-また、イベントを使って[!UICONTROL traits]を作成する際には、主な了解事項を考慮する必要があります。その結果、収集するユーザ数が[!UICONTROL trait]よりも多くなることはありません。 このビデオで大きなリビールを見てください。:)
+また、[!UICONTROL traits]を作成するためにイベントを使用する場合は、[!UICONTROL trait]に収集するよりも多くのユーザーを収集しないよう、注意が必要な主な了解事項があります。 大きなリビールについては、このビデオをご覧ください。:)

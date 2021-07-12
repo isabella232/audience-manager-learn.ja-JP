@@ -1,26 +1,25 @@
 ---
-title: Google顧客の一致を人ベースの宛先と見なし、設定する
-description: このビデオでは、Google Customer Match People Based Destinationの詳細と使用例について説明し、セグメントを作成して宛先にマッピングする手順を説明します。 また、Google広告コンソールにオーディエンスのランディングページも表示されます。
-feature: "People-based Destinations"
+title: Googleカスタマーマッチのユーザーベースの宛先の概要と設定
+description: このビデオでは、Googleカスタマーマッチのユーザーベースの宛先の詳細と使用例について説明し、セグメントの作成と宛先へのマッピングに関する手順を示します。 また、Google広告コンソールにオーディエンスのランディングが表示されます。
+feature: '"People-based Destinations"'
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 38552.jpg
 kt: 6042
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: c333e02e-a585-49aa-b095-f2dcbbd258a8
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
+# Googleカスタマーマッチのユーザーベースの宛先の概要と設定
 
-# Google顧客の一致を人ベースの宛先と見なし、設定する
-
-このビデオでは、Google Customer Match People Based Destinationの詳細と使用例について説明し、セグメントを作成して目的にマッピングするためのウォークスルーについて説明します。 また、Google広告コンソールにオーディエンスのランディングページも表示されます。
+このビデオでは、GoogleカスタマーマッチのPeopleベースの宛先の詳細と使用例について説明し、セグメントを作成して宛先にマッピングするためのウォークスルーについて説明します。 また、Google広告コンソールにオーディエンスのランディングが表示されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)

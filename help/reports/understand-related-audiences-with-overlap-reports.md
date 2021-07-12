@@ -1,6 +1,6 @@
 ---
-title: 重複レポートを使用する関連オーディエンスについて
-description: 重複レポートを使用すると、特性オーディエンスとセグメント訪問者が相互にどのように重なり合うか（複数の特性またはセグメントで同じ）を確認できるので、コンバージョンを増やしたり、リーチの拡大に焦点を当てたりできます。
+title: 重複レポートを使用した関連オーディエンスの理解
+description: 重複レポートを使用すると、特性とセグメントのオーディエンスが相互に重なり合っている（複数の特性またはセグメントで同じ訪問者）様子を確認できるので、コンバージョン率を高めたり、リーチの拡大に集中したりできます。
 feature: Overlap Reports
 topics: null
 activity: use
@@ -8,20 +8,19 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 330432.jpg
 kt: 6839
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: e6d90964-9315-4aa5-8d68-d5ffa4d9e09c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '112'
 ht-degree: 1%
 
 ---
 
+# 重複レポートを使用した関連オーディエンスの理解
 
-# 重複レポートを使用する関連オーディエンスについて
-
-重複レポートを使用すると、特性オーディエンスとセグメント訪問者が相互にどのように重なり合うか（複数の特性またはセグメントで同じ）を確認できるので、コンバージョンを増やしたり、リーチの拡大に焦点を当てたりできます。
+重複レポートを使用すると、特性とセグメントのオーディエンスが相互に重なり合っている（複数の特性またはセグメントで同じ訪問者）様子を確認できるので、コンバージョン率を高めたり、リーチの拡大に集中したりできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
 

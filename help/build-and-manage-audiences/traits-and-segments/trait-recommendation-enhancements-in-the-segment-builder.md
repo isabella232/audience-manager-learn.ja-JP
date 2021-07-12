@@ -1,27 +1,26 @@
 ---
-title: セグメントビルダーの特性レコメンデーションの強化
-description: このビデオでは、更新された特性のレコメンデーションの使用方法について、Audience Marketplaceのレコメンデーションであるセグメントビルダーで説明します。 これらの指標により、セグメントの範囲を広げることができるサードパーティデータに関するさらなる洞察を得ることができます。
-feature: Segments
+title: セグメントビルダーにおける特性レコメンデーションの強化
+description: このビデオでは、更新された特性レコメンデーションの使用方法をセグメントビルダーで確認します。これはAudience Marketplaceレコメンデーションです。 これらを使用すると、セグメントの範囲を広げることができるサードパーティデータに関する追加のインサイトが得られます。
+feature: セグメント
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29363.jpg
 kt: 3937
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
+# [!DNL Trait Recommendation] の機能強化  [!DNL Segment Builder]
 
-# [!DNL Trait Recommendation] 「  [!DNL Segment Builder]
-
-このビデオでは、更新された[!DNL trait recommendations]の使用方法を[!DNL segment builder]で確認します。これはAudience Marketplaceの推奨事項です。 これらは、[!UICONTROL segments]の範囲を拡大できる[!DNL third party]データに関するさらなる洞察を提供します。
+このビデオでは、更新された[!DNL trait recommendations]の使用方法を[!DNL segment builder]で確認します。これは、Audience Marketplaceの推奨事項です。 これらを使用すると、[!UICONTROL segments]の範囲を拡大できる[!DNL third party]データに関する詳細なインサイトが得られます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 

@@ -8,20 +8,19 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
-translation-type: tm+mt
-source-git-commit: 499d95472d5dbe5563ebfe527a74a606ad144544
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 50%
 
 ---
 
-# [!DNL Analytics]データ{#create-a-data-source-for-analytics-data}の[!UICONTROL Data Source]を作成
+# [!DNL Analytics]データの[!UICONTROL Data Source]を作成する {#create-a-data-source-for-analytics-data}
 
-このビデオでは、Adobe Analyticsなどの分析ソリューションからライブに入るデータに使用できるAAMで[!UICONTROL Data Source]を作成する際のヒントやテクニックなど、手順を説明します。 これは、解析データ用に[!UICONTROL traits]を作成する前に行う必要があります。
+このビデオでは、AAMで[!UICONTROL Data Source]を作成する際の手順（ヒントやテクニックを含む）について説明します。これは、Adobe Analyticsなどの分析ソリューションで実稼働中のデータに使用できます。 これは、分析データ用の[!UICONTROL traits]を作成する前におこなう必要があります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)
 

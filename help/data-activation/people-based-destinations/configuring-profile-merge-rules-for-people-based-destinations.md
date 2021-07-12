@@ -1,26 +1,25 @@
 ---
-title: 人ベースの宛先に対するプロファイルマージ・ルールの設定
-description: このビデオでは、新しいクロスプロファイルオプションを使用するタイミングなど、人ベースの宛先に使用するデバイス結合ルールを設定する方法について説明します。
-feature: "People-based Destinations"
+title: People-Based Destinationsのプロファイル結合ルールの設定
+description: このビデオでは、新しいクロスデバイスオプションを使用するタイミングなど、People-Based Destinationsで使用するプロファイル結合ルールを設定する方法について説明します。
+feature: '"People-based Destinations"'
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29076.jpg
 kt: 3342
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 513af3d9-583a-4619-867e-f0ac847ca9b5
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '62'
+ht-degree: 3%
 
 ---
 
+# [!UICONTROL People-Based Destinations]の[!UICONTROL Profile Merge Rules]の設定
 
-# [!UICONTROL Profile Merge Rules]を[!UICONTROL People-Based Destinations]用に構成中
-
-このビデオでは、新しいクロスデバイスオプションをいつ使用するかなど、[!UICONTROL People-Based Destinations]に使用する[!UICONTROL Profile Merge Rule]の設定方法を説明します。
+このビデオでは、新しいクロスデバイスオプションを使用するタイミングなど、[!UICONTROL Profile Merge Rule]を[!UICONTROL People-Based Destinations]に使用する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

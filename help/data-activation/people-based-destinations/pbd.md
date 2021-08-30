@@ -1,7 +1,7 @@
 ---
 title: People-Based DestinationsのビデオとTutorials
 description: この節では、People-Based Destinationsに関するトピックのビデオとチュートリアルを紹介します。
-feature: '"People-based Destinations"'
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: feature video
@@ -10,16 +10,16 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 3b16dc825d620119c5b112b1b2a91292133f817f
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 15%
+source-wordcount: '170'
+ht-degree: 0%
 
 ---
 
 # [!UICONTROL People-Based Destinations] ビデオとTutorials
 
-[!UICONTROL People-Based Destinations] では、オンラインとオフラインのデータにセグメント化を適用し、電子メールアドレスや電話番号などのハッシュ化された識別子に基づいてオーディエンスセグメントを作成できます。次に、これらのセグメントを[!DNL Facebook]や[!DNL LinkedIn]などのソーシャルプラットフォームに送信し、そこでオーディエンスをターゲットに設定できます。
+[!UICONTROL People-Based Destinations] では、オンラインとオフラインのデータにセグメント化を適用し、電子メールアドレスなどのハッシュ化された識別子に基づいてオーディエンスセグメントを作成できます。次に、これらのセグメントを[!DNL Facebook]や[!DNL LinkedIn]などのソーシャルプラットフォームに送信し、そこでオーディエンスをターゲットに設定できます。
 
 この節では、[!UICONTROL People-Based Destinations]に関するトピックのビデオとチュートリアルを紹介します。 [!UICONTROL People-Based Destinations]の設定の流れやプロセスを進めるにつれて、この順序で、目的に応じて順番に並べられています。
 

@@ -2,7 +2,7 @@
 title: トラッキングサーバーからレポートスイートレベルのサーバー側転送への移行
 description: この記事およびビデオでは、AnalyticsデータのAudience Managerへのサーバー側転送を、トラッキングサーバーレベルではなく、レポートスイートレベルで有効にする方法について説明します。
 product: audience manager
-feature: Adobe Analytics との統合
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
@@ -11,10 +11,10 @@ kt: 1776
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 2%
+source-wordcount: '576'
+ht-degree: 0%
 
 ---
 
@@ -38,7 +38,7 @@ Adobe Audience ManagerとAdobe Analyticsがある場合は、[!DNL Analytics]デ
 
 ## [!UICONTROL Report Suite]-レベル [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
 
-[!UICONTROL tracking server]転送から[!UICONTROL report suite]転送に移行する最大の利点の1つは、「Audience Analytics」を使用できるようになることです。これは、Audience Manager[!UICONTROL segments]を詳細な[!UICONTROL segment]分析のためにAdobe Analyticsに転送する機能です。 [!UICONTROL tracking server]転送中で[!UICONTROL report suite]転送中でない場合、この優れた機能はサポートされません。 Audience Analyticsの詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/analytics/audiences/)を参照してください。
+[!UICONTROL tracking server]転送から[!UICONTROL report suite]転送に移行する最大の利点の1つは、「Audience Analytics」を使用できるようになることです。これは、Audience Manager[!UICONTROL segments]を詳細な[!UICONTROL segment]分析のためにAdobe Analyticsに転送する機能です。 [!UICONTROL tracking server]転送中で[!UICONTROL report suite]転送中でない場合、この優れた機能はサポートされません。 Audience Analyticsの詳細については、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

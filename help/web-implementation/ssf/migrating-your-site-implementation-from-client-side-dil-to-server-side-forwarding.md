@@ -2,7 +2,7 @@
 title: クライアント側のDILからサーバー側の転送へのサイトのAAM実装の移行
 description: このチュートリアルは、Adobe Audience Manager(AAM)とAdobe Analyticsの両方を持ち、現在、「DIL」(Data Integration Library)コードを使用してページのヒットをAAMに送信し、ページのヒットをAdobe Analyticsに送信している場合に適用されます。 これらのソリューションは両方ともAdobe Experience Cloudに含まれるので、「サーバー側転送(SSF)」をオンにするベストプラクティスに従えば、Analyticsデータ収集サーバーは、クライアント側コードでページからAAMに追加のヒットを送信する代わりに、リアルタイムでサイト分析データをAudience Managerに転送できます。 このチュートリアルでは、古い「クライアント側DIL」実装から新しい「サーバー側転送」方法に切り替える手順を説明します。
 product: audience manager
-feature: Adobe Analytics との統合
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
@@ -11,10 +11,10 @@ kt: 1778
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '2322'
-ht-degree: 1%
+source-wordcount: '2318'
+ht-degree: 0%
 
 ---
 
@@ -72,7 +72,7 @@ AAM実装の[!UICONTROL Server-Side Forwarding]メソッドに移行すること
 
 [!UICONTROL Server-Side Forwarding]に移行する主な前提条件は、Experience CloudIDサービスを実装することです。 これは、Experience Platform Launchを使用している場合に最も簡単におこなえます。その場合は、ECID拡張機能をインストールするだけで、残りの操作を実行できます。
 
-Adobe以外のTMSを使用している場合、またはTMSがまったくない場合は、**他のAdobeソリューションの前に**&#x200B;を実行するようにECIDを実装してください。 詳しくは、[ECIDのドキュメント](https://marketing.adobe.com/resources/help/ja_JP/mcvid/)を参照してください。 その他の前提条件はコードバージョンに関するものです。以下の手順で最新バージョンのコードを適用するだけで問題ありません。
+Adobe以外のTMSを使用している場合、またはTMSがまったくない場合は、**他のAdobeソリューションの前に**&#x200B;を実行するようにECIDを実装してください。 詳しくは、[ECIDのドキュメント](https://experienceleague.adobe.com/docs/id-service/using/home.html)を参照してください。 その他の前提条件はコードバージョンに関するものです。以下の手順で最新バージョンのコードを適用するだけで問題ありません。
 
 >[!NOTE]
 >
@@ -191,4 +191,4 @@ Experience Platform Launchの[!DNL Client-Side]DILコードから[!UICONTROL Ser
 
 ![誤った成功](assets/falsesuccess.png)
 
-[!UICONTROL Server-Side Forwarding]について詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/reference/ssf.html)を参照してください。
+[!UICONTROL Server-Side Forwarding]について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html)を参照してください。

@@ -1,7 +1,7 @@
 ---
 title: 類似(look-alike)モデルを使用して、ファーストパーティデータから販売済みの在庫を拡張する
 description: このチュートリアルでは、類似(look-alike)モデルを設定して使用するための手順を順を追って説明します。これにより、類似(look-alike)オーディエンスを新たに作成し、コンバージョンセグメントの拡張機能として販売できます。
-feature: アルゴリズムモデル
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1688
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '822'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：** 上のビデオでは、この例は、Adobe Analyticsがあると仮定しています。明らかに、これはそうでないかもしれない。 Google Analytics(GA)をお持ちの場合は、AAMにデータを送信する際に使用できるモジュールが用意されています（[ドキュメント](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)を参照）。サイトのコンバージョンアクティビティがGAによってAAMに送信された場合は、そこからコンバージョン特性を作成できます。 別のDILソリューションがある（または分析ソリューションがない）場合でも、分析コードや`submit`関数などを使用してAAMにデータを送信できます。 （[ドキュメント](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)を参照）。 次に、サイトでコンバージョンアクティビティが実行されたときに送信されたデータに基づいて、コンバージョン特性を作成します。
+**注意：** 上のビデオでは、この例は、Adobe Analyticsがあると仮定しています。明らかに、これはそうでないかもしれない。 Google Analytics(GA)をお持ちの場合は、AAMにデータを送信する際に使用できるモジュールが用意されています（[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)を参照）。サイトのコンバージョンアクティビティがGAによってAAMに送信された場合は、そこからコンバージョン特性を作成できます。 別のDILソリューションがある（または分析ソリューションがない）場合でも、分析コードや`submit`関数などを使用してAAMにデータを送信できます。 （[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)を参照）。 次に、サイトでコンバージョンアクティビティが実行されたときに送信されたデータに基づいて、コンバージョン特性を作成します。
 
 ## [!UICONTROL First Party]データから類似(look-alike) [!UICONTROL Model]を作成する {#creating-a-look-alike-model-from-first-party-data}
 

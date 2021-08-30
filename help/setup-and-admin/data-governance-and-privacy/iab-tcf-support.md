@@ -10,9 +10,9 @@ kt: 5027
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '1117'
+source-wordcount: '1120'
 ht-degree: 1%
 
 ---
@@ -72,7 +72,7 @@ IAB TCFを使用する利点の1つは、上記の標準的な目的により、
 
 Audience Managerが承認される(つまり、オプトイン用のIAB目的の翻訳でAAMに「はい」の投票を行うために)には、上記の目的1および10がエンドユーザーから同意を得る必要があります。 これらのいずれかが承認されない場合、またはベンダーが承認されない場合、AAMはピクセル実行またはcookieの設定を実行しません。 また、多くのお客様は、エンドユーザーに対して「オールオアナッシング」のUIを提供するだけで、当然、Audience Manager(および他のExperience Cloudソリューション)の使用を許可または禁止することを選択することもできます。
 
-[ドキュメント](https://marketing.adobe.com/resources/help/en_US/aam/aam-iab-plugin.html)には、IAB TCF用Audience Managerプラグインのフローがパブリッシャーと広告主の両方のユースケースにどのように適用されるかに関する優れた情報が記載されています。
+[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en)には、IAB TCF用Audience Managerプラグインのフローがパブリッシャーと広告主の両方のユースケースにどのように適用されるかに関する優れた情報が記載されています。
 
 ## IAB:同意のダウンストリーム送信 {#iab-sending-consent-downstream}
 

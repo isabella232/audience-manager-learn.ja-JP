@@ -1,7 +1,7 @@
 ---
 title: Audience Managerでのアルゴリズム（類似）モデルを使用したROASの向上
 description: Audience Managerの類似(look-alike)モデリングの真の力は、セカンドパーティおよびサードパーティのデータソースから得られる一連の新しいユーザーに対して、ベースラインオーディエンスを拡大しようとするときに得られます。 このチュートリアルでは、このデータからモデルを作成する手順を説明します。
-feature: アルゴリズムモデル
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1849
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Audience Managerの類似(look-alike) [!UICONTROL Modeling]の実力は、[!UICO
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：** 上のビデオでは、この例は、Adobe Analyticsがあると仮定しています。明らかに、これはそうでないかもしれない。 Google Analytics(GA)をお持ちの場合は、データをAAMに送信するために使用できるモジュールが用意されています（[ドキュメント](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)を参照）。サイトのコンバージョンアクティビティがGAによってAAMに送信された場合は、そこからコンバージョン[!UICONTROL trait]を作成できます。 別のDILソリューションがある（または分析ソリューションがない）場合でも、分析コードや`submit`関数などを使用してAAMにデータを送信できます。 （[ドキュメント](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)を参照）。 次に、サイトでコンバージョンアクティビティが実行されたときに送信されたデータに基づいてコンバージョン[!UICONTROL trait]を作成します。
+**注意：** 上のビデオでは、この例は、Adobe Analyticsがあると仮定しています。明らかに、これはそうでないかもしれない。 Google Analytics(GA)をお持ちの場合は、データをAAMに送信するために使用できるモジュールが用意されています（[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)を参照）。サイトのコンバージョンアクティビティがGAによってAAMに送信された場合は、そこからコンバージョン[!UICONTROL trait]を作成できます。 別のDILソリューションがある（または分析ソリューションがない）場合でも、分析コードや`submit`関数などを使用してAAMにデータを送信できます。 （[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)を参照）。 次に、サイトでコンバージョンアクティビティが実行されたときに送信されたデータに基づいてコンバージョン[!UICONTROL trait]を作成します。
 
 ## [!UICONTROL Second Party]または[!UICONTROL Third Party]データから類似(look-alike) [!UICONTROL Model]を作成します {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 

@@ -1,20 +1,20 @@
 ---
 title: アクティビティの使用状況の監視とレポート
 description: このビデオでは、表示およびダウンロードオプションを含む、アクティビティの使用状況レポートの使用方法について説明します。
-feature: 使用状況と請求
+feature: Usage and Billing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
-topic: 管理
+topic: Administration
 role: Developer, Data Engineer, Admin
 level: Beginner
 exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 5%
+source-wordcount: '61'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 5%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-詳しくは、[ドキュメント](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html)を参照してください。

@@ -8,9 +8,9 @@ kt: 4016
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: a2bf5c6bdc7611cd6bc5d807e60ac6aa22d5c176
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-サーバー間[!UICONTROL destination]パートナーのリスト[HERE](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx)をダウンロードできます。
+使用可能なサーバー間宛先パートナーのリストは、[Audience Managerデバイスベースの宛先に関するドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html)で確認できます。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)を参照してください。
+宛先に関する詳細については、[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)を参照してください。

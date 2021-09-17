@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Audience Manager チュートリアル
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
-source-git-commit: 2a831a60d68698d9b824f54e3d88ba540b57d83e
+source-git-commit: 25e6244eabc2d9b327077bfa334a9bcafb7a0745
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '970'
 ht-degree: 6%
 
 ---
@@ -25,9 +25,11 @@ ht-degree: 6%
    + 値の適合{#value-realization}
       + [顧客抑制の使用例でのROIの測定](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + 業界のニュースとトレンド{#industry}
-   + [データ管理の将来と環境の変化](industry/the-future-of-data-management-and-the-changing-environment.md)
-   + [責任ある顧客データ管理に関する10の考慮事項](industry/ten-considerations-for-responsible-customer-data-management.md)
-   + [ブランドと消費者の2つの認識の物語](industry/brands-vs-consumers.md)
+   + [データ管理の将来と環境の変化](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
+   + [責任ある顧客データ管理に関する10の考慮事項](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [ブランドと消費者の2つの認識の物語](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
+   + [Audience Center of Excellenceの進化](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+   + [顧客プロファイルを使用したより優れたエクスペリエンスの構築](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + セットアップと管理{#setup-and-admin}
    + データソース {#data-sources}
       + [Analyticsデータ用のデータソースの作成](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)

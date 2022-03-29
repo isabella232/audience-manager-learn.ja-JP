@@ -1,6 +1,6 @@
 ---
-title: アクティビティの使用状況の監視とレポート
-description: このビデオでは、表示およびダウンロードオプションを含む、アクティビティの使用状況レポートの使用方法について説明します。
+title: アクティビティ使用状況の監視とレポート
+description: このビデオでは、表示オプションやダウンロードオプションを含む、アクティビティの使用状況レポートの使用方法を説明します。
 feature: Usage and Billing
 topics: null
 activity: use
@@ -11,17 +11,17 @@ topic: Administration
 role: Developer, Data Engineer, Admin
 level: Beginner
 exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# アクティビティの使用状況の監視とレポート
+# アクティビティ使用状況の監視とレポート
 
-このビデオでは、[!DNL Activity Usage Report]の使い方について説明し、表示やダウンロードのオプションも含めます。
+このビデオでは、 [!UICONTROL Activity Usage Report]（表示およびダウンロードオプションを含む）
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html)を参照してください。
+詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).

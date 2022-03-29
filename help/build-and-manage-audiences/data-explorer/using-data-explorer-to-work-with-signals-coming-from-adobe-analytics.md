@@ -1,7 +1,7 @@
 ---
-title: Data Explorerを使用したAdobe Analyticsからのシグナルの操作
-description: このビデオでは、Data ExplorerでAdobe Analyticsデータを検出および使用する方法を示します。使用済みおよび未使用のシグナルの検索、Analytics特性の作成、データの理解などが含まれます。
-feature: 'データエクスプローラ '
+title: Data Explorerを使用して、Adobe Analyticsから来たシグナルを操作する
+description: このビデオでは、使用済みおよび未使用のシグナルの検索、Analytics の特性の作成、データの理解など、Adobe Analyticsデータを検出および使用するData Explorerでの作業方法を示します。
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
@@ -11,21 +11,21 @@ kt: 2142
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 82507055-0072-48fe-8031-225fb55351be
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 1%
+source-wordcount: '176'
+ht-degree: 0%
 
 ---
 
-# [!DNL Data Explorer]を使用したAdobe Analyticsからの[!UICONTROL Signals]の操作 {#using-data-explorer-to-work-with-signals-coming-from-adobe-analytics}
+# 用途 [!UICONTROL Data Explorer] Adobe Analyticsから来る信号を処理する {#using-data-explorer-to-work-with-signals-coming-from-adobe-analytics}
 
-このビデオでは、[!DNL Data Explorer]でのAdobe Analyticsデータの検出および使用方法を示します。使用済みおよび未使用の[!UICONTROL signals]の検索、[!DNL Analytics] [!UICONTROL traits]の作成、データの理解などが含まれます。
+このビデオでは、 [!UICONTROL Data Explorer] Adobe Analyticsデータを検出して使用する。使用済みおよび未使用のデータの検索も含む [!UICONTROL signals]，作成 [!DNL Analytics] 特性を理解し、データについて理解することをお勧めします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
 
-Audience Managerに取り込まれる主なデータソースの1つが分析ソリューションである可能性が高く、もちろんAdobe Analyticsであることを望みます。 :)
+Audience Managerに取り込まれる主なデータソースの 1 つが分析ソリューションである可能性が高く、もちろんAdobe Analyticsであることを願っています。
 
-[!DNL Data Explorer] 様々なレポートスイートから何が入ってくるかを確認できる状態になっており、まだで使用されていないシグナルを見つける際に [!DNL Analytics] は、を直接クリックしてを作成し、この強力な行動データをセグメント化で利用できま [!UICONTROL traits] [!DNL Trait Builder]  [!UICONTROL traits] す。
+[!UICONTROL Data Explorer] 様々なレポートスイートからの内容を確認し、何が発見されるかを確認できるよう、準備を整えています。 [!DNL Analytics] シグナルが特性にまだ使用されていない場合は、 [!DNL Trait Builder] 特性を作成し、この強力な行動データをセグメント化に利用できます。
 
-[!DNL Data Explorer]の詳細については、[ドキュメント](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)を参照してください。
+詳しくは、 [!DNL Data Explorer]，訪問 [Data Explorer — 概要、メリットおよび使用例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en).

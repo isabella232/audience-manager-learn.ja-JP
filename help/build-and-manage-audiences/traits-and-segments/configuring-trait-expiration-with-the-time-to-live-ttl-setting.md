@@ -1,7 +1,7 @@
 ---
-title: 特性有効期限と有効期限(TTL)設定の設定
-description: 特性を作成する際の設定の1つは、「TTL」または「Time to Live」設定です。これは、指定された期間内に再指定しない場合に、特性のメンバーシップの有効期限となります。 このビデオでは、この機能の表示方法と設定方法を示します。
-feature: 特性
+title: 特性の有効期限の設定 [!UICONTROL Time-to-Live] (TTL)
+description: '検索と設定の方法を学ぶ [!UICONTROL Time to Live] (TTL)Audience Manager。 特性を作成する際にこの設定を使用します。これにより、ユーザーが指定された期間内に再資格を取得しない場合に、特性のメンバーシップの有効期限が設定されます。 '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 6782
 role: User
 level: Beginner
 exl-id: 7190963c-9731-4ee2-b312-949d3f42f0b3
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# 特性有効期限と有効期限(TTL)設定の設定
+# 特性の有効期限の設定 [!UICONTROL Time-to-Live] (TTL)
 
-特性を作成する際の設定の1つは「TTL」または「[!UICONTROL Time to Live]」設定です。これは、指定された期間内に再資格を取り消さない場合の、特性のメンバーシップの有効期限です。 このビデオでは、この機能の表示方法と設定方法を示します。
+特性を作成する際の設定の 1 つは、 [!UICONTROL Time to Live] (TTL) 設定。指定された期間内に再資格を取得しない場合の、特性のメンバーシップの有効期限です。 このビデオでは、この機能の表示方法と設定方法を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

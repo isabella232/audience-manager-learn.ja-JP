@@ -1,6 +1,6 @@
 ---
-title: LinkedIn Peopleベースの宛先の概要と設定
-description: このビデオでは、LinkedInへのPeople-Based Destinationを作成するための概念と手順について説明します。 People-Based Destinationsに関する追加のビデオおよびドキュメントに基づいて構築されます。
+title: LinkedIn People-Based Destinations の概要と設定
+description: このビデオでは、LinkedInへの People-Based Destination を作成するための概念と手順について説明します。 ユーザーベースの宛先に関する追加のビデオおよびドキュメントを基に構築されます。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -11,19 +11,19 @@ kt: 5028
 role: User
 level: Beginner
 exl-id: 1cb80961-c3e2-4a33-a09c-f84cbfed19bd
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# [!DNL LinkedIn] [!UICONTROL People-Based Destination]の理解と設定
+# の理解と設定 [!DNL LinkedIn] [!UICONTROL People-Based Destination]
 
-このビデオでは、[!UICONTROL People-Based Destination]から[!DNL LinkedIn]を作成するための概念と手順について説明します。 [!UICONTROL People-Based Destinations]に関する追加のビデオとドキュメントに基づいて構築されます。
+このビデオでは、 [!UICONTROL People-Based Destination] から [!DNL LinkedIn]. ユーザーベースの宛先に関する追加のビデオおよびドキュメントを基に構築されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)を参照してください。
+詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
-[!UICONTROL People-Based Destinations] [HERE](https://adobe.ly/aamlearnpbd)に関する追加のビデオもご覧いただけます。
+また、People-based Destinations に関する追加のビデオも参照できます [ここ](https://adobe.ly/aamlearnpbd).

@@ -1,7 +1,7 @@
 ---
-title: プロファイル結合ルールを使用した認証済み状態でのパーソナライズ
+title: プロファイル結合ルールを使用して認証済み状態でパーソナライズする
 description: これらのプロファイル結合ルール設定を使用して、ログインした顧客にパーソナライズされたエクスペリエンスを提供する。
-feature: プロファイル結合
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 5357
 role: User
 level: Intermediate
 exl-id: 189b751f-b71a-4579-8e2d-fc0d24e7e148
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 4%
+source-wordcount: '42'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rules]を使用した認証済み状態のパーソナライズ
+# 用途 [!UICONTROL Profile Merge Rules] 認証済み状態でパーソナライズするには
 
-これらのプロファイル結合ルール設定を使用して、ログインした顧客にパーソナライズされたエクスペリエンスを提供する。
+ログインした顧客に対し、 [!UICONTROL Profile Merge Rule] 設定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

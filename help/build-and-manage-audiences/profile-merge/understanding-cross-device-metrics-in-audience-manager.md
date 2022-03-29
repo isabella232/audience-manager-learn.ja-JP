@@ -1,7 +1,7 @@
 ---
-title: Audience Managerのクロスデバイス指標について
-description: このビデオでは、デバイスプロファイルとクロスデバイスプロファイルの違いについて説明し、UIの数値がこれらの異なるプロファイルタイプと一致する場所を示します。
-feature: プロファイル結合
+title: Audience Managerでのクロスデバイス指標について
+description: デバイスプロファイルとデバイス間プロファイルの違い、およびインターフェイスの数値がこれらの異なるプロファイルタイプと一致する場合について説明します。
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 4876
 role: Admin
 level: Intermediate
 exl-id: 1075c33c-e230-456d-9ec7-70d8ad65f44b
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 2%
+source-wordcount: '64'
+ht-degree: 0%
 
 ---
 
-# Audience Managerのクロスデバイス指標について
+# Audience Managerでのクロスデバイス指標について
 
-このビデオでは、デバイスプロファイルとクロスデバイスプロファイルの違いについて説明し、UIの数値がこれらの異なるプロファイルタイプと一致する場所を示します。
+このビデオでは、デバイスプロファイルとデバイス間プロファイルの違い、およびインターフェイスの数値がこれらの異なるプロファイルタイプと一致する場所について学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)

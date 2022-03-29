@@ -1,7 +1,7 @@
 ---
-title: セグメント作成時のデータソースの選択
+title: セグメントを作成する際にデータソースを選択する
 description: Audience Managerで新しいセグメントを作成する際の、適切なデータソースの選択に関するヒントを説明します。
-feature: セグメント
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ kt: 6055
 role: User
 level: Beginner
 exl-id: 54ae8aad-dec6-4c38-bb9c-091ac7f7060f
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 7c0d2c510851c3bae949b62dfa361d85f27e682e
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 1%
+source-wordcount: '54'
+ht-degree: 0%
 
 ---
 
-# セグメント作成時のデータソースの選択
+# セグメントを作成する際にデータソースを選択する
 
 Audience Managerで新しいセグメントを作成する際の、適切なデータソースの選択に関するヒントを説明します。
 

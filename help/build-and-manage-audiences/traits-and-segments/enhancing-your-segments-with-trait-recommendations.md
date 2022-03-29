@@ -1,7 +1,7 @@
 ---
-title: 特性RecommendationsによるAAMセグメントの強化
-description: 特性レコメンデーションを利用すると、セグメントビルダーでセグメントを作成または編集する際に、セグメントルール内の特性に類似した他の特性についてのレコメンデーションが得られます。
-feature: セグメント
+title: Trait Recommendationsでセグメントを強化
+description: 特性Recommendationsを使用すると、セグメントを作成または編集する際に、セグメントルールの Trait に類似した、追加が可能な Trait に関するレコメンデーションが表示されます。
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,18 +11,19 @@ kt: 2431
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 2d1b66fc-0091-44d1-970a-f30d6d5cca4c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 32%
+source-wordcount: '104'
+ht-degree: 0%
 
 ---
 
-# [!DNL Trait Recommendations]によるAAM [!UICONTROL Segments]の強化 {#enhancing-your-aam-segments-with-trait-recommendations}
+# でセグメントを強化 [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
-[!DNL Trait Recommendations]を使用すると、[!DNL Segment Builder]で[!UICONTROL segment]を作成または編集する際に、[!UICONTROL segment]ルールの[!UICONTROL traits]に似た、追加の[!UICONTROL traits]に関するレコメンデーションが表示されます。
+を使用 [!UICONTROL Trait Recommendations]（でセグメントを作成または編集する際） [!UICONTROL Segments]を使用すると、セグメントルールの特性に類似した、追加が可能な特性に関するレコメンデーションが表示されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!DNL Trait Recommendations] はとの両方のデー [!UICONTROL first party] タで作 [!UICONTROL third party] 業し、追加のレコメンデーションを含めてターゲットオ [!UICONTROL traits] ーディエンスを増やすことができます。\
-この機能の詳細については、[ドキュメント](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html)を参照してください。
+[!UICONTROL Trait Recommendations] はファーストパーティとサードパーティの両方のデータで動作し、追加の推奨データを含めることができます。 [!UICONTROL Traits] ターゲットオーディエンスを増やします。
+
+この機能の詳細については、 [ドキュメント](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).

@@ -1,7 +1,7 @@
 ---
 title: タグマネージャーを使用したAudience Manager
-description: このビデオでは、タグ管理ソリューションを使用する際のAdobe Audience Managerの実装の基本について説明します。
-feature: 実装の基本
+description: タグ管理ソリューションを使用する際の、Adobe Audience Managerの実装に関する基本について説明します。
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,22 +10,22 @@ kt: 4051
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8559ff60-0755-4cbb-9f2c-d06ab37a64a4
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # タグマネージャーを使用したAudience Manager
 
-このビデオでは、タグ管理ソリューションを使用する際のAdobe Audience Managerの実装の基本について説明します。
+このビデオでは、タグ管理ソリューションを使用する際のAdobe Audience Manager実装の基本について説明します。
 
-次の使用例が強調表示されます。
+強調表示されているのは次の使用例です。
 
-* Adobe Analyticsを使用している場合にAdobe Experience Platform Launchを介して実装する
-* Adobe Analyticsを使用していない場合のAdobe Experience Platform Launchを介した実装
-* Adobe Analyticsを使用している場合に、Adobe以外のタグマネージャーを使用した実装
-* Adobe Analytics
+* Adobe Analyticsも使用する場合は、Adobe Experience Platformタグ（旧称 Launch）を使用して実装する
+* Adobe Analyticsを使用しない場合のAdobe Experience Platformタグを使用した実装
+* Adobe Analyticsを使用する場合、Adobe以外のタグマネージャーを使用した実装
+* Adobe Analyticsを使用しない場合に、Adobe以外のタグマネージャーを使用して実装する
 
 >[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

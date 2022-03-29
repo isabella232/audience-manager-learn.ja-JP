@@ -1,7 +1,7 @@
 ---
-title: お客様向けヒント — プロファイル結合ルールを最大限に活用する
-description: Acorantのマルチソリューションコンサルタント、Varun Kalra氏が、プロファイル結合ルール(PMR)の選択と使用に関するヒントを紹介します。
-feature: プロファイル結合
+title: 顧客ヒント — プロファイル結合ルールを最大限に活用する
+description: Acorant のマルチソリューションコンサルタントである Varun Kalra 氏が、プロファイル結合ルール (PMR) の選択と使用に関するヒントを紹介します。
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: article
@@ -11,21 +11,21 @@ kt: 6049
 role: User
 level: Beginner
 exl-id: 8aa800af-64c0-43e0-b05d-dbb4f4b0d05b
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 1%
+source-wordcount: '124'
+ht-degree: 0%
 
 ---
 
-# お客様向けヒント — プロファイル結合ルールを最大限に活用する
+# 顧客ヒント — プロファイル結合ルールを最大限に活用する
 
-**AcorantのマルチソリューションコンサルタントVarun Kalra**&#x200B;氏が、プロファ **イル結合ルール(PMR)の選択と使用に関するヒントを紹介します**。
+**バルンカラ**、マルチソリューションコンサルタント ( ) **一致**&#x200B;では、プロファイル結合ルール (PMR) の選択と使用に関するヒントを提供します。
 
-Varun Kalraは、シドニーを拠点とするAdobeソリューションパートナー — Acorantで働くマルチソリューションコンサルタントです。 Varunは、主に、Audience Manager、Adobe Analytics、AEPプロジェクトで動作し、データの検出、実装、サポート、イネーブルメントが含まれます。 ヒントには、次のようなトピックが含まれます。
+Varun Kalra は、シドニーを拠点とするAdobeソリューションパートナー — Acorant で働くマルチソリューションコンサルタントです。 Varun は、主に、Audience Manager、Adobe Analytics、AEP プロジェクトで機能します。このプロジェクトには、データの検出、実装、サポート、イネーブルメントが含まれます。 ヒントには、次のようなトピックが含まれます。
 
-* PMR設定のキャンペーン目標の特定
-* ターゲティングの使用例について詳しく説明します
-* 様々なPMR設定の使用例
+* PMR 設定のキャンペーン目標の特定
+* ターゲット設定の使用例について詳しく説明します
+* 様々な PMR 設定の使用例
 
-[Varun氏のヒントは、Experience League・コミュニティでお読みください。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Varun 氏のヒントをExperience League・コミュニティで読む。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)

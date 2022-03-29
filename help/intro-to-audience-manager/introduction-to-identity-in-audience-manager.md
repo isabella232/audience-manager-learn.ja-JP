@@ -1,8 +1,8 @@
 ---
-title: Audience ManagerでのIDの概要
-description: このビデオでは、Adobe Audience Manager が内部プロファイルやプロファイル結合、パートナーとの ID 同期などの ID 管理の仕組みについて学びます。
-landing-page-description: Audience Manager が ID を管理する仕組み、たとえば内部プロファイルやプロファイル結合、パートナーとの ID 同期などについて学びます。
-feature: ID同期
+title: Audience Managerでの ID の概要
+description: Audience Managerが ID を管理する方法（内部プロファイル、プロファイルの結合、パートナーとの ID 同期など）を確認します。
+landing-page-description: Audience Managerが ID を管理する方法（内部プロファイル、プロファイルの結合、パートナーとの ID 同期など）を確認します。
+feature: ID Syncs
 topics: null
 activity: understand
 doc-type: feature video
@@ -12,14 +12,14 @@ thumbnail: 34172.jpg
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 57e2274c-df69-4f1f-b999-a05b864023aa
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 83%
+source-wordcount: '71'
+ht-degree: 35%
 
 ---
 
-# Audience ManagerでのIDの概要
+# Audience Managerでの ID の概要
 
 このビデオでは、Adobe Audience Manager が内部プロファイルやプロファイル結合、パートナーとの ID 同期などの ID 管理の仕組みについて学びます。
 

@@ -1,7 +1,7 @@
 ---
 title: プロファイル結合ルールの強化 — 前提条件
 description: プロファイル結合ルールの強化のリリースに最適な準備方法の概要です。
-feature: プロファイル結合
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 3692
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: f455c256-30a0-4a4c-8617-2542dbe05a6b
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 5%
+source-wordcount: '34'
+ht-degree: 0%
 
 ---
 
 # [!UICONTROL Profile Merge Rule] 機能強化 — 前提条件
 
-[!UICONTROL Profile Merge Rule]機能強化のリリースに最適な準備方法の概要です。
+のリリースに最適な準備方法の概要 [!UICONTROL Profile Merge Rule] 機能強化。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

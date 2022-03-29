@@ -1,7 +1,7 @@
 ---
-title: シグナルダッシュボードを使用した上位の使用可能なシグナルの表示
-description: Data Explorerのシグナルダッシュボードに組み込みおよびカスタムテーブルを使用すると、Audience Managerに含まれる最新のデータをすばやく確認し、必要に応じてクリックスルーで特性を作成できます。 より効率的な新しいワークフローへようこそ。
-feature: 'データエクスプローラ '
+title: シグナルダッシュボードを使用して、使用可能な上位のシグナルをすばやく表示する
+description: Data Explorerのシグナルダッシュボードで、組み込みテーブルとカスタムテーブルを使用する方法を説明します。 最新のデータがAudience Managerされ、必要に応じてクリックスルーして特性を作成することもすばやく確認できます。 より効率的な新しいワークフローにようこそ！
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
@@ -11,19 +11,19 @@ kt: 2140
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: f7d50b2f-52a3-465d-89ba-337a10c26a1c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 1%
+source-wordcount: '176'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL Signals]ダッシュボードを使用して利用可能な上位[!UICONTROL Signals]をすばやく表示する {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
+# 以下を使用： [!UICONTROL Signals Dashboard] 使用可能なシグナルをすばやく表示する [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
 
-[!DNL Data Explorer]の[!UICONTROL Signals]ダッシュボードの組み込みおよびカスタムテーブルを使用すると、Audience Managerに入ってくる最新のデータをすばやく確認し、必要に応じてクリックスルーして特性を作成できます。 より効率的な新しいワークフローへようこそ。
+組み込みテーブルとカスタムテーブルを [!UICONTROL Signals Dashboard] in [!DNL Data Explorer]を使用すると、最新のデータがAudience Managerに入っているのをすばやく確認し、必要に応じてクリックスルーして特性を作成することもできます。 より効率的な新しいワークフローにようこそ！
 
 >[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
 
-[!DNL Data Explorer]、[!UICONTROL Signals]アプリと呼ばれるアプリをクリックすると、[!UICONTROL signals]上部のデフォルトのダッシュボードと新しい[!UICONTROL signals]が表示されます。 これら2つのデフォルトに加えて、検索を保存してダッシュボードに追加することで、機能の最前面ページで最も重要なデータをすばやく表示できます。
+クリックスルーして [!UICONTROL Data Explorer]、 [!UICONTROL Signals] アプリの場合は、上位のシグナルのデフォルトのダッシュボードと新しいシグナルが表示されます。 これら 2 つのデフォルトに加えて、検索を保存してダッシュボードに追加することで、最も重要なデータを機能の最前面ページにすばやく表示できます。
 
-[!DNL Data Explorer]の詳細については、[ドキュメント](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)を参照してください。
+詳しくは、 [!UICONTROL Data Explorer]，訪問 [Data Explorer — 概要、メリットおよび使用例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)) をクリックします。

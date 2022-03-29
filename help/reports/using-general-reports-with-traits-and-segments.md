@@ -1,7 +1,7 @@
 ---
-title: 特性とセグメントを用いた一般レポートの使用
-description: このビデオでは、特性とセグメントの数値を取得するために、Audience Managerの一般レポートを使用する方法を参照してください。
-feature: '"一般レポートとトレンドレポート"'
+title: 特性とセグメントでの一般レポートの使用
+description: このビデオでは、特性とセグメントの数値を取得するAudience Managerの一般レポートの使用方法を参照してください。
+feature: General & Trend Reports
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 6645
 role: User
 level: Beginner
 exl-id: 163ddd7b-e677-440c-92ca-53ac78e09f5a
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 5%
+source-wordcount: '54'
+ht-degree: 0%
 
 ---
 
-# 特性とセグメントを用いた一般レポートの使用
+# 特性とセグメントでの一般レポートの使用
 
-このビデオでは、特性とセグメントの数値を取得するために、Audience Managerの一般レポートを使用する方法を参照してください。
+このビデオでは、特性とセグメントの数値を取得するAudience Managerの一般レポートの使用方法を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: オーディエンスIDレポート
-description: オーディエンスIDレポートは、特性またはセグメントの合計訪問者数を、個人/家族のID定義別にレポートする機能を提供します。 このビデオを見て、Audience Managerレポートでの表示を確認してください。
+title: オーディエンス ID レポート
+description: オーディエンス ID レポートについて説明します。 このタイプのAudience Managerのレポートを使用すると、特性またはセグメントの合計母集団に関するレポートを、個人または ID の世帯定義別に作成できます。
 feature: profile merge
 topics: null
 audience: marketer
@@ -9,17 +9,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 27977.jpg
 kt: 3202
-translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 1%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
 
-# [!DNL Audience Identity] レポート
+# オーディエンス ID レポート
 
-[!DNL Audience Identity] レポートは、IDの合計訪問者数、 [!UICONTROL trait] または個人/家族の定義別の訪問者数 [!UICONTROL segment] をレポートする機能を提供します。このビデオを見て、Audience Managerレポートでの表示を確認してください。
+オーディエンス ID レポートを使用すると、特性またはセグメントの合計母集団に関するレポートを、ID の人物/世帯定義別に作成できます。 このビデオを見て、Audience Managerレポートでの表現を確認します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

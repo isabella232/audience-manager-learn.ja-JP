@@ -1,8 +1,7 @@
 ---
-title: Adobe Audience ManagerでのPeople-Based Destinations用セグメントの作成
-description: このビデオでは、People-Based Destinationsに使用するAudience Managerでのセグメントの作成手順を説明します。
-feature: '"People-based Destinations"'
-topics: null
+title: People-based Destinations のセグメントの作成
+description: このビデオでは、People-based Destinations で使用するAudience Managerでのセグメントの作成手順を説明します。
+feature: People-based Destinations
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -11,15 +10,15 @@ kt: 3690
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3e0d9a37-9677-4e4a-8ae6-c5a54ae99601
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 4%
+source-wordcount: '48'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL People-Based Destinations]のセグメントの作成
+# People-based Destinations のセグメントの作成
 
-このビデオでは、[!UICONTROL People-Based Destinations]に使用するAudience Managerの[!UICONTROL segment]の作成手順を説明します。
+このビデオでは、People-based Destinations で使用するAudience Managerでのセグメントの作成手順を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)

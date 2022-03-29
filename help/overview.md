@@ -1,6 +1,6 @@
 ---
-title: AnalyticsのビデオとTutorials
-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
+title: Audience Managerのビデオとチュートリアル
+description: Adobe Audience Managerのビデオとチュートリアルのコレクションです。
 feature: Overview
 topics: null
 activity: use
@@ -9,34 +9,34 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 2a831a60d68698d9b824f54e3d88ba540b57d83e
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 3%
+source-wordcount: '341'
+ht-degree: 0%
 
 ---
 
-# 概要
+# Audience Managerチュートリアル
 
-このたびは、Audience ManagerTutorialsサイトをご利用いただき、誠にありがとうございます。  これらのチュートリアルを[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)と共に使用すると、Adobe Audience Managerを使用して、Adobeのクラス最高の[!DNL data management platform]を使用するチャネルやデバイスでオーディエンスを作成し、アクティブにする方法をより深く理解できます。
+このたびは、Audience Managerチュートリアルサイトをご利用いただき、誠にありがとうございます。 これらのチュートリアルを [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) を使用すると、Adobe Audience Managerを使用して、Adobeのクラス最高のを使用するチャネルやデバイスでオーディエンスを作成およびアクティブ化する方法をより深く理解できます [!DNL data management platform].
 
-* **スタッフ** Pickshighlights私たちのお気に入りのコンテンツの一部を照らす
-* **左側のナビゲーション**&#x200B;で、トピック別およびサブトピック別にコンテンツを参照します。
-* 何を探しているかがわかっている場合は、ページ上部の&#x200B;**検索**&#x200B;フィールドを使用します
+* **スタッフのおすすめ** お気に入りのコンテンツの一部をハイライト
+* トピック別およびサブトピック別にコンテンツを参照 ( **左ナビゲーション**
+* 以下を使用： **検索** 何を探しているかがわかっている場合は、ページ上部のフィールド
 
 ## 最新情報
 
-* **[の概要( [!UICONTROL Profile Merge Rules] ビデオ)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
+* **[の概要 [!UICONTROL Profile Merge Rules] （ビデオ）](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
-   *マーケタ [!UICONTROL Profile Merge Rules] ーとは何か、その仕組み、その価値を理解する。*
+   *内容 [!UICONTROL Profile Merge Rules] は、その仕組みと、マーケターに対する価値です。*
 
 * **[[!UICONTROL Profile Merge Rule]例と使用例](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   *このビデオでは、の例とそ [!UICONTROL Profile Merge Rules] の意味、およびで解決される使用例を示 [!UICONTROL Profile Merge Rules] します。*
+   *このビデオでは、 [!UICONTROL Profile Merge Rules] その意味と使用例 [!UICONTROL Profile Merge Rules] を解決します。*
 
-* **[作成と設定[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
+* **[People-based Destinations の作成と設定](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   *Audience ManagerUIでのの設定方 [!DNL People-Based Destination] 法を説明します*
+   *設定方法を学ぶ [!DNL People-Based Destination] Audience ManagerUI*
 
 ## スタッフのおすすめ
 
@@ -44,41 +44,41 @@ ht-degree: 3%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="「モバイルiOS SwiftアプリケーションでのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_swift.png" />
+      <img alt="「Mobile iOS Swift Applications でのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_swift.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>モバイルiOSアプリでのExperience Cloudの実装</strong>
+    <strong>Mobile iOSアプリでのExperience Cloudの実装</strong>
     </a>
     </div>
     <p>
-    <em>iOS SwiftアプリにAdobe Experience Cloudソリューションを実装する方法を学びたいモバイルアプリ開発者に最適な出発点</em>
+    <em>iOS Swift アプリでAdobe Experience Cloudソリューションを実装する方法を学びたいモバイルアプリ開発者に最適な出発点</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="「モバイルAndroidアプリケーションでのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_android.png" />
+      <img alt="「Mobile Android アプリケーションでのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>モバイル[!DNL Android]アプリでのExperience Cloudの実装</strong>
+    <strong>MobileでのExperience Cloudの実装 [!DNL Android] アプリ</strong>
     </a>
     </div>
     <p>
-    <em>AndroidアプリにAdobe Experience Cloudソリューションを実装する方法を学びたいモバイルアプリ開発者に最適な出発点</em>
+    <em>Android アプリにAdobe Experience Cloudソリューションを実装する方法を学びたいモバイルアプリ開発者にとって最適な出発点</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="「モバイルObjective-CアプリケーションでのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_objective_c.png" />
+      <img alt="「Mobile Objective-C アプリケーションでのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Mobile Objective-CアプリでのExperience Cloudの実装</strong>
+    <strong>Mobile Objective-C アプリでのExperience Cloudの実装</strong>
     </a>
     </div>
     <p>
-    <em>Objective-CアプリでAdobe Experience Cloudソリューションを実装する方法を学びたいモバイルアプリ開発者に最適な出発点</em>
+    <em>Objective-C アプリでAdobe Experience Cloudソリューションを実装する方法を学びたいモバイルアプリ開発者に最適な出発点</em>
     <p>
   </td>
 </tr>

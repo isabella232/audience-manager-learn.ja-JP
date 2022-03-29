@@ -1,7 +1,7 @@
 ---
-title: 特性とセグメントを用いたトレンドレポートの使用
+title: 特性とセグメントに関するトレンドレポートの使用
 description: Audience Managerのトレンドレポートを使用して、特性とセグメントの経時的なパフォーマンスを確認する方法を説明します。
-feature: '"一般レポートとトレンドレポート"'
+feature: General & Trend Reports
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ kt: 6646
 role: User
 level: Beginner
 exl-id: 3c1560ae-c893-4055-b9d1-b748beb1218c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 5%
+source-wordcount: '54'
+ht-degree: 0%
 
 ---
 
-# 特性とセグメントを用いたトレンドレポートの使用
+# 特性とセグメントに関するトレンドレポートの使用
 
 Audience Managerのトレンドレポートを使用して、特性とセグメントの経時的なパフォーマンスを確認する方法を説明します。
 

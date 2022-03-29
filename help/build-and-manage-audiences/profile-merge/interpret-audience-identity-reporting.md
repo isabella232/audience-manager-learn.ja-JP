@@ -1,7 +1,7 @@
 ---
-title: オーディエンスIDレポートの解釈
-description: オーディエンスIDレポートは、IDの個人/世帯定義別に特性またはセグメントの合計母集団をレポートする機能を提供します。 このビデオを見て、Audience Managerレポートでの表示を確認してください。
-feature: プロファイル結合
+title: オーディエンス ID レポートの解釈
+description: オーディエンス ID レポートを使用すると、特性またはセグメントの合計母集団に関するレポートを、ID の人物/世帯定義別に作成できます。 このビデオを見て、Audience Managerレポートでの表現を確認します。
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 3694
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 90183636-e205-420b-bbcf-899a779f53a7
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 2%
+source-wordcount: '86'
+ht-degree: 0%
 
 ---
 
-# [!DNL Audience Identity Reporting]を解釈
+# オーディエンス ID レポートの解釈
 
-[!DNL Audience Identity Reporting] は、の合計母集団に関するレポートを、または個人/世帯 [!UICONTROL trait] 定 [!UICONTROL segment] 義別にレポートできる機能を提供します。このビデオを見て、Audience Managerレポートでの表示を確認してください。
+オーディエンス ID レポートを使用すると、特性またはセグメントの合計母集団に関するレポートを、ID の人物/世帯定義別に作成できます。 このビデオを見て、Audience Managerレポートでの表現を確認します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)

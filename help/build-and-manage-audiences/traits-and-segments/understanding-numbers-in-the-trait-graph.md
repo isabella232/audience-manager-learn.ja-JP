@@ -1,7 +1,7 @@
 ---
 title: 特性グラフの数値について
-description: 特性情報画面で特性に関して報告される数値を理解するためのヒントをいくつか紹介します。
-feature: 特性
+description: 特性情報画面の特性について、報告される数値を理解するためのヒントをいくつか紹介します。
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 6494
 role: User
 level: Beginner
 exl-id: 8e1a2410-6ed6-4bab-bc8c-3a15d903e119
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 2%
+source-wordcount: '42'
+ht-degree: 0%
 
 ---
 
 # 特性グラフの数値について
 
-特性情報画面で特性に関して報告される数値を理解するためのヒントをいくつか紹介します。
+特性情報画面の特性について、報告される数値を理解するためのヒントをいくつか紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)

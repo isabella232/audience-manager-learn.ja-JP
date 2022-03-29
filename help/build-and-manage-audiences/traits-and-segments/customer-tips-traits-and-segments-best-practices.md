@@ -1,7 +1,7 @@
 ---
-title: お客様向けヒント — 特性とセグメントのベストプラクティス
-description: Ally Financialのシニアマーケティングスペシャリスト、Matt Vittorioso氏が、特性とセグメントの管理に関するヒントを提供します。
-feature: セグメント
+title: 顧客向けヒント — 特性とセグメントのベストプラクティス
+description: Ally Financial のシニアマーケティングスペシャリスト、Matt Vittorioso 氏が、特性とセグメントの管理に関するヒントを紹介します。
+feature: Segments
 topics: null
 activity: use
 doc-type: article
@@ -11,21 +11,21 @@ kt: 6048
 role: User
 level: Beginner
 exl-id: 7001011a-c0e2-4879-89ad-e463dc9f5604
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
-# お客様向けヒント — 特性とセグメントのベストプラクティス
+# ユーザー向けヒント — 特性とセグメントのベストプラクティス
 
-**シニアマーケティングスペシャリストのMatt Vittorioso**&#x200B;氏が、特性と **[!DNL Ally Financial]**&#x200B;セグメントの管理に関するヒントを提供します。
+**マット・ヴィットリオソ**（シニアマーケティングスペシャリスト） **[!DNL Ally Financial]**&#x200B;では、特性とセグメントの管理に関するヒントを提供します。
 
-Matt Vittoriosoは、Ally Financialのデジタルマーケティングチームのシニアマーケティングスペシャリストです。 デジタルセグメント化チームを率い、Audience Managerに出入りするすべてのデータを担当します。 Mattは、社内のすべての関係者や外部のエージェンシーパートナーと緊密に連携し、Allyのすべてのキャンペーンに合わせて適切なセグメントを構築します。 ヒントには、次のようなトピックが含まれます。
+Matt Vittorioso は、Ally Financial のデジタルマーケティングチームのシニアマーケティングスペシャリストです。 デジタルセグメントチームを率い、Audience Manager に出し入れするすべてのデータを担当しています。 Matt は、すべての内部の関係者や外部の代理店パートナーと緊密に連携し、Ally のすべてのキャンペーンに適したセグメントが構築されるようにします。 ヒントには、次のようなトピックが含まれます。
 
 * 関係者との連携とコミュニケーション
-* 標準搭載の機能の利用
-* 特性とセグメントの定期的なレビュー
+* 標準搭載の機能の使用
+* 特性およびセグメントの定期的なレビュー
 
-[Mattのヒントは、Experience League・コミュニティでお読みください。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[Matt&#39;s Tips はExperience League・コミュニティで読む。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)

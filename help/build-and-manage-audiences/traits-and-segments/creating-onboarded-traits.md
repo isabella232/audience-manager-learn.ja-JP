@@ -1,7 +1,7 @@
 ---
 title: オンボードの特性の作成
 description: オンボードの特性をAudience Managerで作成する際のヒント
-feature: 特性
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6215
 role: User
 level: Beginner
 exl-id: b240e1c6-1cc6-44c0-aee5-35ca972ab919
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '25'
-ht-degree: 4%
+source-wordcount: '24'
+ht-degree: 0%
 
 ---
 

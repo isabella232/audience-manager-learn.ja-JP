@@ -1,7 +1,7 @@
 ---
-title: 宛先へのAudience Managerセグメントのマッピング
-description: 宛先の様々なタイプと、Audience Managerを各宛先タイプにマッピングする方法について説明します。
-feature: セグメント
+title: Audience Managerセグメントの宛先へのマッピング
+description: Audience Manager内の様々なタイプの宛先と、各宛先タイプにセグメントをマッピングする方法について説明します。
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 6056
 role: User
 level: Beginner
 exl-id: d633d87e-10fc-43f7-9089-70acc6f6894e
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 1%
+source-wordcount: '52'
+ht-degree: 0%
 
 ---
 
-# 宛先へのAudience Managerセグメントのマッピング
+# Audience Managerセグメントの宛先へのマッピング
 
-宛先の様々なタイプと、Audience Managerを各宛先タイプにマッピングする方法について説明します。
+Audience Manager内の様々なタイプの宛先と、各宛先タイプにセグメントをマッピングする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39158/?quality=12&learn=on)

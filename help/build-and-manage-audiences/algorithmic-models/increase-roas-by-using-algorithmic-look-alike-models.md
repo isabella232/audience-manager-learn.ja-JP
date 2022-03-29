@@ -1,6 +1,6 @@
 ---
-title: Audience Managerでのアルゴリズム（類似）モデルを使用したROASの向上
-description: Audience Managerの類似(look-alike)モデリングの真の力は、セカンドパーティおよびサードパーティのデータソースから得られる一連の新しいユーザーに対して、ベースラインオーディエンスを拡大しようとするときに得られます。 このチュートリアルでは、このデータからモデルを作成する手順を説明します。
+title: アルゴリズム（類似）モデルを使用して ROAS を増やす
+description: Audience Managerの類似モデリングの真の力は、セカンドパーティおよびサードパーティのデータソースから得られる、高品質で新しいユーザーセットに対してベースラインオーディエンスを拡大しようとするときです。 このチュートリアルでは、このデータからモデルを作成する手順を説明します。
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -11,55 +11,55 @@ kt: 1849
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '909'
 ht-degree: 0%
 
 ---
 
-# Audience Managerでアルゴリズム(類似(look-alike) [!UICONTROL Models]を使用してROASを増やす {#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager}
+# Audience Managerでアルゴリズム（類似）モデルを使用して ROAS を増やす {#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager}
 
-Audience Managerの類似(look-alike) [!UICONTROL Modeling]の実力は、[!UICONTROL second party]と[!UICONTROL third party] [!UICONTROL data sources]の質の高い、新しいユーザーセットに対してベースラインオーディエンスを拡大しようとするときに生じます。 このチュートリアルでは、このデータから[!UICONTROL model]を作成するために必要な手順を説明します。
+Audience Managerの類似 (look-alike) の真の力 [!UICONTROL Modeling] は、セカンドパーティおよびサードパーティのデータソースから提供される、品質の高い新しいユーザーセットに対してベースラインオーディエンスを拡大しようとするときに発生します。 このチュートリアルでは、このデータからモデルを作成するために必要な手順を説明します。
 
-## Audience Marketplaceから[!UICONTROL Second Party]または[!UICONTROL Third Party]データストリームを有効にする {#enable-2nd-or-3rd-party-data-streams-from-the-audience-marketplace}
+## Audience Marketplaceからのセカンドパーティまたはサードパーティのデータストリームの有効化 {#enable-2nd-or-3rd-party-data-streams-from-the-audience-marketplace}
 
-[!UICONTROL second party]と[!UICONTROL third party]のデータを類似(look-alike)[!UICONTROL model]で使用するには、まずこのデータをAudience Managerインターフェイスで有効にする必要があります。 Adobeには、多数の[!UICONTROL second party]および[!UICONTROL third party]データプロバイダーがあり、ここから選択できます。 これらは、AAMのセルフサービスインターフェイスで、Audience Marketplaceを介して使用できます。 Audience Marketplaceに移動し、可能性を参照します。 次のビデオでは、無料の「購入前に試す」ストリームを有効にする方法を含め、データプロバイダーの価格設定にコミットする前に組織で最も役立つデータをロックインする方法を示します。
+類似モデルでセカンドパーティとサードパーティのデータを使用するには、まず、Audience Managerインターフェイスでこのデータを有効にする必要があります。 Adobeには、多数のセカンドパーティおよびサードパーティのデータプロバイダーがあり、これらから選択できます。 これらは、AAMのセルフサービスインターフェイスで、Audience Marketplaceを介して使用できます。 Audience Marketplaceに移動し、可能性を参照します。 次のビデオでは、無料の「購入前に試す」ストリームを有効にする方法を含め、データプロバイダーの価格設定にコミットする前に組織で最も役立つデータをロックインする方法を示します。
 
-また、使用するデータプロバイダーの調査と決定に役立つように、[[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/)が大きなリソースとなります。
+また、使用するデータプロバイダーの調査と決定に役立つ重要なリソースは、です [[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25188/?quality=12)
 
-## 理想的なユーザー（コンバージョン）を特定/作成する[!UICONTROL trait]または[!UICONTROL segment] {#identify-create-an-ideal-user-conversion-trait-or-segment}
+## 理想的なユーザー（コンバージョン）の特性またはセグメントを特定または作成する {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
-サイト上でユーザーに何をしてもらおうとしていますか。 コンバージョンイベントの種類 もちろん、サイトのタイプ/垂直方式や組織の目標に応じて、この質問に対する様々な回答があります。 いずれの場合も、AAMでは、これらの条件を満たした訪問者の[!UICONTROL trait]を作成するのが一般的です。
+サイト上で担当者に何をしてもらおうとしていますか？ コンバージョンイベントは何ですか？ もちろん、サイトのタイプ/バーティカル、組織の目標に応じて、この質問に対する様々な回答があります。 いずれの場合も、AAMでは、これらの条件を満たした訪問者の特性を作成するのが一般的です。
 
-以下のビデオでは、コンバージョン[!UICONTROL trait]の作成方法を紹介します。このチュートリアルを続けて類似した[!UICONTROL model]を作成する際に、このコンバージョンを用意しておきます。
+以下のビデオでは、コンバージョン特性の作成方法を示します。このチュートリアルを続けて類似モデルを作成する際に、この特性を適切に使用する方法を示します。
 
-また、Adobe Analyticsイベントを使用して[!UICONTROL traits]を作成する場合、[!UICONTROL trait]に収集するよりも多くのユーザーを収集しないように、主な了解事項に留意する必要があります。 次のビデオで大きなリビールをご覧ください。:)
+また、Adobe Analyticsイベントを使用して特性を作成する場合、特性に必要な数より多くのユーザーを収集しないように、主な注意事項があることに注意する必要があります。 次のビデオで大きなリビールをご覧ください。 :)
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：** 上のビデオでは、この例は、Adobe Analyticsがあると仮定しています。明らかに、これはそうでないかもしれない。 Google Analytics(GA)をお持ちの場合は、データをAAMに送信するために使用できるモジュールが用意されています（[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)を参照）。サイトのコンバージョンアクティビティがGAによってAAMに送信された場合は、そこからコンバージョン[!UICONTROL trait]を作成できます。 別のDILソリューションがある（または分析ソリューションがない）場合でも、分析コードや`submit`関数などを使用してAAMにデータを送信できます。 （[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)を参照）。 次に、サイトでコンバージョンアクティビティが実行されたときに送信されたデータに基づいてコンバージョン[!UICONTROL trait]を作成します。
+**注意：** 上のビデオでは、この例は、Adobe Analyticsを使用していることを前提としています。 明らかに、そうでないかもしれない。 Google Analytics(GA) をお持ちの場合は、AAMにデータを送信する際に使用できるモジュールが用意されています ( [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)) を含め、サイト上のコンバージョンアクティビティが GA によってAAMに送信されている場合は、そこからコンバージョン特性を作成できます。 別の分析ソリューションがある場合（または分析ソリューションがない場合）も、DILコードと `submit` 機能等 ( [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)) をクリックします。 次に、サイトでコンバージョンアクティビティが実行されたときに送信されたデータに基づいてコンバージョン特性を作成します。
 
-## [!UICONTROL Second Party]または[!UICONTROL Third Party]データから類似(look-alike) [!UICONTROL Model]を作成します {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
+## セカンドパーティまたはサードパーティのデータから類似 (look-alike) モデルを作成する {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 
-上記の手順を完了したら、アルゴリズム（類似） [!UICONTROL Model]を作成する準備が整いました。 [!UICONTROL model]を設定する際に、コンバージョン[!UICONTROL trait]をベース[!UICONTROL trait]（複製したい主要訪問者）として使用し、有効になっている[!UICONTROL third party]データストリームをプル元の人々のプールとして使用します。
+上記の手順を完了したら、アルゴリズム（類似）モデルを作成する準備が整いました。 モデルを設定する際に、コンバージョン特性をベース特性（複製したい主要訪問者）として使用し、有効なサードパーティデータストリームをプールとして使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25190/?quality-12)
 
 ## 重要なベストプラクティス {#an-important-best-practice}
 
-Audience Managerでアルゴリズムの[!UICONTROL model]を作成する場合は、必ず[!UICONTROL model]をできるだけ有効にしておきたいと思います。 [!UICONTROL model]は、[!UICONTROL trait]/[!UICONTROL segment]のメンバーが含まれる[!UICONTROL traits]をすべて検討しているので、すべての人が[!UICONTROL trait]/[!UICONTROL segment]にいる場合、[!UICONTROL model]は役に立ちません。 したがって、（サイトを訪問した全員や、自分から広告を受け取った全員など）超汎用の[!UICONTROL traits]がある場合は、その属する[!UICONTROL data source]が[!UICONTROL model]の[!UICONTROL data sources]に含まれていないことを確認します。 この記事の使用例では、新しいルックエイリクスの[!UICONTROL third party]データを見ることに集中しているので、そうは思わないでしょうが、とにかく言及する価値があり、すべてのアルゴリズム[!UICONTROL models]に適用されます。
+Audience Managerでアルゴリズムモデルを作成する場合、明らかにモデルをできるだけ有効にしたいと考えます。 モデルでは基本特性/セグメントのメンバーが属するすべての特性が考慮されるので、すべての人が特性/セグメントに属している場合、モデルは役に立ちません。 したがって、超一般的な特性（サイトにアクセスしたすべてのユーザーや、自分から広告を受け取ったすべてのユーザーなど）がある場合は、その属するデータソースがモデルのデータソースに含まれていないことを確認します。 この記事の使用例では、新しいルックエイクのサードパーティデータを見ることに重点を置いていますが、とにかく言及する価値があり、すべてのアルゴリズムモデルに適用されるので、そうは思われません。
 
-## アルゴリズム[!UICONTROL Trait]の作成 {#creating-an-algorithmic-trait}
+## [!UICONTROL Algorithmic Trait] {#creating-an-algorithmic-trait}
 
-次に、[!UICONTROL model]の結果を使用できるように、アルゴリズム[!UICONTROL Trait]を作成する必要があります。 [!UICONTROL trait]を作成しないと、モデルは役に立ちません。 したがって、[!UICONTROL model]の実行後は、必ず[!UICONTROL trait]ダイアログを開き、アルゴリズム[!UICONTROL Trait]を作成してください。 次のビデオでは、この機能に関する手順を説明し、いくつかのヒントを示します。
+次に、  [!UICONTROL Algorithmic Trait]を使用して、モデルの結果を使用できるようにします。 特性を作成しないと、モデルは役に立ちません。 したがって、モデルの実行後は、必ず特性ダイアログで [!UICONTROL Algorithmic Trait]. 次のビデオでは、このビデオに関する手順を説明し、いくつかのヒントを示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25191/?quality=12)
 
-## [!UICONTROL Model]データから[!UICONTROL Segment]を作成し、DSPに送信する {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
+## モデルデータからセグメントを作成し、DSPに送信する {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
 
-アルゴリズム[!UICONTROL Trait]を作成したら、新しい[!UICONTROL segment]を作成してデータをアクティブ化できます([!UICONTROL trait]はアクティブ化できませんが、[!UICONTROL Trait]を含む1 ～ [!UICONTROL trait] [!UICONTROL segment]を新しく作成して、[!UICONTROL segment]をアクティブ化（使用）できます)。
+以下を作成したら、 [!UICONTROL Algorithmic Trait]を使用すると、新しいセグメントを作成してデータをアクティブ化できます ( 特性をアクティブ化することはできませんが、 [!UICONTROL Algorithmic Trait] セグメントをアクティブ化（使用）できるようにする。
 
-このアルゴリズム[!UICONTROL trait]から[!UICONTROL segment]を作成すると、サイト上でコンバージョン済みの人のように見える、潜在的なクライアントのオーディエンスが得られます。 これで、この[!UICONTROL segment]を、Audience Manager内の任意のDSP [!UICONTROL destinations]にマッピングできます。 通常の一般ユーザーよりもサイト上でコンバージョンする可能性の高いルックエイクスにマーケティングのターゲットを設定し、広告費用対効果を高めることができます。 頑張れ！
+このアルゴリズム特性からセグメントを作成すると、サイト上で既にコンバージョン済みの人物のように見える、潜在的なクライアントのオーディエンスが得られます。 これで、このセグメントを、Audience Manager内の任意のDSP宛先にマッピングできます。 通常の一般公開よりもサイト上でコンバージョンに至る可能性の高いルックエイクにマーケティングのターゲットを絞り、広告費用対効果を高めることができます。

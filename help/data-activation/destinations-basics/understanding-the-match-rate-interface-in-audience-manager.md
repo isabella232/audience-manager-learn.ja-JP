@@ -1,6 +1,6 @@
 ---
-title: Audience Managerのマッチ率インターフェイスについて
-description: このビデオでは、宛先インターフェイスに関する手順を説明し、マッチ率とアドレス可能なオーディエンスに関連する数値について説明します。
+title: Match Rate インターフェイスについて
+description: マッチ率およびアドレス可能なオーディエンスに関連する数値の表示と説明を行う宛先インターフェイスについて説明します。
 feature: Match Rates
 doc-type: feature video
 thumbnail: 29831.jpg
@@ -8,17 +8,17 @@ kt: 4034
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 903f8329-a434-4938-b190-600fc03b571d
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-# Audience Managerのマッチ率インターフェイスについて
+# 「一致率」インターフェイスのAudience Manager
 
-このビデオでは、[!UICONTROL destination]インターフェイスの手順を説明し、マッチ率と[!DNL addressable audiences]に関連する数値について説明します。
+このビデオでは、 [!UICONTROL Destination] マッチ率およびアドレス可能なオーディエンスに関連する数値の表示と説明を行うインターフェイス
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html)を参照してください。
+詳しくは、 [アドレス可能なオーディエンス](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) 製品ドキュメント内。

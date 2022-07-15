@@ -1,7 +1,7 @@
 ---
 title: Audience Managerでの ID の概要
-description: Audience Managerが ID を管理する方法（内部プロファイル、プロファイルの結合、パートナーとの ID 同期など）を確認します。
-landing-page-description: Audience Managerが ID を管理する方法（内部プロファイル、プロファイルの結合、パートナーとの ID 同期など）を確認します。
+description: Audience Manager が ID（内部プロファイルやプロファイル結合、パートナーとの ID 同期など）を管理する仕組みについて学びます。
+landing-page-description: Audience Manager が ID（内部プロファイルやプロファイル結合、パートナーとの ID 同期など）を管理する仕組みについて学びます。
 feature: ID Syncs
 topics: null
 activity: understand
@@ -15,7 +15,7 @@ exl-id: 57e2274c-df69-4f1f-b999-a05b864023aa
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 35%
+ht-degree: 83%
 
 ---
 

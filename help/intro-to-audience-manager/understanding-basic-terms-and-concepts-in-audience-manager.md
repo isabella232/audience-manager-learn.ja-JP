@@ -1,7 +1,7 @@
 ---
 title: Audience Managerの基本用語と概念について
-description: このサポートビデオで、シグナル、特性、セグメントなど、Adobe Audience Managerを開始するための基本的な用語と概念について説明します。
-landing-page-description: このサポートビデオで、シグナル、特性、セグメントなど、Adobe Audience Managerを開始するための基本的な用語と概念について説明します。
+description: このサポートビデオでは、信号、特性、セグメントなど、Adobe Audience Manager を使いはじめるための基本的な用語と概念について説明します。
+landing-page-description: このサポートビデオでは、信号、特性、セグメントなど、Adobe Audience Manager を使いはじめるための基本的な用語と概念について説明します。
 feature: Overview
 topics: null
 activity: understand
@@ -14,8 +14,8 @@ level: Beginner
 exl-id: 9721e178-b92d-427b-8621-9ca1958d934c
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 31%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

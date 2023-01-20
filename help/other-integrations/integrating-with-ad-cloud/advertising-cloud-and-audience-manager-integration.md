@@ -1,7 +1,7 @@
 ---
-title: Adobe Advertising CloudとAdobe Audience Managerの統合
-description: Adobe Audience ManagerとAdobe Ad Cloudの統合の仕組みについて説明します。 また、一致率とサードパーティ Cookie の同期に関する回答も得られます。
-feature: Advertising Cloud Integration
+title: Adobe広告とAdobe Audience Managerの統合
+description: Adobe Audience ManagerとAdobe広告の統合の仕組みについて説明します。 また、一致率とサードパーティ Cookie の同期に関する回答も得られます。
+feature: Advertising Integration
 topics: null
 activity: understand
 doc-type: technical video
@@ -12,15 +12,15 @@ topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 92041f1c-6a05-4705-a56d-df5e9dbddac0
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d0812450ddc8c7398e7bb58b40dbb1c3818d7215
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Adobe Advertising CloudとAdobe Audience Managerの統合 {#adobe-advertising-cloud-and-adobe-audience-manager-integration}
+# Adobe広告とAdobe Audience Managerの統合
 
-Adobe Audience Managerと [!DNL Adobe Ad Cloud] は機能します。 また、一致率とサードパーティ Cookie の同期に関する回答も得られます。
+Adobe Audience Managerと [!DNL Adobe Advertising] は機能します。 また、一致率とサードパーティ Cookie の同期に関する回答も得られます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)

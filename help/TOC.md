@@ -55,7 +55,7 @@ ht-degree: 4%
 + オフラインデータの統合 {#integrating-offline-data}
    + [ファイルベースのデータの形式設定と取り込み](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [ファイルベースのデータを取り込む手順](integrating-offline-data/steps-for-ingesting-file-based-data.md)
-+ Mobile実装 {#mobile-implementation}
++ モバイルの実装 {#mobile-implementation}
    + [iOS Swift アプリケーションでの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
    + [iOS Objective-C アプリケーションへの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Android アプリケーションでの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
@@ -163,4 +163,4 @@ ht-degree: 4%
    + Ad Cloudとの統合 {#integrating-with-ad-cloud}
       + [Adobe Advertising CloudとAdobe Audience Managerの統合](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
-   + [Adobe開発者での API 資格情報の取得](api/retrieve-api-credentials-in-adobe-io.md)
+   + [Adobe Developerでの API 資格情報の取得](api/retrieve-api-credentials-in-adobe-io.md)

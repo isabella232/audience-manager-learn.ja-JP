@@ -9,10 +9,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
+source-git-commit: 8a0bc70bb543556a0ab68e428beaa58ca09deddc
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 2%
+source-wordcount: '312'
+ht-degree: 5%
 
 ---
 
@@ -54,42 +54,42 @@ ht-degree: 2%
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="「モバイルiOS Swift アプリケーションでのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_swift.png" />
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <img alt="「Web SDK によるAdobe Experience Cloudの実装チュートリアル」チュートリアルのサムネール画像" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>モバイルiOSアプリでのExperience Cloudの実装</strong>
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+    <strong>Web SDK を使用した Adobe Experience Cloud 実装のチュートリアル</strong>
     </a>
     </div>
     <p>
-    <em>iOS Swift アプリでAdobe Experience Cloudソリューションを実装する方法を学びたいモバイルアプリ開発者に最適な出発点</em>
+    <em>Adobe Experience Platform Web SDK を使用してExperience Cloudアプリケーションを実装する方法について説明します。</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="「モバイル Android アプリケーションでのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_android.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <img alt="「リアルタイム CDP のセグメントについて」チュートリアルのサムネール画像" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>モバイルでのExperience Cloudの実装 [!DNL Android] アプリ</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <strong>Audience Managerユーザー向けのリアルタイム CDP のセグメントについて</strong>
     </a>
     </div>
     <p>
-    <em>Android アプリにAdobe Experience Cloudソリューションを実装する方法を学びたいモバイルアプリ開発者にとって最適な出発点</em>
+    <em>このビデオでは、セグメントと、Audience Managerとリアルタイム CDP のセグメント作成の違いについて説明します。</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="「Mobile Objective-C Applications でのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_objective_c.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <img alt="「Audience Managerでの Predictive Audiences の設定とレポート」チュートリアルのサムネール画像" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Mobile Objective-CExperience Cloudでのアプリの実装</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <strong>Audience Managerの Predictive Audiences の設定とレポート</strong>
     </a>
     </div>
     <p>
-    <em>Objective-C アプリでAdobe Experience Cloudソリューションを実装する方法を学びたいモバイルアプリ開発者に最適な出発点</em>
+    <em>このビデオでは、Audience Managerインターフェイスの Predictive Audiences 設定について説明します。</em>
     <p>
   </td>
 </tr>

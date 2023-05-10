@@ -9,21 +9,22 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
 workflow-type: tm+mt
 source-wordcount: '341'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # Audience Managerチュートリアル
 
-このたびは、Audience Managerチュートリアルサイトをご利用いただき、誠にありがとうございます。 これらのチュートリアルを [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) を使用すると、Adobe Audience Managerを使用して、Adobeのクラス最高のを使用するチャネルやデバイスでオーディエンスを作成およびアクティブ化する方法をより深く理解できます [!DNL data management platform].
+このたびは、Audience Managerチュートリアルサイトをご利用いただき、誠にありがとうございます。 これらのチュートリアルを [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja) を使用すると、Adobe Audience Managerを使用して、Adobeのクラス最高のを使用するチャネルやデバイスでオーディエンスを作成およびアクティブ化する方法をより深く理解できます [!DNL data management platform].
 
 * **スタッフのおすすめ** お気に入りのコンテンツの一部をハイライト
 * トピック別およびサブトピック別にコンテンツを参照 ( **左ナビゲーション**
 * 以下を使用： **検索** 何を探しているかがわかっている場合は、ページ上部のフィールド
 
+<div id="whats-new-section">
 ## 最新情報
 
 * **[の概要 [!UICONTROL Profile Merge Rules] （ビデオ）](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
@@ -37,6 +38,16 @@ ht-degree: 0%
 * **[People-based Destinations の作成と設定](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
    *設定方法を学ぶ [!DNL People-Based Destination] Audience ManagerUI*
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## スタッフのおすすめ
 
@@ -44,11 +55,11 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="「Mobile iOS Swift Applications でのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_swift.png" />
+      <img alt="「モバイルiOS Swift アプリケーションでのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_swift.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>Mobile iOSアプリでのExperience Cloudの実装</strong>
+    <strong>モバイルiOSアプリでのExperience Cloudの実装</strong>
     </a>
     </div>
     <p>
@@ -57,11 +68,11 @@ ht-degree: 0%
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="「Mobile Android アプリケーションでのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_android.png" />
+      <img alt="「モバイル Android アプリケーションでのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>MobileでのExperience Cloudの実装 [!DNL Android] アプリ</strong>
+    <strong>モバイルでのExperience Cloudの実装 [!DNL Android] アプリ</strong>
     </a>
     </div>
     <p>
@@ -70,11 +81,11 @@ ht-degree: 0%
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="「Mobile Objective-C アプリケーションでのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_objective_c.png" />
+      <img alt="「Mobile Objective-C Applications でのExperience Cloudの実装」チュートリアルのサムネール画像" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Mobile Objective-C アプリでのExperience Cloudの実装</strong>
+    <strong>Mobile Objective-CExperience Cloudでのアプリの実装</strong>
     </a>
     </div>
     <p>
@@ -83,3 +94,4 @@ ht-degree: 0%
   </td>
 </tr>
 </table>
+</div>

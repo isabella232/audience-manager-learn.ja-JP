@@ -9,36 +9,23 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 8a0bc70bb543556a0ab68e428beaa58ca09deddc
+source-git-commit: 2f902a00139942e14b0a108c7515745cfe6d52ec
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 5%
+source-wordcount: '223'
+ht-degree: 0%
 
 ---
 
 # Audience Managerチュートリアル
 
-このたびは、Audience Managerチュートリアルサイトをご利用いただき、誠にありがとうございます。 これらのチュートリアルを [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja) を使用すると、Adobe Audience Managerを使用して、Adobeのクラス最高のを使用するチャネルやデバイスでオーディエンスを作成およびアクティブ化する方法をより深く理解できます [!DNL data management platform].
+このたびは、Audience Managerチュートリアルサイトをご利用いただき、誠にありがとうございます。 これらのチュートリアルを、 [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja) を使用すると、Adobe Audience Managerを使用して、Adobeのクラス最高のを使用するチャネルやデバイスでオーディエンスを作成およびアクティブ化する方法をより深く理解できます [!DNL data management platform].
 
+* 詳しくは、 **新機能** 以下の節で、最新の更新および機能について説明します。
 * **スタッフのおすすめ** お気に入りのコンテンツの一部をハイライト
 * トピック別およびサブトピック別にコンテンツを参照 ( **左ナビゲーション**
-* 以下を使用： **検索** 何を探しているかがわかっている場合は、ページ上部のフィールド
+* 以下を使用します。 **検索** 何を探しているかがわかっている場合は、ページ上部のフィールド
 
-<div id="whats-new-section">
-## 最新情報
 
-* **[の概要 [!UICONTROL Profile Merge Rules] （ビデオ）](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
-
-   *内容 [!UICONTROL Profile Merge Rules] は、その仕組みと、マーケターに対する価値です。*
-
-* **[[!UICONTROL Profile Merge Rule]例と使用例](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
-
-   *このビデオでは、 [!UICONTROL Profile Merge Rules] その意味と使用例 [!UICONTROL Profile Merge Rules] を解決します。*
-
-* **[People-based Destinations の作成と設定](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
-
-   *設定方法を学ぶ [!DNL People-Based Destination] Audience ManagerUI*
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -59,7 +46,7 @@ ht-degree: 5%
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
-    <strong>Web SDK を使用した Adobe Experience Cloud 実装のチュートリアル</strong>
+    <strong>Web SDK を使用したAdobe Experience Cloudの実装のチュートリアル</strong>
     </a>
     </div>
     <p>
